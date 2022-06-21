@@ -65,14 +65,22 @@ Passar bem!
 <sub>(1)</sub>De fato, os mestres do estoicismo antigo aconselhavam aos seus discípulos a participação na vida política da cidade, v. por ex. S. V. F., III, 611, 697, 698, embora nenhum deles tivesse tido qualquer acção relevante como político. No entanto, [Zenão](https://pt.wikipedia.org/wiki/Zen%C3%A3o_de_C%C3%ADtio) acedeu a um pedido de Antígono Gónatas e enviou à corte deste o seu discípulo Perseu (v. S. V. F., I, 439). A esta relativa contradição entre os preceitos e a prática dos mestres estóicos alude Séneca em De tranq. an., I, 10: "([Zenão](https://pt.wikipedia.org/wiki/Zen%C3%A3o_de_C%C3%ADtio), [Cleantes](https://pt.wikipedia.org/wiki/Cleantes_de_Assos), [Crisipo](https://pt.wikipedia.org/wiki/Crisipo_de_Solos)): nenhum deles participou na vida política, mas todos incitaram os seus discípulos à participação''. Em De otio, III, 2 Séneca resume concisamente a oposição entre epicuristas e estóicos a respeito desta questão: "[Epicuro](https://pt.wikipedia.org/wiki/Epicuro) diz que o sábio não participará na vida política senão em circunstâncias excepcionais. Para [Zenão](https://pt.wikipedia.org/wiki/Zen%C3%A3o_de_C%C3%ADtio), o sábio deve participar na política, a menos que a gravidade da situação disso o impeça."  
 <sub>(2)</sub>Isto é, os doentes de gota.  
 
-:book: [Cartas a Lucílio](https://www.skoob.com.br/cartas-a-lucilio-37684ed41245.html)
+## Versão Papel :book:
 
 ISBN-13: 9789723105360 / ISBN-10: 9723105365  
 Ano: 2009 / Páginas: 713  
 Idioma: português de Portugal   
 **Editora:** Fundação Calouste Gulbenkian
 
-## Versão Papel :book:
-
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=mundodekeika-20&marketplace=amazon&amp;region=BR&placement=9723105365&asins=9723105365&linkId=fb8dc16224bc0c2b7943ec769c5b5905&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe>
+
+
+## No Skoob :eagle:
+
+:book: [Cartas a Lucílio - 4 edição](https://www.skoob.com.br/cartas-a-lucilio-37684ed41245.html)
+
+
+## Índice das Cartas
+
+Índice das 124 cartas publicadas : [📚 Cartas a Lucílio]({{< ref "/Cartas-a-Lucilio" >}})

@@ -206,7 +206,7 @@ Idioma: português de Portugal
 
 :book: [Carta 67]({{< ref "/cartas/carta-67" >}} "Carta 67 - “Amolecer num ócio imperturbado, isso não é tranquilidade, é paz podre!") - Amolecer num ócio imperturbado, isso não é tranquilidade, é paz podre!
 
-:book: [Carta 68]({{< ref "/post/2021-09-05-carta-68" >}} "Carta 68 - “Que me importa a mim estar abaixo de todos os outros se conseguir erguer-me acima da fortuna!") - Que me importa a mim estar abaixo de todos os outros se conseguir erguer-me acima da fortuna!
+:book: [Carta 68]({{< ref "/cartas/carta-68" >}} "Carta 68 - “Que me importa a mim estar abaixo de todos os outros se conseguir erguer-me acima da fortuna!") - Que me importa a mim estar abaixo de todos os outros se conseguir erguer-me acima da fortuna!
 
 :book: [Carta 69]({{< ref "/post/2021-09-06-carta-69" >}} "Carta 69 - “Os vícios tentam-te oferecendo paga em troca") - Os vícios tentam-te oferecendo paga em troca
 

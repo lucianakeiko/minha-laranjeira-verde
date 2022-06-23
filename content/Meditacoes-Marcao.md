@@ -322,8 +322,11 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 47]({{< ref "/post/2022-06-21-livro-4-teco-47" >}} 
 "Não consideres grande vantagem morrer daqui a tantos anos em vez de amanhã") - Não consideres grande vantagem morrer daqui a tantos anos em vez de amanhã
 
-:books: L4 - :book: [Teco 47]({{< ref "/post/2022-06-22-livro-4-teco-48" >}} 
+:books: L4 - :book: [Teco 48]({{< ref "/post/2022-06-22-livro-4-teco-48" >}} 
 "Vive-o segundo a natureza e acaba sem revolta") - Vive-o segundo a natureza e acaba sem revolta
+
+:books: L4 - :book: [Teco 49]({{< ref "/post/2022-06-23-livro-4-teco-49" >}} 
+"Feliz de mim, porque, tendo-me isso acontecido, continuo a salvo do sofrimento, sem que me fira o presente nem me atemorize o futuro") - Feliz de mim, porque, tendo-me isso acontecido, continuo a salvo do sofrimento, sem que me fira o presente nem me atemorize o futuro	
 
 
 ### :books: LIVRO 5  ( Tecos 1 a 36 )

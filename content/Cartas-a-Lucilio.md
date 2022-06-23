@@ -212,7 +212,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO VIII (Cartas 70-74)
 
-:book: [Carta 70]({{< ref "/post/2021-09-07-carta-70" >}} "Carta 70 - Morrer mais tarde - é questão irrelevante; relevante é, sim, saber se se morre com dignidade ou sem ela!") - Morrer mais tarde - é questão irrelevante; relevante é, sim, saber se se morre com dignidade ou sem ela!
+:book: [Carta 70]({{< ref "/cartas/carta-70" >}} "Carta 70 - Morrer mais tarde - é questão irrelevante; relevante é, sim, saber se se morre com dignidade ou sem ela!") - Morrer mais tarde - é questão irrelevante; relevante é, sim, saber se se morre com dignidade ou sem ela!
 
 :book: [Carta 71]({{< ref "/post/2021-09-08-carta-71" >}} "Carta 71 - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.") - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.
 

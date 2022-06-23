@@ -208,7 +208,7 @@ Idioma: português de Portugal
 
 :book: [Carta 68]({{< ref "/cartas/carta-68" >}} "Carta 68 - “Que me importa a mim estar abaixo de todos os outros se conseguir erguer-me acima da fortuna!") - Que me importa a mim estar abaixo de todos os outros se conseguir erguer-me acima da fortuna!
 
-:book: [Carta 69]({{< ref "/post/2021-09-06-carta-69" >}} "Carta 69 - “Os vícios tentam-te oferecendo paga em troca") - Os vícios tentam-te oferecendo paga em troca
+:book: [Carta 69]({{< ref "/cartas/carta-69" >}} "Carta 69 - “Os vícios tentam-te oferecendo paga em troca") - Os vícios tentam-te oferecendo paga em troca
 
 ### :books: LIVRO VIII (Cartas 70-74)
 

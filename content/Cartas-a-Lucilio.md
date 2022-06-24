@@ -214,7 +214,7 @@ Idioma: português de Portugal
 
 :book: [Carta 70]({{< ref "/cartas/carta-70" >}} "Carta 70 - Morrer mais tarde - é questão irrelevante; relevante é, sim, saber se se morre com dignidade ou sem ela!") - Morrer mais tarde - é questão irrelevante; relevante é, sim, saber se se morre com dignidade ou sem ela!
 
-:book: [Carta 71]({{< ref "/post/2021-09-08-carta-71" >}} "Carta 71 - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.") - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.
+:book: [Carta 71]({{< ref "/cartas/carta-71" >}} "Carta 71 - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.") - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.
 
 :book: [Carta 72]({{< ref "/post/2021-09-09-carta-72" >}} "Carta 72 - Dir-te-ei agora o que significa uma alma sã:") - Dir-te-ei agora o que significa uma alma sã.
 

@@ -328,6 +328,9 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 49]({{< ref "/post/2022-06-23-livro-4-teco-49" >}} 
 "Feliz de mim, porque, tendo-me isso acontecido, continuo a salvo do sofrimento, sem que me fira o presente nem me atemorize o futuro") - Feliz de mim, porque, tendo-me isso acontecido, continuo a salvo do sofrimento, sem que me fira o presente nem me atemorize o futuro	
 
+:books: L4 - :book: [Teco 50]({{< ref "/post/2022-06-24-livro-4-teco-50" >}} 
+"Olha o abismo de tempo atrás de ti e o outro infinito à frente") - Olha o abismo de tempo atrás de ti e o outro infinito à frente	
+
 
 ### :books: LIVRO 5  ( Tecos 1 a 36 )
 ### :books: LIVRO 6  ( Tecos 1 a 59 )

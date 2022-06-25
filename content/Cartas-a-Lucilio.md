@@ -216,7 +216,7 @@ Idioma: português de Portugal
 
 :book: [Carta 71]({{< ref "/cartas/carta-71" >}} "Carta 71 - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.") - Sempre que queiras saber qual a atitude a evitar ou a assumir, regula-te pelo bem supremo, pelo objetivo de toda a tua vida.
 
-:book: [Carta 72]({{< ref "/post/2021-09-09-carta-72" >}} "Carta 72 - Dir-te-ei agora o que significa uma alma sã:") - Dir-te-ei agora o que significa uma alma sã.
+:book: [Carta 72]({{< ref "/cartas/carta-72" >}} "Carta 72 - Dir-te-ei agora o que significa uma alma sã:") - Dir-te-ei agora o que significa uma alma sã.
 
 
 :book: [Carta 73]({{< ref "/post/2021-09-10-carta-73" >}} "Carta 73 - Os bens importantes e autênticos não são divisíveis de modo a que cada homem obtenha só uma pequena porção") - Os bens importantes e autênticos não são divisíveis de modo a que cada homem obtenha só uma pequena porção

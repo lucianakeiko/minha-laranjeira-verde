@@ -331,6 +331,9 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 50]({{< ref "/post/2022-06-24-livro-4-teco-50" >}} 
 "Olha o abismo de tempo atrás de ti e o outro infinito à frente") - Olha o abismo de tempo atrás de ti e o outro infinito à frente	
 
+:books: L4 - :book: [Teco 51]({{< ref "/post/2022-06-25-livro-4-teco-51" >}} 
+"Corre sempre ao caminho curto") - Corre sempre ao caminho curto	
+
 
 ### :books: LIVRO 5  ( Tecos 1 a 36 )
 ### :books: LIVRO 6  ( Tecos 1 a 59 )

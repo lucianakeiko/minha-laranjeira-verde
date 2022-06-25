@@ -90,7 +90,7 @@ sobrerudo, todo o capítulo 3 do livro XI.
 
 <sub>(2)</sub> Para o **estoicismo antigo**, os homens dividem-se em dois grupos exclusivos: os "'sábios"' (**σοφοί** , sapientes), e os-- "'não sábios, insanos, insensatos'' ( **φαύλοι** , κακοί , insipientes, stulti). Qualquer homem era rigorosamente incluído numa ou noutra destas **duas categorias** (cf. por ex. S. V. F., I, 216), sem que se considerassem graus intermédios. A ideia de um estado intermédio no qual se inserissem os proficientes, isto é, aqueles que iniciaram o estudo da filosofia e que, em maior ou menor grau, se vão aproximando da sabedoria plena sem, no entanto, a terem ainda alcançado, parece ter-se originado durante o chamado **estoicismo médio**, nomeadamente com [Panécio](https://pt.wikipedia.org/wiki/Pan%C3%A9cio_de_Rodes), cf. P. Grimal, Séneque, De constantia sapientis, Commentaire,p. 42. **Séneca, porém, é mais rigoroso:** mesmo os proficientes devem ser considerados como pertencendo ao número dos insipientes, quanto mais não seja porque o apenas iniciado pode ainda **oscilar e recuar** (71, 30; 72, 6; 35, 4), o que ao sábio não é possível acontecer. Sublinhe-se, entretanto, como uma das mais importantes contribuições de Séneca para a teoria estóica, o seu voluntarismo, "das erst er in die Stoa hineintragt" (M. Pohlenz, Die Stoa, I, p. 319); cf. ibid.: "Die alte Stoa schied die Menschen in Weise und Nichtwisser; bei Seneca tritt daneben der Gegensatz des guten und des bõsen Willens auf".   
 
-<sub>(3)</sub>  V. supra, :book: [Carta 71]({{< ref "/post/2021-09-08-carta-71" >}}) , 4.
+<sub>(3)</sub>  V. supra, :book: [Carta 71]({{< ref "/cartas/carta-71" >}}) , 4.
 
 :book: [Cartas a Lucílio](https://www.skoob.com.br/cartas-a-lucilio-37684ed41245.html)
 

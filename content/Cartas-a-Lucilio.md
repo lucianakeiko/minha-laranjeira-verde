@@ -219,7 +219,7 @@ Idioma: português de Portugal
 :book: [Carta 72]({{< ref "/cartas/carta-72" >}} "Carta 72 - Dir-te-ei agora o que significa uma alma sã:") - Dir-te-ei agora o que significa uma alma sã.
 
 
-:book: [Carta 73]({{< ref "/post/2021-09-10-carta-73" >}} "Carta 73 - Os bens importantes e autênticos não são divisíveis de modo a que cada homem obtenha só uma pequena porção") - Os bens importantes e autênticos não são divisíveis de modo a que cada homem obtenha só uma pequena porção
+:book: [Carta 73]({{< ref "/cartas/carta-73" >}} "Carta 73 - Os bens importantes e autênticos não são divisíveis de modo a que cada homem obtenha só uma pequena porção") - Os bens importantes e autênticos não são divisíveis de modo a que cada homem obtenha só uma pequena porção
 
 :book: [Carta 74]({{< ref "/post/2021-09-11-carta-74" >}} "Carta 74 - Guarda no teu espírito esta imagem: a fortuna brinca com os homens, espalha ao acaso entre eles as honras, as riquezas, os favores'") - Guarda no teu espírito esta imagem: a fortuna brinca com os homens, espalha ao acaso entre eles as honras, as riquezas, os favores
 

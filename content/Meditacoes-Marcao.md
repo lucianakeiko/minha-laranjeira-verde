@@ -334,8 +334,13 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 51]({{< ref "/post/2022-06-25-livro-4-teco-51" >}} 
 "Corre sempre ao caminho curto") - Corre sempre ao caminho curto	
 
-
 ### :books: LIVRO 5  ( Tecos 1 a 36 )
+
+
+:books: L5 - :book: [Teco 1]({{< ref "/post/2022-06-27-livro-5-teco-1" >}} 
+"Enfada-me ainda sair para o mister para o qual fui posto no mundo?") - Enfada-me ainda sair para o mister para o qual fui posto no mundo?
+
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

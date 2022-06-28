@@ -340,6 +340,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 1]({{< ref "/post/2022-06-27-livro-5-teco-1" >}} 
 "Enfada-me ainda sair para o mister para o qual fui posto no mundo?") - Enfada-me ainda sair para o mister para o qual fui posto no mundo?
 
+:books: L5 - :book: [Teco 2]({{< ref "/post/2022-06-28-livro-5-teco-2" >}} 
+"apagar toda ideia inoportuna") - apagar toda ideia inoportuna
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

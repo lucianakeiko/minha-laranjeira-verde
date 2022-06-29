@@ -343,6 +343,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 2]({{< ref "/post/2022-06-28-livro-5-teco-2" >}} 
 "apagar toda ideia inoportuna") - apagar toda ideia inoportuna
 
+:books: L5 - :book: [Teco 3]({{< ref "/post/2022-06-29-livro-5-teco-3" >}} 
+"Considera-te digno de toda palavra e ação conformes com a natureza.") - Considera-te digno de toda palavra e ação conformes com a natureza.
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

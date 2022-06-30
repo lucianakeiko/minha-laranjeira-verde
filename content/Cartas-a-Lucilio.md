@@ -229,7 +229,7 @@ Idioma: português de Portugal
 :book: [Carta 75]({{< ref "/cartas/carta-75" >}} "Carta 75 - Dizer o que sentimos, sentir o que dizemos, isto é, pormos a nossa vida de acordo com as nossas palavras.") - Dizer o que sentimos, sentir o que dizemos, isto é, pormos a nossa vida de acordo com as nossas palavras.
 
 
-:book: [Carta 76]({{< ref "/post/2021-09-12-carta-76" >}} "Carta 76 - À razão perfeita chamamos a virtude") - À razão perfeita chamamos a virtude.
+:book: [Carta 76]({{< ref "/cartas/carta-76" >}} "Carta 76 - À razão perfeita chamamos a virtude") - À razão perfeita chamamos a virtude.
 
 :book: [Carta 77]({{< ref "/post/2021-09-13-carta-77" >}} "Carta 77 - Na vida é como no teatro: não interessa a duração da peça, mas a qualidade da representação.") - Na vida é como no teatro: não interessa a duração da peça, mas a qualidade da representação.
 

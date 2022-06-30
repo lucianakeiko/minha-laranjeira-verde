@@ -346,6 +346,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 3]({{< ref "/post/2022-06-29-livro-5-teco-3" >}} 
 "Considera-te digno de toda palavra e ação conformes com a natureza.") - Considera-te digno de toda palavra e ação conformes com a natureza.
 
+:books: L5 - :book: [Teco 4]({{< ref "/post/2022-06-30-livro-5-teco-4" >}} 
+"Vou seguindo os roteiros da natureza até cair e descansar") - Vou seguindo os roteiros da natureza até cair e descansar
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

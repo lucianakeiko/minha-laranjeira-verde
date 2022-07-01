@@ -231,7 +231,7 @@ Idioma: português de Portugal
 
 :book: [Carta 76]({{< ref "/cartas/carta-76" >}} "Carta 76 - À razão perfeita chamamos a virtude") - À razão perfeita chamamos a virtude.
 
-:book: [Carta 77]({{< ref "/post/2021-09-13-carta-77" >}} "Carta 77 - Na vida é como no teatro: não interessa a duração da peça, mas a qualidade da representação.") - Na vida é como no teatro: não interessa a duração da peça, mas a qualidade da representação.
+:book: [Carta 77]({{< ref "/cartas/carta-77" >}} "Carta 77 - Na vida é como no teatro: não interessa a duração da peça, mas a qualidade da representação.") - Na vida é como no teatro: não interessa a duração da peça, mas a qualidade da representação.
 
 
 :book: [Carta 78]({{< ref "/post/2021-09-14-carta-78" >}} "Carta 78 - É à filosofia que devo a minha convalescença, a minha recuperação; a ela devo a vida") - É à filosofia que devo a minha convalescença, a minha recuperação; a ela devo a vida

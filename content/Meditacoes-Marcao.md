@@ -352,6 +352,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 5]({{< ref "/post/2022-07-01-livro-5-teco-5" >}} 
 "Quantos predicados podes desde logo adquirir?") - Quantos predicados podes desde logo adquirir?
 
+:books: L5 - :book: [Teco 6]({{< ref "/post/2022-07-02-livro-5-teco-6" >}} 
+"Transviados por uma aparência de razão") - Transviados por uma aparência de razão
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

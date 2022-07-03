@@ -236,7 +236,7 @@ Idioma: português de Portugal
 
 :book: [Carta 78]({{< ref "/cartas/carta-78" >}} "Carta 78 - É à filosofia que devo a minha convalescença, a minha recuperação; a ela devo a vida") - É à filosofia que devo a minha convalescença, a minha recuperação; a ela devo a vida
 
-:book: [Carta 79]({{< ref "/post/2021-09-15-carta-79" >}} "Carta 79 - Quem só pensa nos seus contemporâneos veio a este mundo para proveito de escasso número") - Quem só pensa nos seus contemporâneos veio a este mundo para proveito de escasso número
+:book: [Carta 79]({{< ref "/cartas/carta-79" >}} "Carta 79 - Quem só pensa nos seus contemporâneos veio a este mundo para proveito de escasso número") - Quem só pensa nos seus contemporâneos veio a este mundo para proveito de escasso número
 
 :book: [Carta 80]({{< ref "/post/2021-09-16-carta-80" >}} "Carta 80 - Não sou escravo dos meus mestres, apenas lhes dou o meu assentimento!") - Não sou escravo dos meus mestres, apenas lhes dou o meu assentimento!
 

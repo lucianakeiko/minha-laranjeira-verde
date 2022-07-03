@@ -355,6 +355,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 6]({{< ref "/post/2022-07-02-livro-5-teco-6" >}} 
 "Transviados por uma aparência de razão") - Transviados por uma aparência de razão
 
+:books: L5 - :book: [Teco 7]({{< ref "/post/2022-07-03-livro-5-teco-7" >}} 
+"Ou não devemos orar, ou devemos orar assim, ingênua e livremente") - Ou não devemos orar, ou devemos orar assim, ingênua e livremente
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

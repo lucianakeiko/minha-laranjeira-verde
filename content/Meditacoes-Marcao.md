@@ -358,6 +358,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 7]({{< ref "/post/2022-07-03-livro-5-teco-7" >}} 
 "Ou não devemos orar, ou devemos orar assim, ingênua e livremente") - Ou não devemos orar, ou devemos orar assim, ingênua e livremente
 
+:books: L5 - :book: [Teco 8]({{< ref "/post/2022-07-04-livro-5-teco-8" >}} 
+"Há uma só harmonia") - Há uma só harmonia
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

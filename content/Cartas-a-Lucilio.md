@@ -238,7 +238,7 @@ Idioma: português de Portugal
 
 :book: [Carta 79]({{< ref "/cartas/carta-79" >}} "Carta 79 - Quem só pensa nos seus contemporâneos veio a este mundo para proveito de escasso número") - Quem só pensa nos seus contemporâneos veio a este mundo para proveito de escasso número
 
-:book: [Carta 80]({{< ref "/post/2021-09-16-carta-80" >}} "Carta 80 - Não sou escravo dos meus mestres, apenas lhes dou o meu assentimento!") - Não sou escravo dos meus mestres, apenas lhes dou o meu assentimento!
+:book: [Carta 80]({{< ref "/cartas/carta-80" >}} "Carta 80 - Não sou escravo dos meus mestres, apenas lhes dou o meu assentimento!") - Não sou escravo dos meus mestres, apenas lhes dou o meu assentimento!
 
 
 ### :books: LIVRO X (Cartas 81-83)

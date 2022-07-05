@@ -361,6 +361,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 8]({{< ref "/post/2022-07-04-livro-5-teco-8" >}} 
 "Há uma só harmonia") - Há uma só harmonia
 
+:books: L5 - :book: [Teco 9]({{< ref "/post/2022-07-05-livro-5-teco-9" >}} 
+"Tem afeição àquilo a que tornas") - Tem afeição àquilo a que tornas
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

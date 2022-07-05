@@ -243,7 +243,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO X (Cartas 81-83)
 
-:book: [Carta 81]({{< ref "/post/2021-09-17-carta-81" >}} "Carta 81 - O que interessa num benefício não é o seu quantitativo, mas sim o espírito com que foi feito.") - O que interessa num benefício não é o seu quantitativo, mas sim o espírito com que foi feito.
+:book: [Carta 81]({{< ref "/cartas/carta-81" >}} "Carta 81 - O que interessa num benefício não é o seu quantitativo, mas sim o espírito com que foi feito.") - O que interessa num benefício não é o seu quantitativo, mas sim o espírito com que foi feito.
 
 :book: [Carta 82]({{< ref "/post/2021-09-18-carta-82" >}} "Carta 82 - Os grandes monstros têm de ser combatidos com armas poderosas") - Os grandes monstros têm de ser combatidos com armas poderosas
 

@@ -245,7 +245,7 @@ Idioma: português de Portugal
 
 :book: [Carta 81]({{< ref "/cartas/carta-81" >}} "Carta 81 - O que interessa num benefício não é o seu quantitativo, mas sim o espírito com que foi feito.") - O que interessa num benefício não é o seu quantitativo, mas sim o espírito com que foi feito.
 
-:book: [Carta 82]({{< ref "/post/2021-09-18-carta-82" >}} "Carta 82 - Os grandes monstros têm de ser combatidos com armas poderosas") - Os grandes monstros têm de ser combatidos com armas poderosas
+:book: [Carta 82]({{< ref "/cartas/carta-82" >}} "Carta 82 - Os grandes monstros têm de ser combatidos com armas poderosas") - Os grandes monstros têm de ser combatidos com armas poderosas
 
 :book: [Carta 83]({{< ref "/post/2021-09-19-carta-83" >}} "Carta 83 - Habitualmente, ninguém auto-analisa a própria vida, o que só contribui para acrescer os vícios.") - Habitualmente, ninguém auto-analisa a própria vida, o que só contribui para acrescer os vícios.
 

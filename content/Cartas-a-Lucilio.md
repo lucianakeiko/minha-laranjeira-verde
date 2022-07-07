@@ -247,7 +247,7 @@ Idioma: português de Portugal
 
 :book: [Carta 82]({{< ref "/cartas/carta-82" >}} "Carta 82 - Os grandes monstros têm de ser combatidos com armas poderosas") - Os grandes monstros têm de ser combatidos com armas poderosas
 
-:book: [Carta 83]({{< ref "/post/2021-09-19-carta-83" >}} "Carta 83 - Habitualmente, ninguém auto-analisa a própria vida, o que só contribui para acrescer os vícios.") - Habitualmente, ninguém auto-analisa a própria vida, o que só contribui para acrescer os vícios.
+:book: [Carta 83]({{< ref "/cartas/carta-83" >}} "Carta 83 - Habitualmente, ninguém auto-analisa a própria vida, o que só contribui para acrescer os vícios.") - Habitualmente, ninguém auto-analisa a própria vida, o que só contribui para acrescer os vícios.
 
 
 ### :books: LIVROS XI A XIII (Cartas 84-88)

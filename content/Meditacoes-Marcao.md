@@ -367,6 +367,8 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 10]({{< ref "/post/2022-07-06-livro-5-teco-10" >}} 
 "Nada fazer em desacordo com a minha divindade") - Nada fazer em desacordo com a minha divindade
 
+:books: L5 - :book: [Teco 11]({{< ref "/post/2022-07-07-livro-5-teco-11" >}} 
+"Em que ando empregando agora as faculdades de minha alma?") - Em que ando empregando agora as faculdades de minha alma?
 
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )

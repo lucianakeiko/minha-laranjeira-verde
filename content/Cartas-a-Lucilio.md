@@ -252,7 +252,7 @@ Idioma: português de Portugal
 
 ### :books: LIVROS XI A XIII (Cartas 84-88)
 
-:book: [Carta 84]({{< ref "/post/2021-09-20-carta-84" >}} "Carta 84 - Devemos imitar as abelhas: O liquido mel acumulam, e fazem inchar os alvéolos de doce néctar") - Devemos imitar as abelhas: O liquido mel acumulam, e fazem inchar os alvéolos de doce néctar
+:book: [Carta 84]({{< ref "/cartas/carta-84" >}} "Carta 84 - Devemos imitar as abelhas: O liquido mel acumulam, e fazem inchar os alvéolos de doce néctar") - Devemos imitar as abelhas: O liquido mel acumulam, e fazem inchar os alvéolos de doce néctar
 
 
 :book: [Carta 85]({{< ref "/post/2021-09-21-carta-85" >}} "Carta 85 - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.") - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.

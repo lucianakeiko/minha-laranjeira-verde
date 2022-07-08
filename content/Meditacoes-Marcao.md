@@ -370,6 +370,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 11]({{< ref "/post/2022-07-07-livro-5-teco-11" >}} 
 "Em que ando empregando agora as faculdades de minha alma?") - Em que ando empregando agora as faculdades de minha alma?
 
+:books: L5 - :book: [Teco 12]({{< ref "/post/2022-07-08-livro-5-teco-12" >}} 
+"Devido à abundância, não sabe onde aliviar-se") - Devido à abundância, não sabe onde aliviar-se
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

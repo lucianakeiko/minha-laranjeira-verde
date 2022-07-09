@@ -255,7 +255,7 @@ Idioma: português de Portugal
 :book: [Carta 84]({{< ref "/cartas/carta-84" >}} "Carta 84 - Devemos imitar as abelhas: O liquido mel acumulam, e fazem inchar os alvéolos de doce néctar") - Devemos imitar as abelhas: O liquido mel acumulam, e fazem inchar os alvéolos de doce néctar
 
 
-:book: [Carta 85]({{< ref "/post/2021-09-21-carta-85" >}} "Carta 85 - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.") - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.
+:book: [Carta 85]({{< ref "/cartas/carta-85" >}} "Carta 85 - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.") - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.
 
 
 :book: [Carta 86]({{< ref "/post/2021-09-22-carta-86" >}} "Carta 86 - CComo não hei-de admirar uma grandeza de alma tal que levou Cipião ao exílio voluntário para aliviar a cidade da sua influência?") - Como não hei-de admirar uma grandeza de alma tal que levou Cipião ao exílio voluntário para aliviar a cidade da sua influência?

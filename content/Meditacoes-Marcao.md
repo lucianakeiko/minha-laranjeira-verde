@@ -373,6 +373,10 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 12]({{< ref "/post/2022-07-08-livro-5-teco-12" >}} 
 "Devido à abundância, não sabe onde aliviar-se") - Devido à abundância, não sabe onde aliviar-se
 
+:books: L5 - :book: [Teco 13]({{< ref "/post/2022-07-09-livro-5-teco-13" >}} 
+"Cada parte de meu ser irá localizar-se, por via de transformação, numa parte do universo") - Cada parte de meu ser irá localizar-se, por via de transformação, numa parte do universo
+
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

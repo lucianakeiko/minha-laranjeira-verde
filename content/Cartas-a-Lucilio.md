@@ -258,7 +258,7 @@ Idioma: português de Portugal
 :book: [Carta 85]({{< ref "/cartas/carta-85" >}} "Carta 85 - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.") - Coragem não significa temeridade inconsiderada, significa, sim, saber distinguir entre o que é mal e o que não o é.
 
 
-:book: [Carta 86]({{< ref "/post/2021-09-22-carta-86" >}} "Carta 86 - CComo não hei-de admirar uma grandeza de alma tal que levou Cipião ao exílio voluntário para aliviar a cidade da sua influência?") - Como não hei-de admirar uma grandeza de alma tal que levou Cipião ao exílio voluntário para aliviar a cidade da sua influência?
+:book: [Carta 86]({{< ref "/cartas/carta-86" >}} "Carta 86 - CComo não hei-de admirar uma grandeza de alma tal que levou Cipião ao exílio voluntário para aliviar a cidade da sua influência?") - Como não hei-de admirar uma grandeza de alma tal que levou Cipião ao exílio voluntário para aliviar a cidade da sua influência?
 
 
 

@@ -376,7 +376,8 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 13]({{< ref "/post/2022-07-09-livro-5-teco-13" >}} 
 "Cada parte de meu ser irá localizar-se, por via de transformação, numa parte do universo") - Cada parte de meu ser irá localizar-se, por via de transformação, numa parte do universo
 
-
+:books: L5 - :book: [Teco 14]({{< ref "/post/2022-07-10-livro-5-teco-14" >}} 
+"A razão e a lógica são forças que bastam a si mesmas") - A razão e a lógica são forças que bastam a si mesmas
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

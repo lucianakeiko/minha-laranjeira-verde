@@ -379,6 +379,10 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 14]({{< ref "/post/2022-07-10-livro-5-teco-14" >}} 
 "A razão e a lógica são forças que bastam a si mesmas") - A razão e a lógica são forças que bastam a si mesmas
 
+:books: L5 - :book: [Teco 15]({{< ref "/post/2022-07-11-livro-5-teco-15" >}} 
+"Quanto mais uma pessoa delas se despoja tanto melhor homem é") - Quanto mais uma pessoa delas se despoja tanto melhor homem é
+
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

@@ -382,6 +382,8 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 15]({{< ref "/post/2022-07-11-livro-5-teco-15" >}} 
 "Quanto mais uma pessoa delas se despoja tanto melhor homem é") - Quanto mais uma pessoa delas se despoja tanto melhor homem é
 
+:books: L5 - :book: [Teco 16]({{< ref "/post/2022-07-12-livro-5-teco-16" >}} 
+"Para onde é levado, aí está sua finalidade") - Para onde é levado, aí está sua finalidade
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

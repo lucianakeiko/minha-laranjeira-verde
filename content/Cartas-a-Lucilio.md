@@ -264,7 +264,7 @@ Idioma: português de Portugal
 
 :book: [Carta 87]({{< ref "/cartas/carta-87" >}} "Carta 87 - É diferente a condição das coisas vantajosas e a dos bens. Uma coisa é vantajosa quando tem mais utilidade do que inconvenientes; um bem é um valor absoluto totalmente incapaz de ocasionar o mal.") - É diferente a condição das coisas vantajosas e a dos bens. Uma coisa é vantajosa quando tem mais utilidade do que inconvenientes; um bem é um valor absoluto totalmente incapaz de ocasionar o mal.
 
-:book: [Carta 88]({{< ref "/post/2021-09-24-carta-88" >}} "Carta 88 - O único estudo verdadeiramente liberal é aquele que torna o homem livre") - O único estudo verdadeiramente liberal é aquele que torna o homem livre
+:book: [Carta 88]({{< ref "/cartas/carta-88" >}} "Carta 88 - O único estudo verdadeiramente liberal é aquele que torna o homem livre") - O único estudo verdadeiramente liberal é aquele que torna o homem livre
 
 ### :books: LIVRO XIV (Cartas 89-92)
 

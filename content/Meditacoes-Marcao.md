@@ -385,6 +385,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 16]({{< ref "/post/2022-07-12-livro-5-teco-16" >}} 
 "Para onde é levado, aí está sua finalidade") - Para onde é levado, aí está sua finalidade
 
+:books: L5 - :book: [Teco 17]({{< ref "/post/2022-07-13-livro-5-teco-17" >}} 
+"Desejar o impossível é loucura") - Desejar o impossível é loucura
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

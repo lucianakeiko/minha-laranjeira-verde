@@ -268,8 +268,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO XIV (Cartas 89-92)
 
-
-:book: [Carta 89]({{< ref "/post/2021-09-25-carta-89" >}} "Carta 89 - A sabedoria é o bem supremo do espírito humano, enquanto a filosofia é o amor, o impulso pela sabedoria; aquela aponta o fim que esta alcança.") - A sabedoria é o bem supremo do espírito humano, enquanto a filosofia é o amor, o impulso pela sabedoria; aquela aponta o fim que esta alcança.
+:book: [Carta 89]({{< ref "/cartas/carta-89" >}} "Carta 89 - A sabedoria é o bem supremo do espírito humano, enquanto a filosofia é o amor, o impulso pela sabedoria; aquela aponta o fim que esta alcança.") - A sabedoria é o bem supremo do espírito humano, enquanto a filosofia é o amor, o impulso pela sabedoria; aquela aponta o fim que esta alcança.
 
 :book: [Carta 90]({{< ref "/post/2021-09-26-carta-90" >}} "Carta 90 - A virtude, na realidade, não é um dom da natureza: ser bom necessita estudo.") - A virtude, na realidade, não é um dom da natureza: ser bom necessita estudo.
 

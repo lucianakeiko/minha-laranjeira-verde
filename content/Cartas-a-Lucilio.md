@@ -270,7 +270,7 @@ Idioma: português de Portugal
 
 :book: [Carta 89]({{< ref "/cartas/carta-89" >}} "Carta 89 - A sabedoria é o bem supremo do espírito humano, enquanto a filosofia é o amor, o impulso pela sabedoria; aquela aponta o fim que esta alcança.") - A sabedoria é o bem supremo do espírito humano, enquanto a filosofia é o amor, o impulso pela sabedoria; aquela aponta o fim que esta alcança.
 
-:book: [Carta 90]({{< ref "/post/2021-09-26-carta-90" >}} "Carta 90 - A virtude, na realidade, não é um dom da natureza: ser bom necessita estudo.") - A virtude, na realidade, não é um dom da natureza: ser bom necessita estudo.
+:book: [Carta 90]({{< ref "/cartas/carta-90" >}} "Carta 90 - A virtude, na realidade, não é um dom da natureza: ser bom necessita estudo.") - A virtude, na realidade, não é um dom da natureza: ser bom necessita estudo.
 
 :book: [Carta 91]({{< ref "/post/2021-09-27-carta-91" >}} "Carta 91 - Todas as obras dos mortais estão afetadas de mortalidade") - Todas as obras dos mortais estão afetadas de mortalidade.
 

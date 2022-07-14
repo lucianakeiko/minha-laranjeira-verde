@@ -388,6 +388,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 17]({{< ref "/post/2022-07-13-livro-5-teco-17" >}} 
 "Desejar o impossível é loucura") - Desejar o impossível é loucura
 
+:books: L5 - :book: [Teco 18]({{< ref "/post/2022-07-14-livro-5-teco-18" >}} 
+"Nada acontece a ninguém que sua natureza não suporte") - Nada acontece a ninguém que sua natureza não suporte
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

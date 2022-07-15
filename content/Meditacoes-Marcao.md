@@ -391,6 +391,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 18]({{< ref "/post/2022-07-14-livro-5-teco-18" >}} 
 "Nada acontece a ninguém que sua natureza não suporte") - Nada acontece a ninguém que sua natureza não suporte
 
+:books: L5 - :book: [Teco 19]({{< ref "/post/2022-07-15-livro-5-teco-19" >}} 
+"Só ela mesma a si faz mudar e mover") - Só ela mesma a si faz mudar e mover
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

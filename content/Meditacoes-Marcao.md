@@ -394,6 +394,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 19]({{< ref "/post/2022-07-15-livro-5-teco-19" >}} 
 "Só ela mesma a si faz mudar e mover") - Só ela mesma a si faz mudar e mover
 
+:books: L5 - :book: [Teco 20]({{< ref "/post/2022-07-16-livro-5-teco-20" >}} 
+"A inteligência reverte todo empecilho") - A inteligência reverte todo empecilho
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

@@ -274,7 +274,7 @@ Idioma: português de Portugal
 
 :book: [Carta 91]({{< ref "/cartas/carta-91" >}} "Carta 91 - Todas as obras dos mortais estão afetadas de mortalidade") - Todas as obras dos mortais estão afetadas de mortalidade.
 
-:book: [Carta 92]({{< ref "/post/2021-09-28-carta-92" >}} "Carta 92 - O bem está no meu discernimento ao escolher, e não no objeto da escolha.") - O bem está no meu discernimento ao escolher, e não no objeto da escolha.
+:book: [Carta 92]({{< ref "/cartas/carta-92" >}} "Carta 92 - O bem está no meu discernimento ao escolher, e não no objeto da escolha.") - O bem está no meu discernimento ao escolher, e não no objeto da escolha.
 
 ### :books: LIVRO XV (Cartas 93-95)
 

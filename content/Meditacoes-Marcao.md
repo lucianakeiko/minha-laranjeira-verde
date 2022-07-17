@@ -397,6 +397,10 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 20]({{< ref "/post/2022-07-16-livro-5-teco-20" >}} 
 "A inteligência reverte todo empecilho") - A inteligência reverte todo empecilho
 
+:books: L5 - :book: [Teco 21]({{< ref "/post/2022-07-17-livro-5-teco-21" >}} 
+"Respeita o que de mais poderoso há em ti") - Respeita o que de mais poderoso há em ti
+
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

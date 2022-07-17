@@ -278,7 +278,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO XV (Cartas 93-95)
 
-:book: [Carta 93]({{< ref "/post/2021-09-29-carta-93" >}} "Carta 93 - Façamos com que a nossa vida, à semelhança dos materiais preciosos, valha pouco pelo espaço que ocupa, e muito pelo peso que tem.") - Façamos com que a nossa vida, à semelhança dos materiais preciosos, valha pouco pelo espaço que ocupa, e muito pelo peso que tem.
+:book: [Carta 93]({{< ref "/cartas/carta-93" >}} "Carta 93 - Façamos com que a nossa vida, à semelhança dos materiais preciosos, valha pouco pelo espaço que ocupa, e muito pelo peso que tem.") - Façamos com que a nossa vida, à semelhança dos materiais preciosos, valha pouco pelo espaço que ocupa, e muito pelo peso que tem.
 
 :book: [Carta 94]({{< ref "/post/2021-09-30-carta-94" >}} "Carta 94 - Frequentemente, o nosso espírito finge não ver o que é evidente; há por isso que obrigá-lo a reparar mesmo nas coisas mais banais.") - Frequentemente, o nosso espírito finge não ver o que é evidente; há por isso que obrigá-lo a reparar mesmo nas coisas mais banais.
 

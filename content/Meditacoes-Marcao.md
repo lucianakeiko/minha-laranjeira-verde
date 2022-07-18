@@ -400,6 +400,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 21]({{< ref "/post/2022-07-17-livro-5-teco-21" >}} 
 "Respeita o que de mais poderoso há em ti") - Respeita o que de mais poderoso há em ti
 
+:books: L5 - :book: [Teco 22]({{< ref "/post/2022-07-18-livro-5-teco-22" >}} 
+"O que não é daninho à cidade tampouco lesa o cidadão") - O que não é daninho à cidade tampouco lesa o cidadão
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

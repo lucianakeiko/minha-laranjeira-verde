@@ -280,7 +280,7 @@ Idioma: português de Portugal
 
 :book: [Carta 93]({{< ref "/cartas/carta-93" >}} "Carta 93 - Façamos com que a nossa vida, à semelhança dos materiais preciosos, valha pouco pelo espaço que ocupa, e muito pelo peso que tem.") - Façamos com que a nossa vida, à semelhança dos materiais preciosos, valha pouco pelo espaço que ocupa, e muito pelo peso que tem.
 
-:book: [Carta 94]({{< ref "/post/2021-09-30-carta-94" >}} "Carta 94 - Frequentemente, o nosso espírito finge não ver o que é evidente; há por isso que obrigá-lo a reparar mesmo nas coisas mais banais.") - Frequentemente, o nosso espírito finge não ver o que é evidente; há por isso que obrigá-lo a reparar mesmo nas coisas mais banais.
+:book: [Carta 94]({{< ref "/cartas/carta-94" >}} "Carta 94 - Frequentemente, o nosso espírito finge não ver o que é evidente; há por isso que obrigá-lo a reparar mesmo nas coisas mais banais.") - Frequentemente, o nosso espírito finge não ver o que é evidente; há por isso que obrigá-lo a reparar mesmo nas coisas mais banais.
 
 
 :book: [Carta 95]({{< ref "/post/2021-10-01-carta-95" >}} "Carta 95 - Um homem que seja bom por acaso não dá garantias de que será sempre bom!") - Um homem que seja bom por acaso não dá garantias de que será sempre bom!

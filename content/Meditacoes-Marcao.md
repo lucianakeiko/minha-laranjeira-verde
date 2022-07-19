@@ -403,6 +403,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 22]({{< ref "/post/2022-07-18-livro-5-teco-22" >}} 
 "O que não é daninho à cidade tampouco lesa o cidadão") - O que não é daninho à cidade tampouco lesa o cidadão
 
+:books: L5 - :book: [Teco 23]({{< ref "/post/2022-07-19-livro-5-teco-23" >}} 
+"A substância é como um rio num fluxo perene") - A substância é como um rio num fluxo perene
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

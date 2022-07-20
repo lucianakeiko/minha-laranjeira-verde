@@ -406,6 +406,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 23]({{< ref "/post/2022-07-19-livro-5-teco-23" >}} 
 "A substância é como um rio num fluxo perene") - A substância é como um rio num fluxo perene
 
+:books: L5 - :book: [Teco 24]({{< ref "/post/2022-07-20-livro-5-teco-24" >}} 
+"Recorda a substância toda") - Recorda a substância toda
+
 
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

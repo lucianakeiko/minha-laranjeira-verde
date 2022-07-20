@@ -289,7 +289,7 @@ Idioma: português de Portugal
 ### :books:  LIVRO XVI (Cartas 96-100)
 
 
-:book: [Carta 96]({{< ref "/post/2021-10-02-carta-96" >}} "Carta 96 - Viver é ser soldado, Lucílio!") - Viver é ser soldado, Lucílio!
+:book: [Carta 96]({{< ref "/cartas/carta-96" >}} "Carta 96 - Viver é ser soldado, Lucílio!") - Viver é ser soldado, Lucílio!
 
 
 :book: [Carta 97]({{< ref "/post/2021-10-03-carta-97" >}} "Carta 97 - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.") - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.

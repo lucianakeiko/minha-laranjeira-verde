@@ -292,7 +292,7 @@ Idioma: português de Portugal
 :book: [Carta 96]({{< ref "/cartas/carta-96" >}} "Carta 96 - Viver é ser soldado, Lucílio!") - Viver é ser soldado, Lucílio!
 
 
-:book: [Carta 97]({{< ref "/post/2021-10-03-carta-97" >}} "Carta 97 - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.") - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.
+:book: [Carta 97]({{< ref "/cartas/carta-97" >}} "Carta 97 - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.") - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.
 
 :book: [Carta 98]({{< ref "/post/2021-10-04-carta-98" >}} "Carta 98 - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.") - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.
 

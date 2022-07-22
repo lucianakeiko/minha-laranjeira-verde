@@ -294,7 +294,7 @@ Idioma: português de Portugal
 
 :book: [Carta 97]({{< ref "/cartas/carta-97" >}} "Carta 97 - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.") - A sorte pode evitar a muitos o castigo, mas a ninguém evita o medo.
 
-:book: [Carta 98]({{< ref "/post/2021-10-04-carta-98" >}} "Carta 98 - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.") - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.
+:book: [Carta 98]({{< ref "/cartas/carta-98" >}} "Carta 98 - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.") - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.
 
 :book: [Carta 99]({{< ref "/post/2021-10-05-carta-99" >}} "Carta 99 - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.") - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.
 

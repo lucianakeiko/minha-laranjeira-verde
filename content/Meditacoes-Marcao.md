@@ -412,6 +412,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 25]({{< ref "/post/2022-07-21-livro-5-teco-25" >}} 
 "Alguém comete falta contra mim? Isso é lá com ele") - Alguém comete falta contra mim? Isso é lá com ele
 
+:books: L5 - :book: [Teco 26]({{< ref "/post/2022-07-22-livro-5-teco-26" >}} 
+"Permaneça a alma inabalável às comoções, brandas ou violentas") - Permaneça a alma inabalável às comoções, brandas ou violentas
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

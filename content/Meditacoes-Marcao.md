@@ -415,6 +415,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 26]({{< ref "/post/2022-07-22-livro-5-teco-26" >}} 
 "Permaneça a alma inabalável às comoções, brandas ou violentas") - Permaneça a alma inabalável às comoções, brandas ou violentas
 
+:books: L5 - :book: [Teco 27]({{< ref "/post/2022-07-23-livro-5-teco-27" >}} 
+"Este deus é a mente e razão de cada um") - Este deus é a mente e razão de cada um
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

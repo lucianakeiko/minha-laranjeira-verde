@@ -296,7 +296,7 @@ Idioma: português de Portugal
 
 :book: [Carta 98]({{< ref "/cartas/carta-98" >}} "Carta 98 - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.") - Esquecido do trampolim que é a vida humana, convence-se de que no seu caso, por exceção , o acaso deixará de se fazer sentir.
 
-:book: [Carta 99]({{< ref "/post/2021-10-05-carta-99" >}} "Carta 99 - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.") - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.
+:book: [Carta 99]({{< ref "/cartas/carta-99" >}} "Carta 99 - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.") - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.
 
 
 :book: [Carta 100]({{< ref "/post/2021-10-06-carta-100" >}} "Carta 100 - Como poderia ser corajoso e firme perante o risco da própria vida um homem angustiado com as palavras?") - Como poderia ser corajoso e firme perante o risco da própria vida um homem angustiado com as palavras?

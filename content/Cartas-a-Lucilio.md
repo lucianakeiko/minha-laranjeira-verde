@@ -299,7 +299,7 @@ Idioma: português de Portugal
 :book: [Carta 99]({{< ref "/cartas/carta-99" >}} "Carta 99 - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.") - Ganhes mais coragem contra a fortuna e consideres os seus golpes não apenas como possíveis, mas como inevitáveis e contínuos.
 
 
-:book: [Carta 100]({{< ref "/post/2021-10-06-carta-100" >}} "Carta 100 - Como poderia ser corajoso e firme perante o risco da própria vida um homem angustiado com as palavras?") - Como poderia ser corajoso e firme perante o risco da própria vida um homem angustiado com as palavras?
+:book: [Carta 100]({{< ref "/cartas/carta-100" >}} "Carta 100 - Como poderia ser corajoso e firme perante o risco da própria vida um homem angustiado com as palavras?") - Como poderia ser corajoso e firme perante o risco da própria vida um homem angustiado com as palavras?
 
 
 ### :books: LIVRO XVII - XVIII (Cartas 101-109)

@@ -418,6 +418,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 27]({{< ref "/post/2022-07-23-livro-5-teco-27" >}} 
 "Este deus é a mente e razão de cada um") - Este deus é a mente e razão de cada um
 
+:books: L5 - :book: [Teco 28]({{< ref "/post/2022-07-24-livro-5-teco-28" >}} 
+"Nem ator trágico, nem meretriz.") - Nem ator trágico, nem meretriz.
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

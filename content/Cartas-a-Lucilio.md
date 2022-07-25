@@ -304,7 +304,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO XVII - XVIII (Cartas 101-109)
 
-:book: [Carta 101]({{< ref "/post/2021-10-07-carta-101" >}} "Carta 101 - Apressa-te a viver, caro Lucílio, imagina que cada dia é uma vida completa.") - Apressa-te a viver, caro Lucílio, imagina que cada dia é uma vida completa.
+:book: [Carta 101]({{< ref "/cartas/carta-101" >}} "Carta 101 - Apressa-te a viver, caro Lucílio, imagina que cada dia é uma vida completa.") - Apressa-te a viver, caro Lucílio, imagina que cada dia é uma vida completa.
 
 :book: [Carta 102]({{< ref "/post/2021-10-08-carta-102" >}} "Carta 102 - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.") - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.
 

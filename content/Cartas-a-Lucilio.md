@@ -306,7 +306,7 @@ Idioma: português de Portugal
 
 :book: [Carta 101]({{< ref "/cartas/carta-101" >}} "Carta 101 - Apressa-te a viver, caro Lucílio, imagina que cada dia é uma vida completa.") - Apressa-te a viver, caro Lucílio, imagina que cada dia é uma vida completa.
 
-:book: [Carta 102]({{< ref "/post/2021-10-08-carta-102" >}} "Carta 102 - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.") - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.
+:book: [Carta 102]({{< ref "/cartas/carta-102" >}} "Carta 102 - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.") - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.
 
 :book: [Carta 103]({{< ref "/post/2021-10-09-carta-103" >}} "Carta 103 - Naufragar, cair de um carro - são desastres eventualmente graves, mas raros.Nas relações humanas, porém, o perigo é coisa de todos os dias.") - Naufragar, cair de um carro - são desastres eventualmente graves, mas raros.Nas relações humanas, porém, o perigo é coisa de todos os dias.
 

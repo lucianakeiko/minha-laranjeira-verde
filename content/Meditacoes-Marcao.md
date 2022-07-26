@@ -424,6 +424,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 29]({{< ref "/post/2022-07-25-livro-5-teco-29" >}} 
 "Fumaça; vou-me embora. Por que veres nisso um problema?") - Fumaça; vou-me embora. Por que veres nisso um problema?
 
+:books: L5 - :book: [Teco 30]({{< ref "/post/2022-07-26-livro-5-teco-30" >}} 
+"A mente do universo é social") - A mente do universo é social
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

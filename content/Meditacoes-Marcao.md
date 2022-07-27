@@ -427,6 +427,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 30]({{< ref "/post/2022-07-26-livro-5-teco-30" >}} 
 "A mente do universo é social") - A mente do universo é social
 
+:books: L5 - :book: [Teco 31]({{< ref "/post/2022-07-27-livro-5-teco-31" >}} 
+"A ninguém fazer nem dizer nada de maldoso") - A ninguém fazer nem dizer nada de maldoso
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

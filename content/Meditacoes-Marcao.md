@@ -430,6 +430,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 31]({{< ref "/post/2022-07-27-livro-5-teco-31" >}} 
 "A ninguém fazer nem dizer nada de maldoso") - A ninguém fazer nem dizer nada de maldoso
 
+:books: L5 - :book: [Teco 32]({{< ref "/post/2022-07-28-livro-5-teco-32" >}} 
+"Que alma é capaz e sábia?") - Que alma é capaz e sábia?
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

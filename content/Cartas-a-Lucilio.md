@@ -308,10 +308,10 @@ Idioma: português de Portugal
 
 :book: [Carta 102]({{< ref "/cartas/carta-102" >}} "Carta 102 - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.") - É próprio da natureza do homem alargar o seu pensamento a todo o universo. A alma humana é qualquer coisa de grande e de nobre, e não admite que se lhe imponham outros limites senão os que lhe são comuns com a própria divindade.
 
-:book: [Carta 103]({{< ref "/post/2021-10-09-carta-103" >}} "Carta 103 - Naufragar, cair de um carro - são desastres eventualmente graves, mas raros.Nas relações humanas, porém, o perigo é coisa de todos os dias.") - Naufragar, cair de um carro - são desastres eventualmente graves, mas raros.Nas relações humanas, porém, o perigo é coisa de todos os dias.
+:book: [Carta 103]({{< ref "/cartas/carta-103" >}} "Carta 103 - Naufragar, cair de um carro - são desastres eventualmente graves, mas raros.Nas relações humanas, porém, o perigo é coisa de todos os dias.") - Naufragar, cair de um carro - são desastres eventualmente graves, mas raros.Nas relações humanas, porém, o perigo é coisa de todos os dias.
 
 
-:book: [Carta 104]({{< ref "/post/2021-10-10-carta-104" >}} "Carta 104 - Não, não é porque a teoria seja difícil que não ousamos praticá-la; pelo contrário, por nós não ousarmos praticá-la é que ela se nos afigura difícil!") - Não, não é porque a teoria seja difícil que não ousamos praticá-la; pelo contrário, por nós não ousarmos praticá-la é que ela se nos afigura difícil!
+:book: [Carta 104]({{< ref "/cartas/carta-104" >}} "Carta 104 - Não, não é porque a teoria seja difícil que não ousamos praticá-la; pelo contrário, por nós não ousarmos praticá-la é que ela se nos afigura difícil!") - Não, não é porque a teoria seja difícil que não ousamos praticá-la; pelo contrário, por nós não ousarmos praticá-la é que ela se nos afigura difícil!
 
 
 :book: [Carta 105]({{< ref "/post/2021-10-11-carta-105" >}} "Carta 105 - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.") - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.

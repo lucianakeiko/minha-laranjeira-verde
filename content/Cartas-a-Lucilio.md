@@ -314,7 +314,7 @@ Idioma: português de Portugal
 :book: [Carta 104]({{< ref "/cartas/carta-104" >}} "Carta 104 - Não, não é porque a teoria seja difícil que não ousamos praticá-la; pelo contrário, por nós não ousarmos praticá-la é que ela se nos afigura difícil!") - Não, não é porque a teoria seja difícil que não ousamos praticá-la; pelo contrário, por nós não ousarmos praticá-la é que ela se nos afigura difícil!
 
 
-:book: [Carta 105]({{< ref "/post/2021-10-11-carta-105" >}} "Carta 105 - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.") - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.
+:book: [Carta 105]({{< ref "/cartas/carta-105" >}} "Carta 105 - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.") - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.
 
 :book: [Carta 106]({{< ref "/post/2021-10-12-carta-106" >}} "Carta 106 - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.") - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.
 

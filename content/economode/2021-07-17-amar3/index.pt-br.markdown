@@ -23,7 +23,7 @@ description: ''
 
 total <- AMAR3.SA$AMAR3.SA.Volume
 median(total)
-## [1] 4861300
+## [1] 5240050
 max(total)
 ## [1] 28215300
 min(total)

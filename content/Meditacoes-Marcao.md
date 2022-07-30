@@ -436,6 +436,14 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 33]({{< ref "/post/2022-07-29-livro-5-teco-33" >}} 
 "Aguardarás de bom grado quer a extinção, quer a transmutação.") - Aguardarás de bom grado quer a extinção, quer a transmutação.
 
+:books: L5 - :book: [Teco 34]({{< ref "/post/2022-07-30-livro-5-teco-34" >}} 
+"Podes ter sempre um curso de vida próspero") - Podes ter sempre um curso de vida próspero.
+
+
+
+
+
+
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

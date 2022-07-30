@@ -316,7 +316,7 @@ Idioma: português de Portugal
 
 :book: [Carta 105]({{< ref "/cartas/carta-105" >}} "Carta 105 - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.") - A má consciência pode, ocasionalmente, garantir uma certa segurança material, mas nunca a serenidade de espírito.
 
-:book: [Carta 106]({{< ref "/post/2021-10-12-carta-106" >}} "Carta 106 - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.") - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.
+:book: [Carta 106]({{< ref "/cartas/carta-106" >}} "Carta 106 - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.") - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.
 
 
 :book: [Carta 107]({{< ref "/post/2021-10-13-carta-107" >}} "Carta 107 - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.") - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.

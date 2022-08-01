@@ -319,7 +319,7 @@ Idioma: português de Portugal
 :book: [Carta 106]({{< ref "/cartas/carta-106" >}} "Carta 106 - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.") - Sofremos de intemperança em tudo, até no uso das letras. Estudamos para a escola, não para a vida.
 
 
-:book: [Carta 107]({{< ref "/post/2021-10-13-carta-107" >}} "Carta 107 - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.") - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.
+:book: [Carta 107]({{< ref "/cartas/carta-107" >}} "Carta 107 - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.") - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.
 
 :book: [Carta 108]({{< ref "/post/2021-10-14-carta-108" >}} "Quanto mais conhecimentos o espírito absorve tanto mais capacidade vai adquirindo.") - Quanto mais conhecimentos o espírito absorve tanto mais capacidade vai adquirindo.
 

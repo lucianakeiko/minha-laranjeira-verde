@@ -439,6 +439,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 34]({{< ref "/post/2022-07-30-livro-5-teco-34" >}} 
 "Podes ter sempre um curso de vida próspero") - Podes ter sempre um curso de vida próspero.
 
+:books: L5 - :book: [Teco 35]({{< ref "/post/2022-08-01-livro-5-teco-35" >}} 
+"Por que me afligir com isso?") - Por que me afligir com isso?
+
 
 
 

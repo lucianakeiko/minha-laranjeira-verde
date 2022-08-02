@@ -321,7 +321,7 @@ Idioma: português de Portugal
 
 :book: [Carta 107]({{< ref "/cartas/carta-107" >}} "Carta 107 - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.") - Não queiramos fugir ao curso desta máquina deslumbrante na qual estão entretecidos também os nossos sofrimentos.
 
-:book: [Carta 108]({{< ref "/post/2021-10-14-carta-108" >}} "Quanto mais conhecimentos o espírito absorve tanto mais capacidade vai adquirindo.") - Quanto mais conhecimentos o espírito absorve tanto mais capacidade vai adquirindo.
+:book: [Carta 108]({{< ref "/cartas/carta-108" >}} "Quanto mais conhecimentos o espírito absorve tanto mais capacidade vai adquirindo.") - Quanto mais conhecimentos o espírito absorve tanto mais capacidade vai adquirindo.
 
 :book: [Carta 109]({{< ref "/post/2021-10-15-carta-109" >}} 
 "Na realidade, ser útil consiste em estimular o espírito segundo a natureza por ação da própria virtude.") - Na realidade, ser útil consiste em estimular o espírito segundo a natureza por ação da própria virtude.

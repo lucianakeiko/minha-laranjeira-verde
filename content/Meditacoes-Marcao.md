@@ -442,6 +442,9 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 35]({{< ref "/post/2022-08-01-livro-5-teco-35" >}} 
 "Por que me afligir com isso?") - Por que me afligir com isso?
 
+:books: L5 - :book: [Teco 36]({{< ref "/post/2022-08-02-livro-5-teco-36" >}} 
+"Socorrer na medida em que podes e merecem") - Socorrer na medida em que podes e merecem
+
 
 
 

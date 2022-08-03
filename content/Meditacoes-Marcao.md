@@ -445,12 +445,13 @@ Editora: Nova Acropole
 :books: L5 - :book: [Teco 36]({{< ref "/post/2022-08-02-livro-5-teco-36" >}} 
 "Socorrer na medida em que podes e merecem") - Socorrer na medida em que podes e merecem
 
-
-
-
-
-
 ### :books: LIVRO 6  ( Tecos 1 a 59 )
+
+:books: L6 - :book: [Teco 1]({{< ref "/post/2022-08-03-livro-6-teco-1" >}} 
+"A substância do universo é dócil e maleável") - A substância do universo é dócil e maleável
+
+
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

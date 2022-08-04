@@ -328,7 +328,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO XIX (Cartas 110-117)
 
-:book: [Carta 110]({{< ref "/post/2021-10-16-carta-110" >}} 
+:book: [Carta 110]({{< ref "/cartas/carta-110" >}} 
 "Nós não tememos em plena luz, criamos, sim, trevas a toda a nossa volta!") - Nós não tememos em plena luz, criamos, sim, trevas a toda a nossa volta!
 
 :book: [Carta 111]({{< ref "/post/2021-10-17-carta-111" >}} 

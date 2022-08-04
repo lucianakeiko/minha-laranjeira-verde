@@ -450,6 +450,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 1]({{< ref "/post/2022-08-03-livro-6-teco-1" >}} 
 "A substância do universo é dócil e maleável") - A substância do universo é dócil e maleável
 
+:books: L6 - :book: [Teco 2]({{< ref "/post/2022-08-04-livro-6-teco-2" >}} 
+"Um dos atos da vida é também esse no qual morremos") - Um dos atos da vida é também esse no qual morremos
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

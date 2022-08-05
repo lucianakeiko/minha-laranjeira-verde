@@ -331,7 +331,7 @@ Idioma: português de Portugal
 :book: [Carta 110]({{< ref "/cartas/carta-110" >}} 
 "Nós não tememos em plena luz, criamos, sim, trevas a toda a nossa volta!") - Nós não tememos em plena luz, criamos, sim, trevas a toda a nossa volta!
 
-:book: [Carta 111]({{< ref "/post/2021-10-17-carta-111" >}} 
+:book: [Carta 111]({{< ref "/cartas/carta-111" >}} 
 "Não pode conduzir bem a sua vida quem não tiver aprendido a desprezá-la") - Não pode conduzir bem a sua vida quem não tiver aprendido a desprezá-la.
 
 :book: [Carta 112]({{< ref "/post/2021-10-18-carta-112" >}} 

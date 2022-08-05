@@ -453,6 +453,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 2]({{< ref "/post/2022-08-04-livro-6-teco-2" >}} 
 "Um dos atos da vida é também esse no qual morremos") - Um dos atos da vida é também esse no qual morremos
 
+:books: L6 - :book: [Teco 3]({{< ref "/post/2022-08-05-livro-6-teco-3" >}} 
+"Vê o fundo") - Vê o fundo
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

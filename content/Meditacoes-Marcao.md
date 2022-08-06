@@ -456,6 +456,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 3]({{< ref "/post/2022-08-05-livro-6-teco-3" >}} 
 "Vê o fundo") - Vê o fundo
 
+:books: L6 - :book: [Teco 4]({{< ref "/post/2022-08-06-livro-6-teco-4" >}} 
+"Tudo que aí está em breve será transformado") - Tudo que aí está em breve será transformado
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

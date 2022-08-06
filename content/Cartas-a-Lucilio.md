@@ -334,7 +334,7 @@ Idioma: português de Portugal
 :book: [Carta 111]({{< ref "/cartas/carta-111" >}} 
 "Não pode conduzir bem a sua vida quem não tiver aprendido a desprezá-la") - Não pode conduzir bem a sua vida quem não tiver aprendido a desprezá-la.
 
-:book: [Carta 112]({{< ref "/post/2021-10-18-carta-112" >}} 
+:book: [Carta 112]({{< ref "/cartas/carta-112" >}} 
 "Os homens amam e odeiam ao mesmo tempo os próprios vícios") - Os homens amam e odeiam ao mesmo tempo os próprios vícios
 
 
@@ -364,8 +364,6 @@ Idioma: português de Portugal
 
 :book: [Carta 120]({{< ref "/post/2021-10-26-carta-120" >}} 
 "Por vezes, um mal real apresenta o aspecto de bem moral, e igualmente a perfeição moral evidencia-se sob um aspecto diametralmente oposto.") - Por vezes, um mal real apresenta o aspecto de bem moral, e igualmente a perfeição moral evidencia-se sob um aspecto diametralmente oposto.
-
-
 
 :book: [Carta 121]({{< ref "/post/2021-10-27-carta-121" >}} 
 "É mais fácil intuir do que explicar o que é a natureza.") - É mais fácil intuir do que explicar o que é a natureza.

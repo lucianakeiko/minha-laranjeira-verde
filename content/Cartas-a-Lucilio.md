@@ -338,7 +338,7 @@ Idioma: português de Portugal
 "Os homens amam e odeiam ao mesmo tempo os próprios vícios") - Os homens amam e odeiam ao mesmo tempo os próprios vícios
 
 
-:book: [Carta 113]({{< ref "/post/2021-10-19-carta-113" >}} 
+:book: [Carta 113]({{< ref "/cartas/carta-113" >}} 
 "A forma de poder mais alta e divina que existe: o poder de nos dominarmos a nós mesmos!") - A forma de poder mais alta e divina que existe: o poder de nos dominarmos a nós mesmos!
 
 :book: [Carta 114]({{< ref "/post/2021-10-20-carta-114" >}} 

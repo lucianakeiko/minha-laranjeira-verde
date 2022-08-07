@@ -459,6 +459,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 4]({{< ref "/post/2022-08-06-livro-6-teco-4" >}} 
 "Tudo que aí está em breve será transformado") - Tudo que aí está em breve será transformado
 
+:books: L6 - :book: [Teco 5]({{< ref "/post/2022-08-07-livro-6-teco-5" >}} 
+"A razão que rege sabe o que faz.") - A razão que rege sabe o que faz.
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

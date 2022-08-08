@@ -341,7 +341,7 @@ Idioma: português de Portugal
 :book: [Carta 113]({{< ref "/cartas/carta-113" >}} 
 "A forma de poder mais alta e divina que existe: o poder de nos dominarmos a nós mesmos!") - A forma de poder mais alta e divina que existe: o poder de nos dominarmos a nós mesmos!
 
-:book: [Carta 114]({{< ref "/post/2021-10-20-carta-114" >}} 
+:book: [Carta 114]({{< ref "/cartas/carta-114" >}} 
 "O estilo é um reflexo da vida!") - O estilo é um reflexo da vida!
 
 :book: [Carta 115]({{< ref "/post/2021-10-21-carta-115" >}} 

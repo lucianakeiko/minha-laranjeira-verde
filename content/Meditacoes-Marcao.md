@@ -462,7 +462,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 5]({{< ref "/post/2022-08-07-livro-6-teco-5" >}} 
 "A razão que rege sabe o que faz.") - A razão que rege sabe o que faz.
 
-
+:books: L6 - :book: [Teco 6]({{< ref "/post/2022-08-08-livro-6-teco-6" >}} 
+"A melhor maneira de arredá-los é não parecer com eles") - A melhor maneira de arredá-los é não parecer com eles
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

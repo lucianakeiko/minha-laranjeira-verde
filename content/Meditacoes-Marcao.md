@@ -465,6 +465,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 6]({{< ref "/post/2022-08-08-livro-6-teco-6" >}} 
 "A melhor maneira de arredá-los é não parecer com eles") - A melhor maneira de arredá-los é não parecer com eles
 
+:books: L6 - :book: [Teco 7]({{< ref "/post/2022-08-09-livro-6-teco-7" >}} 
+"Tenhas um só deleite e contentamento") - Tenhas um só deleite e contentamento
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

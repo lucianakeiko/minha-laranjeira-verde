@@ -344,7 +344,7 @@ Idioma: português de Portugal
 :book: [Carta 114]({{< ref "/cartas/carta-114" >}} 
 "O estilo é um reflexo da vida!") - O estilo é um reflexo da vida!
 
-:book: [Carta 115]({{< ref "/post/2021-10-21-carta-115" >}} 
+:book: [Carta 115]({{< ref "/cartas/carta-115" >}} 
 "Um serviço que a filosofia te pode prestar : fazer com que nunca te lamentes do que és !") - Um serviço que a filosofia te pode prestar : fazer com que nunca te lamentes do que és !
 
 :book: [Carta 116]({{< ref "/post/2021-10-22-carta-116" >}} 

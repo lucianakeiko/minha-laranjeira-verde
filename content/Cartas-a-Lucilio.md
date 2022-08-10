@@ -347,7 +347,7 @@ Idioma: português de Portugal
 :book: [Carta 115]({{< ref "/cartas/carta-115" >}} 
 "Um serviço que a filosofia te pode prestar : fazer com que nunca te lamentes do que és !") - Um serviço que a filosofia te pode prestar : fazer com que nunca te lamentes do que és !
 
-:book: [Carta 116]({{< ref "/post/2021-10-22-carta-116" >}} 
+:book: [Carta 116]({{< ref "/cartas/carta-116" >}} 
 "A natureza deu-nos energia suficiente. A questão está em aproveitá-la") - A natureza deu-nos energia suficiente. A questão está em aproveitá-la
 
 

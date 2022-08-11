@@ -471,6 +471,10 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 8]({{< ref "/post/2022-08-10-livro-6-teco-8" >}} 
 "O guia é o que a si mesmo desperta") - O guia é o que a si mesmo desperta
 
+:books: L6 - :book: [Teco 9]({{< ref "/post/2022-08-11-livro-6-teco-9" >}} 
+"Tudo se cumpre segundo a natureza do universo") - Tudo se cumpre segundo a natureza do universo
+
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

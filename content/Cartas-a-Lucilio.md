@@ -351,7 +351,7 @@ Idioma: português de Portugal
 "A natureza deu-nos energia suficiente. A questão está em aproveitá-la") - A natureza deu-nos energia suficiente. A questão está em aproveitá-la
 
 
-:book: [Carta 117]({{< ref "/post/2021-10-23-carta-117" >}} 
+:book: [Carta 117]({{< ref "/cartas/carta-117" >}} 
 "Já há tempo que me censuro a mim mesmo por, imitando aqueles a quem critico, gastar palavras a discutir uma questão evidente.") - Já há tempo que me censuro a mim mesmo por, imitando aqueles a quem critico, gastar palavras a discutir uma questão evidente.
 
 ### :books: LIVRO XX (Cartas 118-124)

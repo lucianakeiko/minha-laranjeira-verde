@@ -356,7 +356,7 @@ Idioma: português de Portugal
 
 ### :books: LIVRO XX (Cartas 118-124)
 
-:book: [Carta 118]({{< ref "/post/2021-10-24-carta-118" >}} 
+:book: [Carta 118]({{< ref "/cartas/carta-118" >}} 
 "Toda a gente é infelizmente confundida pela ignorância da verdade") - Toda a gente é infelizmente confundida pela ignorância da verdade
 
 :book: [Carta 119]({{< ref "/post/2021-10-25-carta-119" >}} 

@@ -474,6 +474,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 9]({{< ref "/post/2022-08-11-livro-6-teco-9" >}} 
 "Tudo se cumpre segundo a natureza do universo") - Tudo se cumpre segundo a natureza do universo
 
+:books: L6 - :book: [Teco 10]({{< ref "/post/2022-08-12-livro-6-teco-10" >}} 
+"O dia da dispersão chegará para mim, faça eu o que fizer") - O dia da dispersão chegará para mim, faça eu o que fizer
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

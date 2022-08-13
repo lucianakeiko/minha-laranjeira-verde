@@ -477,6 +477,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 10]({{< ref "/post/2022-08-12-livro-6-teco-10" >}} 
 "O dia da dispersão chegará para mim, faça eu o que fizer") - O dia da dispersão chegará para mim, faça eu o que fizer
 
+:books: L6 - :book: [Teco 11]({{< ref "/post/2022-08-13-livro-6-teco-11" >}} 
+"Volta depressa a ti mesmo") - Volta depressa a ti mesmo
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

@@ -359,7 +359,7 @@ Idioma: português de Portugal
 :book: [Carta 118]({{< ref "/cartas/carta-118" >}} 
 "Toda a gente é infelizmente confundida pela ignorância da verdade") - Toda a gente é infelizmente confundida pela ignorância da verdade
 
-:book: [Carta 119]({{< ref "/post/2021-10-25-carta-119" >}} 
+:book: [Carta 119]({{< ref "/cartas/carta-119" >}} 
 "Quem tem o suficiente consegue qualquer coisa que um rico nunca atinge: o termo dos seus desejos.") - Quem tem o suficiente consegue qualquer coisa que um rico nunca atinge: o termo dos seus desejos.
 
 :book: [Carta 120]({{< ref "/post/2021-10-26-carta-120" >}} 

@@ -480,6 +480,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 11]({{< ref "/post/2022-08-13-livro-6-teco-11" >}} 
 "Volta depressa a ti mesmo") - Volta depressa a ti mesmo
 
+:books: L6 - :book: [Teco 12]({{< ref "/post/2022-08-14-livro-6-teco-12" >}} 
+"Graças a ela a vida te é suportável") - Graças a ela a vida te é suportável
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

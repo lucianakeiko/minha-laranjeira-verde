@@ -362,7 +362,7 @@ Idioma: português de Portugal
 :book: [Carta 119]({{< ref "/cartas/carta-119" >}} 
 "Quem tem o suficiente consegue qualquer coisa que um rico nunca atinge: o termo dos seus desejos.") - Quem tem o suficiente consegue qualquer coisa que um rico nunca atinge: o termo dos seus desejos.
 
-:book: [Carta 120]({{< ref "/post/2021-10-26-carta-120" >}} 
+:book: [Carta 120]({{< ref "/cartas/carta-120" >}} 
 "Por vezes, um mal real apresenta o aspecto de bem moral, e igualmente a perfeição moral evidencia-se sob um aspecto diametralmente oposto.") - Por vezes, um mal real apresenta o aspecto de bem moral, e igualmente a perfeição moral evidencia-se sob um aspecto diametralmente oposto.
 
 :book: [Carta 121]({{< ref "/post/2021-10-27-carta-121" >}} 

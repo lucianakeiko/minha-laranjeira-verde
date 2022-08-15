@@ -365,7 +365,7 @@ Idioma: português de Portugal
 :book: [Carta 120]({{< ref "/cartas/carta-120" >}} 
 "Por vezes, um mal real apresenta o aspecto de bem moral, e igualmente a perfeição moral evidencia-se sob um aspecto diametralmente oposto.") - Por vezes, um mal real apresenta o aspecto de bem moral, e igualmente a perfeição moral evidencia-se sob um aspecto diametralmente oposto.
 
-:book: [Carta 121]({{< ref "/post/2021-10-27-carta-121" >}} 
+:book: [Carta 121]({{< ref "/cartas/carta-121" >}} 
 "É mais fácil intuir do que explicar o que é a natureza.") - É mais fácil intuir do que explicar o que é a natureza.
 
 

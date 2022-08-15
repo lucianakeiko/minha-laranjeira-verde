@@ -483,6 +483,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 12]({{< ref "/post/2022-08-14-livro-6-teco-12" >}} 
 "Graças a ela a vida te é suportável") - Graças a ela a vida te é suportável
 
+:books: L6 - :book: [Teco 13]({{< ref "/post/2022-08-15-livro-6-teco-13" >}} 
+"A presunção é uma embusteira formidável") - A presunção é uma embusteira formidável
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

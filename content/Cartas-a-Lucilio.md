@@ -369,12 +369,12 @@ Idioma: português de Portugal
 "É mais fácil intuir do que explicar o que é a natureza.") - É mais fácil intuir do que explicar o que é a natureza.
 
 
-:book: [Carta 122]({{< ref "/post/2021-10-28-carta-122" >}} 
+:book: [Carta 122]({{< ref "/cartas/carta-122" >}} 
 "Para quem leva uma vida ativa nenhum dia é longo demais.
 ") - Para quem leva uma vida ativa nenhum dia é longo demais.
 
 
-:book: [Carta 123]({{< ref "/post/2021-10-29-carta-123" >}} 
+:book: [Carta 123]({{< ref "/cartas/carta-123" >}} 
 "Uma das causas da nossa infelicidade é nós vivermos sempre a imitar os outros, não nos guiando pela razão mas deixando-nos arrastar pela moda.
 ") - Uma das causas da nossa infelicidade é nós vivermos sempre a imitar os outros, não nos guiando pela razão mas deixando-nos arrastar pela moda.
 

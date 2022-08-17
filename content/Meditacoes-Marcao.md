@@ -486,6 +486,12 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 13]({{< ref "/post/2022-08-15-livro-6-teco-13" >}} 
 "A presunção é uma embusteira formidável") - A presunção é uma embusteira formidável
 
+:books: L6 - :book: [Teco 14]({{< ref "/post/2022-08-16-livro-6-teco-14" >}} 
+"Quem, porém, preza a alma racional, universal e sociável, já não dá atenção aos demais seres") - Quem, porém, preza a alma racional, universal e sociável, já não dá atenção aos demais seres
+
+:books: L6 - :book: [Teco 15]({{< ref "/post/2022-08-17-livro-6-teco-15" >}} 
+"Escoamentos e transformações renovam o mundo incessantemente") - Escoamentos e transformações renovam o mundo incessantemente
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

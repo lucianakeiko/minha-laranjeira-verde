@@ -379,7 +379,7 @@ Idioma: português de Portugal
 ") - Uma das causas da nossa infelicidade é nós vivermos sempre a imitar os outros, não nos guiando pela razão mas deixando-nos arrastar pela moda.
 
 
-:book: [Carta 124]({{< ref "/post/2021-10-30-carta-124" >}} 
+:book: [Carta 124]({{< ref "/cartas/carta-124" >}} 
 "És um animal racional. Qual é então o teu bem próprio? A perfeita razão. Procura elevá-la ao mais alto grau, deixa-a expandir-se tanto quanto lhe for possível.
 ") - És um animal racional. Qual é então o teu bem próprio? A perfeita razão. Procura elevá-la ao mais alto grau, deixa-a expandir-se tanto quanto lhe for possível.
 

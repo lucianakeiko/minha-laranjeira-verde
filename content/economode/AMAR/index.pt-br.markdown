@@ -14,7 +14,7 @@ description: ''
 
 
 # AMAR3 - jan/20 até o momento
-<img src="/economode/2021-07-17-amar3/index.pt-br_files/figure-html/unnamed-chunk-2-1.png" width="130%" />
+<img src="/economode/AMAR/index.pt-br_files/figure-html/unnamed-chunk-2-1.png" width="130%" />
 ## VOLUME
 
 
@@ -23,7 +23,7 @@ description: ''
 
 total <- AMAR3.SA$AMAR3.SA.Volume
 median(total)
-## [1] 5240050
+## [1] 5219500
 max(total)
 ## [1] 28215300
 min(total)

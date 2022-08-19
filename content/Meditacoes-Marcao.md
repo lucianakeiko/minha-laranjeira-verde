@@ -495,6 +495,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 16]({{< ref "/post/2022-08-18-livro-6-teco-16" >}} 
 "Mover-se e parar de acordo com a própria constituição") - Mover-se e parar de acordo com a própria constituição
 
+:books: L6 - :book: [Teco 17]({{< ref "/post/2022-08-19-livro-6-teco-17" >}} 
+"O movimento da virtude marcha com felicidade para diante") - O movimento da virtude marcha com felicidade para diante
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

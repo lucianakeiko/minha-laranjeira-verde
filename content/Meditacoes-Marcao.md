@@ -501,6 +501,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 18]({{< ref "/post/2022-08-20-livro-6-teco-18" >}} 
 "Como é estranha sua atitude") - Como é estranha sua atitude
 
+:books: L6 - :book: [Teco 19]({{< ref "/post/2022-08-22-livro-6-teco-19" >}} 
+"Se algo é possível e próprio de homem, considera-o acessível também a ti") - Se algo é possível e próprio de homem, considera-o acessível também a ti
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

@@ -510,6 +510,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 21]({{< ref "/post/2022-08-24-livro-6-teco-21" >}} 
 "Procuro a verdade; ela jamais causou dano a ninguém") - Procuro a verdade; ela jamais causou dano a ninguém
 
+:books: L6 - :book: [Teco 22]({{< ref "/post/2022-08-25-livro-6-teco-22" >}}
+"Os outros seres não me inquietam") - Os outros seres não me inquietam
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

@@ -513,6 +513,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 22]({{< ref "/post/2022-08-25-livro-6-teco-22" >}}
 "Os outros seres não me inquietam") - Os outros seres não me inquietam
 
+:books: L6 - :book: [Teco 23]({{< ref "/post/2022-08-26-livro-6-teco-23" >}}
+"Aos homens, trata-os como entes racionais, como sócios.") - Aos homens, trata-os como entes racionais, como sócios.
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

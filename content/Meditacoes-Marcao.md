@@ -516,6 +516,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 23]({{< ref "/post/2022-08-26-livro-6-teco-23" >}}
 "Aos homens, trata-os como entes racionais, como sócios.") - Aos homens, trata-os como entes racionais, como sócios.
 
+:books: L6 - :book: [Teco 24]({{< ref "/post/2022-08-27-livro-6-teco-24" >}}
+"Alexandre da Macedônia e seu arrieiro igualaram-se na morte") - Alexandre da Macedônia e seu arrieiro igualaram-se na morte
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

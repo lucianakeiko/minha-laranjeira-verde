@@ -519,6 +519,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 24]({{< ref "/post/2022-08-27-livro-6-teco-24" >}}
 "Alexandre da Macedônia e seu arrieiro igualaram-se na morte") - Alexandre da Macedônia e seu arrieiro igualaram-se na morte
 
+:books: L6 - :book: [Teco 25]({{< ref "/post/2022-08-28-livro-6-teco-25" >}}
+"Tudo quanto se produz nesse todo único existe simultaneamente") - Tudo quanto se produz nesse todo único existe simultaneamente
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

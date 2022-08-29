@@ -522,6 +522,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 25]({{< ref "/post/2022-08-28-livro-6-teco-25" >}}
 "Tudo quanto se produz nesse todo único existe simultaneamente") - Tudo quanto se produz nesse todo único existe simultaneamente
 
+:books: L6 - :book: [Teco 26]({{< ref "/post/2022-08-29-livro-6-teco-26" >}}
+"Todo dever se compõe de determinadas contas") - Todo dever se compõe de determinadas contas
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

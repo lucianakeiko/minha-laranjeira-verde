@@ -525,6 +525,10 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 26]({{< ref "/post/2022-08-29-livro-6-teco-26" >}}
 "Todo dever se compõe de determinadas contas") - Todo dever se compõe de determinadas contas
 
+:books: L6 - :book: [Teco 27]({{< ref "/post/2022-08-30-livro-6-teco-27" >}}
+"Ensina-os, mostra-lhes, sem te agastares.") - Ensina-os, mostra-lhes, sem te agastares.
+
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

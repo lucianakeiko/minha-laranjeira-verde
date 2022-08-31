@@ -528,6 +528,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 27]({{< ref "/post/2022-08-30-livro-6-teco-27" >}}
 "Ensina-os, mostra-lhes, sem te agastares.") - Ensina-os, mostra-lhes, sem te agastares.
 
+:books: L6 - :book: [Teco 28]({{< ref "/post/2022-08-31-livro-6-teco-28" >}}
+"A morte é o descanso das repercussões sensórias") - A morte é o descanso das repercussões sensórias
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

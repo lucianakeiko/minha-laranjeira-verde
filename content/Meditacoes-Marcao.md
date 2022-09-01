@@ -531,6 +531,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 28]({{< ref "/post/2022-08-31-livro-6-teco-28" >}}
 "A morte é o descanso das repercussões sensórias") - A morte é o descanso das repercussões sensórias
 
+:books: L6 - :book: [Teco 29]({{< ref "/post/2022-09-01-livro-6-teco-29" >}}
+"É uma vergonha") - É uma vergonha
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

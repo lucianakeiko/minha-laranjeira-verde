@@ -534,6 +534,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 29]({{< ref "/post/2022-09-01-livro-6-teco-29" >}}
 "É uma vergonha") - É uma vergonha
 
+:books: L6 - :book: [Teco 30]({{< ref "/post/2022-09-02-livro-6-teco-30" >}}
+"ÉLuta por permaneceres tal qual te quis formar a Filosofia") - Luta por permaneceres tal qual te quis formar a Filosofia
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

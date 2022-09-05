@@ -540,6 +540,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 31]({{< ref "/post/2022-09-03-livro-6-teco-31" >}}
 "Recobra os sentidos, reanima-te") - Recobra os sentidos, reanima-te
 
+:books: L6 - :book: [Teco 32]({{< ref "/post/2022-09-05-livro-6-teco-32" >}}
+"À inteligência tudo que não é operação sua é indiferente") - À inteligência tudo que não é operação sua é indiferente
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

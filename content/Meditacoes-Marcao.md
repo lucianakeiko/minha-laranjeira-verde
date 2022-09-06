@@ -543,6 +543,10 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 32]({{< ref "/post/2022-09-05-livro-6-teco-32" >}}
 "À inteligência tudo que não é operação sua é indiferente") - À inteligência tudo que não é operação sua é indiferente
 
+:books: L6 - :book: [Teco 33]({{< ref "/post/2022-09-06-livro-6-teco-33" >}}
+"Se não é contrário à sua natureza tampouco é um mal") - Se não é contrário à sua natureza tampouco é um mal
+
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

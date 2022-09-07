@@ -546,6 +546,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 33]({{< ref "/post/2022-09-06-livro-6-teco-33" >}}
 "Se não é contrário à sua natureza tampouco é um mal") - Se não é contrário à sua natureza tampouco é um mal
 
+:books: L6 - :book: [Teco 34]({{< ref "/post/2022-09-07-livro-6-teco-34" >}}
+"Prazeres enormes") - Prazeres enormes
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

@@ -552,6 +552,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 35]({{< ref "/post/2022-09-09-livro-6-teco-35" >}}
 "Ater-se aos princípios de sua arte") - Ater-se aos princípios de sua arte
 
+:books: L6 - :book: [Teco 36]({{< ref "/post/2022-09-10-livro-6-teco-36" >}}
+"O presente, um ponto da eternidade") - O presente, um ponto da eternidade
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

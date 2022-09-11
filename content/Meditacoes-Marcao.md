@@ -555,6 +555,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 36]({{< ref "/post/2022-09-10-livro-6-teco-36" >}}
 "O presente, um ponto da eternidade") - O presente, um ponto da eternidade
 
+:books: L6 - :book: [Teco 37]({{< ref "/post/2022-09-11-livro-6-teco-37" >}}
+"Quem viu o presente viu tudo") - Quem viu o presente viu tudo
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

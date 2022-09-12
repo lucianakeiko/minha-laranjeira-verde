@@ -558,6 +558,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 37]({{< ref "/post/2022-09-11-livro-6-teco-37" >}}
 "Quem viu o presente viu tudo") - Quem viu o presente viu tudo
 
+:books: L6 - :book: [Teco 38]({{< ref "/post/2022-09-12-livro-6-teco-38" >}}
+"Reflete amiúde na ligação e relação mútua de tudo") - Reflete amiúde na ligação e relação mútua de tudo
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

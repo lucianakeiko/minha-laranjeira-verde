@@ -561,6 +561,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 38]({{< ref "/post/2022-09-12-livro-6-teco-38" >}}
 "Reflete amiúde na ligação e relação mútua de tudo") - Reflete amiúde na ligação e relação mútua de tudo
 
+:books: L6 - :book: [Teco 39]({{< ref "/post/2022-09-13-livro-6-teco-39" >}}
+"Ajusta-te às coisas cujo destino é ligado ao teu") - Ajusta-te às coisas cujo destino é ligado ao teu
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

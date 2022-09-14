@@ -564,6 +564,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 39]({{< ref "/post/2022-09-13-livro-6-teco-39" >}}
 "Ajusta-te às coisas cujo destino é ligado ao teu") - Ajusta-te às coisas cujo destino é ligado ao teu
 
+:books: L6 - :book: [Teco 40]({{< ref "/post/2022-09-14-livro-6-teco-40" >}}
+"A força que os formou está no seu interior e ali permanece") - A força que os formou está no seu interior e ali permanece
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

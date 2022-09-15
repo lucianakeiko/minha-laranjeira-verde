@@ -567,6 +567,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 40]({{< ref "/post/2022-09-14-livro-6-teco-40" >}}
 "A força que os formou está no seu interior e ali permanece") - A força que os formou está no seu interior e ali permanece
 
+:books: L6 - :book: [Teco 41]({{< ref "/post/2022-09-15-livro-6-teco-41" >}}
+"Considerarmos como bens ou males apenas o que de nós depende") - Considerarmos como bens ou males apenas o que de nós depende
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

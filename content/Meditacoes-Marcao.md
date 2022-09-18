@@ -576,6 +576,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 43]({{< ref "/post/2022-09-17-livro-6-teco-43" >}}
 "Acaso o sol se mete a fazer o mister da chuva?") - Acaso o sol se mete a fazer o mister da chuva?
 
+:books: L6 - :book: [Teco 44]({{< ref "/post/2022-09-18-livro-6-teco-44" >}}
+"O interesse de cada um vai com sua constituição e natureza") - O interesse de cada um vai com sua constituição e natureza
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

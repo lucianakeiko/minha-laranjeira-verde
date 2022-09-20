@@ -582,6 +582,10 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 45]({{< ref "/post/2022-09-19-livro-6-teco-45" >}}
 "O que a cada um acontece é útil ao todo") - O que a cada um acontece é útil ao todo
 
+:books: L6 - :book: [Teco 46]({{< ref "/post/2022-09-20-livro-6-teco-46" >}}
+"Até quando?") - Até quando?
+
+
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

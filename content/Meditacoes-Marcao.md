@@ -588,6 +588,10 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 47]({{< ref "/post/2022-09-21-livro-6-teco-47" >}}
 "Uma só coisa existe de grande valor") - Uma só coisa existe de grande valor
 
+:books: L6 - :book: [Teco 48]({{< ref "/post/2022-09-22-livro-6-teco-48" >}}
+"Põe-te a pensar nos méritos das pessoas de teu convívio") - Põe-te a pensar nos méritos das pessoas de teu convívio
+
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

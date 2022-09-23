@@ -591,6 +591,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 48]({{< ref "/post/2022-09-22-livro-6-teco-48" >}}
 "Põe-te a pensar nos méritos das pessoas de teu convívio") - Põe-te a pensar nos méritos das pessoas de teu convívio
 
+:books: L6 - :book: [Teco 49]({{< ref "/post/2022-09-23-livro-6-teco-49" >}}
+"Satisfaze-te também com a medida de tempo") - Satisfaze-te também com a medida de tempo
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

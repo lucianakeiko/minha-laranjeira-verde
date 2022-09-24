@@ -594,6 +594,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 49]({{< ref "/post/2022-09-23-livro-6-teco-49" >}}
 "Satisfaze-te também com a medida de tempo") - Satisfaze-te também com a medida de tempo
 
+:books: L6 - :book: [Teco 50]({{< ref "/post/2022-09-24-livro-6-teco-50" >}}
+"Procede até contra a sua vontade, quando a razão da justiça o reclamar") - Procede até contra a sua vontade, quando a razão da justiça o reclamar
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

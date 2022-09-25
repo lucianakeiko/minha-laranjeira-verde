@@ -597,6 +597,8 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 50]({{< ref "/post/2022-09-24-livro-6-teco-50" >}}
 "Procede até contra a sua vontade, quando a razão da justiça o reclamar") - Procede até contra a sua vontade, quando a razão da justiça o reclamar
 
+:books: L6 - :book: [Teco 51]({{< ref "/post/2022-09-25-livro-6-teco-51" >}}
+"Quem ama a glória situa o seu bem numa atividade alheia") - Quem ama a glória situa o seu bem numa atividade alheia
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

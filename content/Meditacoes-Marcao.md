@@ -600,6 +600,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 51]({{< ref "/post/2022-09-25-livro-6-teco-51" >}}
 "Quem ama a glória situa o seu bem numa atividade alheia") - Quem ama a glória situa o seu bem numa atividade alheia
 
+:books: L6 - :book: [Teco 52]({{< ref "/post/2022-09-26-livro-6-teco-52" >}}
+"As coisas em si mesmas não têm natureza capaz de criar nossos juízos") - As coisas em si mesmas não têm natureza capaz de criar nossos juízos
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

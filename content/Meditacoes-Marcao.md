@@ -603,6 +603,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 52]({{< ref "/post/2022-09-26-livro-6-teco-52" >}}
 "As coisas em si mesmas não têm natureza capaz de criar nossos juízos") - As coisas em si mesmas não têm natureza capaz de criar nossos juízos
 
+:books: L6 - :book: [Teco 53]({{< ref "/post/2022-09-27-livro-6-teco-53" >}}
+"Habitua-te a dar plena atenção ao que outrem diz") - Habitua-te a dar plena atenção ao que outrem diz
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

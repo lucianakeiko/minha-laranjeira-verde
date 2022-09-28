@@ -606,6 +606,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 53]({{< ref "/post/2022-09-27-livro-6-teco-53" >}}
 "Habitua-te a dar plena atenção ao que outrem diz") - Habitua-te a dar plena atenção ao que outrem diz
 
+:books: L6 - :book: [Teco 54]({{< ref "/post/2022-09-28-livro-6-teco-54" >}}
+"O que não convém ao enxame não convém tampouco à abelha") - O que não convém ao enxame não convém tampouco à abelha
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

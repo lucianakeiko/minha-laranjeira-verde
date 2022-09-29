@@ -609,6 +609,10 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 54]({{< ref "/post/2022-09-28-livro-6-teco-54" >}}
 "O que não convém ao enxame não convém tampouco à abelha") - O que não convém ao enxame não convém tampouco à abelha
 
+:books: L6 - :book: [Teco 55]({{< ref "/post/2022-09-29-livro-6-teco-55" >}}
+"Cuidariam estes dois de outra coisa senão de como levar a efeito a preservação?") - Cuidariam estes dois de outra coisa senão de como levar a efeito a preservação?
+
+
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

@@ -612,6 +612,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 55]({{< ref "/post/2022-09-29-livro-6-teco-55" >}}
 "Cuidariam estes dois de outra coisa senão de como levar a efeito a preservação?") - Cuidariam estes dois de outra coisa senão de como levar a efeito a preservação?
 
+:books: L6 - :book: [Teco 56]({{< ref "/post/2022-09-30-livro-6-teco-56" >}}
+"Quantos com quem entrei no mundo já se foram !") - Quantos com quem entrei no mundo já se foram!
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

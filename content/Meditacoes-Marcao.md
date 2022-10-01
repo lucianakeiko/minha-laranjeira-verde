@@ -615,6 +615,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 56]({{< ref "/post/2022-09-30-livro-6-teco-56" >}}
 "Quantos com quem entrei no mundo já se foram !") - Quantos com quem entrei no mundo já se foram!
 
+:books: L6 - :book: [Teco 57]({{< ref "/post/2022-10-01-livro-6-teco-57" >}}
+"Por que, pois, me enfurio?") - Por que, pois, me enfurio?
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

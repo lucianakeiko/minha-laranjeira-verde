@@ -618,6 +618,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 57]({{< ref "/post/2022-10-01-livro-6-teco-57" >}}
 "Por que, pois, me enfurio?") - Por que, pois, me enfurio?
 
+:books: L6 - :book: [Teco 58]({{< ref "/post/2022-10-03-livro-6-teco-58" >}}
+"Ninguém te impedirá de viver segundo a razão de tua natureza") - Ninguém te impedirá de viver segundo a razão de tua natureza
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

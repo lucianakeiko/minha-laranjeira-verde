@@ -621,6 +621,9 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 58]({{< ref "/post/2022-10-03-livro-6-teco-58" >}}
 "Ninguém te impedirá de viver segundo a razão de tua natureza") - Ninguém te impedirá de viver segundo a razão de tua natureza
 
+:books: L6 - :book: [Teco 59]({{< ref "/post/2022-10-04-livro-6-teco-59" >}}
+"Quão depressa o tempo tudo ocultará") - Quão depressa o tempo tudo ocultará
+
 
 
 ### :books: LIVRO 7  ( Tecos 1 a 75 )

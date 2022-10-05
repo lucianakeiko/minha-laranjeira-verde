@@ -624,9 +624,11 @@ Editora: Nova Acropole
 :books: L6 - :book: [Teco 59]({{< ref "/post/2022-10-04-livro-6-teco-59" >}}
 "Quão depressa o tempo tudo ocultará") - Quão depressa o tempo tudo ocultará
 
-
-
 ### :books: LIVRO 7  ( Tecos 1 a 75 )
+
+:books: L7 - :book: [Teco 1]({{< ref "/post/2022-10-05-livro-7-teco-1" >}}
+"Nada há de novo; tudo é corriqueiro, tudo é efêmero.") - Nada há de novo; tudo é corriqueiro, tudo é efêmero.
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

@@ -629,6 +629,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 1]({{< ref "/post/2022-10-05-livro-7-teco-1" >}}
 "Nada há de novo; tudo é corriqueiro, tudo é efêmero.") - Nada há de novo; tudo é corriqueiro, tudo é efêmero.
 
+:books: L7 - :book: [Teco 2]({{< ref "/post/2022-10-06-livro-7-teco-2" >}}
+"Os dogmas vivem") - Os dogmas vivem
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

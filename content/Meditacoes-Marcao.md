@@ -632,6 +632,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 2]({{< ref "/post/2022-10-06-livro-7-teco-2" >}}
 "Os dogmas vivem") - Os dogmas vivem
 
+:books: L7 - :book: [Teco 3]({{< ref "/post/2022-10-07-livro-7-teco-3" >}}
+"Cada qual vale tanto quanto vale o alvo de seus esforços") - Cada qual vale tanto quanto vale o alvo de seus esforços
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

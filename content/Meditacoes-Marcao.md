@@ -638,6 +638,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 4]({{< ref "/post/2022-10-08-livro-7-teco-4" >}}
 "É mister acompanhar o que se diz e cada impulso") - É mister acompanhar o que se diz e cada impulso
 
+:books: L7 - :book: [Teco 5]({{< ref "/post/2022-10-09-livro-7-teco-5" >}}
+"Basta a minha inteligência para isto, ou não?") - Basta a minha inteligência para isto, ou não?
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

@@ -641,6 +641,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 5]({{< ref "/post/2022-10-09-livro-7-teco-5" >}}
 "Basta a minha inteligência para isto, ou não?") - Basta a minha inteligência para isto, ou não?
 
+:books: L7 - :book: [Teco 6]({{< ref "/post/2022-10-10-livro-7-teco-6" >}}
+"Quantos homens celebrados em hinos já caíram no esquecimento!") - Quantos homens celebrados em hinos já caíram no esquecimento!
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

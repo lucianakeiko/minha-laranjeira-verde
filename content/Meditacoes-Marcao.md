@@ -644,6 +644,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 6]({{< ref "/post/2022-10-10-livro-7-teco-6" >}}
 "Quantos homens celebrados em hinos já caíram no esquecimento!") - Quantos homens celebrados em hinos já caíram no esquecimento!
 
+:books: L7 - :book: [Teco 7]({{< ref "/post/2022-10-11-livro-7-teco-7" >}}
+"Não te acanhes de receber auxílio") - Não te acanhes de receber auxílio
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

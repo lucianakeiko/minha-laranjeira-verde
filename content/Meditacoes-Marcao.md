@@ -647,6 +647,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 7]({{< ref "/post/2022-10-11-livro-7-teco-7" >}}
 "Não te acanhes de receber auxílio") - Não te acanhes de receber auxílio
 
+:books: L7 - :book: [Teco 8]({{< ref "/post/2022-10-12-livro-7-teco-8" >}}
+"Não te inquiete o futuro") - Não te inquiete o futuro
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

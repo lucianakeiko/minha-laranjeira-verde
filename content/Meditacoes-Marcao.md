@@ -656,6 +656,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 10]({{< ref "/post/2022-10-14-livro-7-teco-10" >}}
 "Tudo que é material se esvaece rapidamente na substância universal") - Tudo que é material se esvaece rapidamente na substância universal
 
+:books: L7 - :book: [Teco 11]({{< ref "/post/2022-10-17-livro-7-teco-11" >}}
+"No vivente racional, ato natural e ato racional é tudo um.") - No vivente racional, ato natural e ato racional é tudo um.
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

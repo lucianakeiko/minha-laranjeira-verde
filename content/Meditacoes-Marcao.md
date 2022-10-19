@@ -662,6 +662,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 12]({{< ref "/post/2022-10-18-livro-7-teco-12" >}}
 "Ou direito, ou em vias de endireitar-se.") - Ou direito, ou em vias de endireitar-se.
 
+:books: L7 - :book: [Teco 13]({{< ref "/post/2022-10-19-livro-7-teco-13" >}}
+"Sou um membro do corpo formado pelos seres racionais") - Sou um membro do corpo formado pelos seres racionais
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

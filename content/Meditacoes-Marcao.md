@@ -665,6 +665,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 13]({{< ref "/post/2022-10-19-livro-7-teco-13" >}}
 "Sou um membro do corpo formado pelos seres racionais") - Sou um membro do corpo formado pelos seres racionais
 
+:books: L7 - :book: [Teco 14]({{< ref "/post/2022-10-20-livro-7-teco-14" >}}
+"Que suceda o acidente de origem externa que quiser") - Que suceda o acidente de origem externa que quiser
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

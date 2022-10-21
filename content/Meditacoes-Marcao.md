@@ -668,6 +668,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 14]({{< ref "/post/2022-10-20-livro-7-teco-14" >}}
 "Que suceda o acidente de origem externa que quiser") - Que suceda o acidente de origem externa que quiser
 
+:books: L7 - :book: [Teco 15]({{< ref "/post/2022-10-21-livro-7-teco-15" >}}
+"Façam o que fizerem, digam o que disserem, eu tenho de ser bom") - Façam o que fizerem, digam o que disserem, eu tenho de ser bom
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

@@ -671,6 +671,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 15]({{< ref "/post/2022-10-21-livro-7-teco-15" >}}
 "Façam o que fizerem, digam o que disserem, eu tenho de ser bom") - Façam o que fizerem, digam o que disserem, eu tenho de ser bom
 
+:books: L7 - :book: [Teco 16]({{< ref "/post/2022-10-22-livro-7-teco-16" >}}
+"Meu guia não se molesta a si mesmo") - Meu guia não se molesta a si mesmo
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

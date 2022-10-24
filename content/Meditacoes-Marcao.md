@@ -674,6 +674,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 16]({{< ref "/post/2022-10-22-livro-7-teco-16" >}}
 "Meu guia não se molesta a si mesmo") - Meu guia não se molesta a si mesmo
 
+:books: L7 - :book: [Teco 17]({{< ref "/post/2022-10-24-livro-7-teco-17" >}}
+"Que fazes aqui, ó imaginação?") - Que fazes aqui, ó imaginação?
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

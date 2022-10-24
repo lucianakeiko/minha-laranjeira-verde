@@ -677,6 +677,7 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 17]({{< ref "/post/2022-10-24-livro-7-teco-17" >}}
 "Que fazes aqui, ó imaginação?") - Que fazes aqui, ó imaginação?
 
+eu ein
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

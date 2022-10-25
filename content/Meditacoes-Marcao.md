@@ -677,6 +677,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 17]({{< ref "/post/2022-10-24-livro-7-teco-17" >}}
 "Que fazes aqui, ó imaginação?") - Que fazes aqui, ó imaginação?
 
+:books: L7 - :book: [Teco 18]({{< ref "/post/2022-10-25-livro-7-teco-18" >}}
+"Pode-se realizar alguma outra ação útil sem transformação?") - Pode-se realizar alguma outra ação útil sem transformação?
+
 eu ein
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )

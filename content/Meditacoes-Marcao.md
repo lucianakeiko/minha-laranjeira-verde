@@ -686,6 +686,10 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 20]({{< ref "/post/2022-10-27-livro-7-teco-20" >}}
 "Tenho só uma preocupação") - Tenho só uma preocupação
 
+:books: L7 - :book: [Teco 21]({{< ref "/post/2022-10-28-livro-7-teco-21" >}}
+"Perto estás de esquecer tudo") - Perto estás de esquecer tudo
+
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

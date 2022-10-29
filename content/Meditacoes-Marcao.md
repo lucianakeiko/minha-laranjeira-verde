@@ -689,6 +689,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 21]({{< ref "/post/2022-10-28-livro-7-teco-21" >}}
 "Perto estás de esquecer tudo") - Perto estás de esquecer tudo
 
+:books: L7 - :book: [Teco 22]({{< ref "/post/2022-10-29-livro-7-teco-22" >}}
+"É próprio do homem amar até os que o magoam") - É próprio do homem amar até os que o magoam
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

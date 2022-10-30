@@ -692,6 +692,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 22]({{< ref "/post/2022-10-29-livro-7-teco-22" >}}
 "É próprio do homem amar até os que o magoam") - É próprio do homem amar até os que o magoam
 
+:books: L7 - :book: [Teco 23]({{< ref "/post/2022-10-30-livro-7-teco-23" >}}
+"Para o escrínio nada há de terrível em ser desfeito") - Para o escrínio nada há de terrível em ser desfeito
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

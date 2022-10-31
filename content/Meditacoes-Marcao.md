@@ -695,6 +695,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 23]({{< ref "/post/2022-10-30-livro-7-teco-23" >}}
 "Para o escrínio nada há de terrível em ser desfeito") - Para o escrínio nada há de terrível em ser desfeito
 
+:books: L7 - :book: [Teco 24]({{< ref "/post/2022-10-31-livro-7-teco-24" >}}
+"Um rosto irado é por demais contrário à natureza") - Um rosto irado é por demais contrário à natureza
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

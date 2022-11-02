@@ -698,6 +698,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 24]({{< ref "/post/2022-10-31-livro-7-teco-24" >}}
 "Um rosto irado é por demais contrário à natureza") - Um rosto irado é por demais contrário à natureza
 
+:books: L7 - :book: [Teco 25]({{< ref "/post/2022-11-02-livro-7-teco-25" >}}
+"A natureza que rege o universo mudará num instante") - A natureza que rege o universo mudará num instante
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

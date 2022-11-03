@@ -701,6 +701,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 25]({{< ref "/post/2022-11-02-livro-7-teco-25" >}}
 "A natureza que rege o universo mudará num instante") - A natureza que rege o universo mudará num instante
 
+:books: L7 - :book: [Teco 26]({{< ref "/post/2022-11-03-livro-7-teco-26" >}}
+"Pensa imediatamente que ideia do bem ou do mal o levou a cometer a falta") - Pensa imediatamente que ideia do bem ou do mal o levou a cometer a falta
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

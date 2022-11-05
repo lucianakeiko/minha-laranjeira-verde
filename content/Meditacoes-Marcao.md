@@ -707,6 +707,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 27]({{< ref "/post/2022-11-04-livro-7-teco-27" >}}
 "Não considerar presentes as coisas ausentes") - Não considerar presentes as coisas ausentes
 
+:books: L7 - :book: [Teco 28]({{< ref "/post/2022-11-05-livro-7-teco-28" >}}
+"Recolhe-te em ti mesmo") - Recolhe-te em ti mesmo
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

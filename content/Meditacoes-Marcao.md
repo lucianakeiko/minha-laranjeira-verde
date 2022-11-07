@@ -710,6 +710,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 28]({{< ref "/post/2022-11-05-livro-7-teco-28" >}}
 "Recolhe-te em ti mesmo") - Recolhe-te em ti mesmo
 
+:books: L7 - :book: [Teco 29]({{< ref "/post/2022-11-07-livro-7-teco-29" >}}
+"O pecado de fulano, deixa-o lá onde foi cometido.") - O pecado de fulano, deixa-o lá onde foi cometido.
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

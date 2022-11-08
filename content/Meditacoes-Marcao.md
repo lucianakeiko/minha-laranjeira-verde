@@ -713,6 +713,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 29]({{< ref "/post/2022-11-07-livro-7-teco-29" >}}
 "O pecado de fulano, deixa-o lá onde foi cometido.") - O pecado de fulano, deixa-o lá onde foi cometido.
 
+:books: L7 - :book: [Teco 30]({{< ref "/post/2022-11-08-livro-7-teco-30" >}}
+"Mergulha a mente nos efeitos e suas causas") - Mergulha a mente nos efeitos e suas causas
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

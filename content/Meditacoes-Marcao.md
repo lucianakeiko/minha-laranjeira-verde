@@ -716,6 +716,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 30]({{< ref "/post/2022-11-08-livro-7-teco-30" >}}
 "Mergulha a mente nos efeitos e suas causas") - Mergulha a mente nos efeitos e suas causas
 
+:books: L7 - :book: [Teco 31]({{< ref "/post/2022-11-09-livro-7-teco-31" >}}
+"Exorna-te com a simplicidade") - Exorna-te com a simplicidade
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

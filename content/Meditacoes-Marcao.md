@@ -719,6 +719,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 31]({{< ref "/post/2022-11-09-livro-7-teco-31" >}}
 "Exorna-te com a simplicidade") - Exorna-te com a simplicidade
 
+:books: L7 - :book: [Teco 32]({{< ref "/post/2022-11-10-livro-7-teco-32" >}}
+"Sobre a morte: ou é dispersão, ou extinção ou transmigração.") - Sobre a morte: ou é dispersão, ou extinção ou transmigração.
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

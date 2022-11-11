@@ -722,6 +722,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 32]({{< ref "/post/2022-11-10-livro-7-teco-32" >}}
 "Sobre a morte: ou é dispersão, ou extinção ou transmigração.") - Sobre a morte: ou é dispersão, ou extinção ou transmigração.
 
+:books: L7 - :book: [Teco 33]({{< ref "/post/2022-11-11-livro-7-teco-33" >}}
+"Sobre a dor: o que é insuportável mata; o que dura é suportável.") - Sobre a dor: o que é insuportável mata; o que dura é suportável.
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

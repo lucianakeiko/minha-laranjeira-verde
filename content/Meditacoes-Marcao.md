@@ -725,6 +725,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 33]({{< ref "/post/2022-11-11-livro-7-teco-33" >}}
 "Sobre a dor: o que é insuportável mata; o que dura é suportável.") - Sobre a dor: o que é insuportável mata; o que dura é suportável.
 
+:books: L7 - :book: [Teco 34]({{< ref "/post/2022-11-12-livro-7-teco-34" >}}
+"Sobre a glória") - Sobre a glória
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

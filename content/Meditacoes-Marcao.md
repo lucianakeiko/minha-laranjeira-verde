@@ -728,6 +728,8 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 34]({{< ref "/post/2022-11-12-livro-7-teco-34" >}}
 "Sobre a glória") - Sobre a glória
 
+:books: L7 - :book: [Teco 35]({{< ref "/post/2022-11-13-livro-7-teco-35" >}}
+"Parecerá terrível a morte?") - Parecerá terrível a morte?
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

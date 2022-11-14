@@ -731,6 +731,10 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 35]({{< ref "/post/2022-11-13-livro-7-teco-35" >}}
 "Parecerá terrível a morte?") - Parecerá terrível a morte?
 
+:books: L7 - :book: [Teco 36]({{< ref "/post/2022-11-14-livro-7-teco-36" >}}
+"É próprio dos reis fazerem o bem e serem malsinados.") - É próprio dos reis fazerem o bem e serem malsinados.
+
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

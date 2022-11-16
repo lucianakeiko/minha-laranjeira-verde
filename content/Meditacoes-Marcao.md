@@ -737,6 +737,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 37]({{< ref "/post/2022-11-15-livro-7-teco-37" >}}
 "É uma vergonha que o rosto se preste docilmente a moldar-se") - É uma vergonha que o rosto se preste docilmente a moldar-se
 
+:books: L7 - :book: [Teco 38]({{< ref "/post/2022-11-16-livro-7-teco-38" >}}
+"Não adianta agastar-se com as coisas") - Não adianta agastar-se com as coisas
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

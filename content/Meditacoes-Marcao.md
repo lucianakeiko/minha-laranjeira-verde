@@ -743,6 +743,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 39]({{< ref "/post/2022-11-17-livro-7-teco-39" >}}
 "Oxalá dês alegrias aos deuses imortais e a nós") - Oxalá dês alegrias aos deuses imortais e a nós
 
+:books: L7 - :book: [Teco 40]({{< ref "/post/2022-11-18-livro-7-teco-40" >}}
+"Segar a vida como espiga rica de grãos") - Segar a vida como espiga rica de grãos
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

@@ -750,6 +750,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 41]({{< ref "/post/2022-11-19-livro-7-teco-41" >}}
 "Se os deuses se descuidaram de mim e de meus filhos, isso também tem sua razão.") - Se os deuses se descuidaram de mim e de meus filhos, isso também tem sua razão.
 
+:books: L7 - :book: [Teco 42]({{< ref "/post/2022-11-21-livro-7-teco-42" >}}
+"Comigo estão o bem e a justiça") - Comigo estão o bem e a justiça
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

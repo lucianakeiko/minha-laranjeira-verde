@@ -756,6 +756,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 43]({{< ref "/post/2022-11-22-livro-7-teco-43" >}}
 "Não tomar parte em seus lamentos e convulsões") - Não tomar parte em seus lamentos e convulsões
 
+:books: L7 - :book: [Teco 44]({{< ref "/post/2022-11-23-livro-7-teco-44" >}}
+"O que faz é justo ou injusto?") - O que faz é justo ou injusto?
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

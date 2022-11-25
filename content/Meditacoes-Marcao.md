@@ -763,6 +763,10 @@ Editora: Nova Acropole
 "Permanecer diante dos perigos") - Permanecer diante dos perigos
 
 
+:books: L7 - :book: [Teco 46]({{< ref "/post/2022-11-25-livro-7-teco-46" >}}
+"Qual a maneira mais digna de viver esse tempo que vai viver") - Qual a maneira mais digna de viver esse tempo que vai viver
+
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

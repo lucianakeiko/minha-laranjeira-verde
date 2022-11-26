@@ -766,6 +766,8 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 46]({{< ref "/post/2022-11-25-livro-7-teco-46" >}}
 "Qual a maneira mais digna de viver esse tempo que vai viver") - Qual a maneira mais digna de viver esse tempo que vai viver
 
+:books: L7 - :book: [Teco 47]({{< ref "/post/2022-11-26-livro-7-teco-47" >}}
+"Pensamentos lavam a impureza da vida terrena") - Pensamentos lavam a impureza da vida terrena
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

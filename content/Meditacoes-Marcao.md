@@ -769,6 +769,10 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 47]({{< ref "/post/2022-11-26-livro-7-teco-47" >}}
 "Pensamentos lavam a impureza da vida terrena") - Pensamentos lavam a impureza da vida terrena
 
+:books: L7 - :book: [Teco 48]({{< ref "/post/2022-11-28-livro-7-teco-48" >}}
+"Bela esta reflexão de Platão") - Bela esta reflexão de Platão
+
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

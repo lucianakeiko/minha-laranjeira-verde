@@ -772,6 +772,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 48]({{< ref "/post/2022-11-28-livro-7-teco-48" >}}
 "Bela esta reflexão de Platão") - Bela esta reflexão de Platão
 
+:books: L7 - :book: [Teco 49]({{< ref "/post/2022-11-29-livro-7-teco-49" >}}
+"Com efeito, o que verás a mais?") - Com efeito, o que verás a mais?
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

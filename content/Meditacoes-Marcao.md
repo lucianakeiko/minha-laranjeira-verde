@@ -776,6 +776,10 @@ Editora: Nova Acropole
 "Com efeito, o que verás a mais?") - Com efeito, o que verás a mais?
 
 
+:books: L7 - :book: [Teco 50]({{< ref "/post/2022-11-30-livro-7-teco-50" >}}
+"E o que da terra nasceu à terra volta") - E o que da terra nasceu à terra volta
+
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

@@ -782,6 +782,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 51]({{< ref "/post/2022-12-01-livro-7-teco-51" >}}
 "Sem queixas") - Sem queixas
 
+:books: L7 - :book: [Teco 52]({{< ref "/post/2022-12-02-livro-7-teco-52" >}}
+"Melhor") - Melhor
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

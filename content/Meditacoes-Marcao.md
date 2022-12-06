@@ -788,9 +788,11 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 53]({{< ref "/post/2022-12-03-livro-7-teco-53" >}}
 "Nenhum dano é de recear") - Nenhum dano é de recear
 
-
 :books: L7 - :book: [Teco 54]({{< ref "/post/2022-12-05-livro-7-teco-54" >}}
 "Bom acolhimento às conjunturas presentes") - Bom acolhimento às conjunturas presentes
+
+:books: L7 - :book: [Teco 55]({{< ref "/post/2022-12-06-livro-7-teco-55" >}}
+"Da constituição de cada um decorre o seu mister") - Da constituição de cada um decorre o seu mister
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

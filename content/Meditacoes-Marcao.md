@@ -797,6 +797,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 56]({{< ref "/post/2022-12-07-livro-7-teco-56" >}}
 "Deves viver conforme a natureza o tempo excedente que te resta") - Deves viver conforme a natureza o tempo excedente que te resta
 
+:books: L7 - :book: [Teco 57]({{< ref "/post/2022-12-08-livro-7-teco-57" >}}
+"Preza apenas o que te acontece") - Preza apenas o que te acontece
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

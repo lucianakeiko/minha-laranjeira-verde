@@ -812,6 +812,8 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 61]({{< ref "/post/2022-12-12-livro-7-teco-61" >}}
 "A arte de viver é mais semelhante à luta que à dança") - A arte de viver é mais semelhante à luta que à dança
 
+:books: L7 - :book: [Teco 62]({{< ref "/post/2022-12-13-livro-7-teco-62" >}}
+"Reflete assiduamente quem são os seus guias") - Reflete assiduamente quem são os seus guias
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

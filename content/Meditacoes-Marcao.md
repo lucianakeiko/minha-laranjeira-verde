@@ -815,6 +815,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 62]({{< ref "/post/2022-12-13-livro-7-teco-62" >}}
 "Reflete assiduamente quem são os seus guias") - Reflete assiduamente quem são os seus guias
 
+:books: L7 - :book: [Teco 63]({{< ref "/post/2022-12-14-livro-7-teco-63" >}}
+"É sem querer") - É sem querer
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

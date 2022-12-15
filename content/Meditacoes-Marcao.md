@@ -818,6 +818,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 63]({{< ref "/post/2022-12-14-livro-7-teco-63" >}}
 "É sem querer") - É sem querer
 
+:books: L7 - :book: [Teco 64]({{< ref "/post/2022-12-15-livro-7-teco-64" >}}
+"A dor não é insuportável nem eterna") - A dor não é insuportável nem eterna
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

@@ -824,6 +824,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 65]({{< ref "/post/2022-12-16-livro-7-teco-65" >}}
 "Toma cuidado") - Toma cuidado
 
+:books: L7 - :book: [Teco 66]({{< ref "/post/2022-12-17-livro-7-teco-66" >}}
+"Cumpre investigar disposições de espírito") - Cumpre investigar disposições de espírito
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

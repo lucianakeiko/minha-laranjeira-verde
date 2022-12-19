@@ -830,6 +830,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 67]({{< ref "/post/2022-12-18-livro-7-teco-67" >}}
 "Ao homem é sumamente possível ser como um deus sem ser reconhecido de ninguém") - Ao homem é sumamente possível ser como um deus sem ser reconhecido de ninguém
 
+:books: L7 - :book: [Teco 68]({{< ref "/post/2022-12-19-livro-7-teco-68" >}}
+"Passa a tua vida a salvo de violências, na mais completa alegria do coração") - Passa a tua vida a salvo de violências, na mais completa alegria do coração
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

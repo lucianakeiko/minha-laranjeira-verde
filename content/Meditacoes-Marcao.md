@@ -833,6 +833,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 68]({{< ref "/post/2022-12-19-livro-7-teco-68" >}}
 "Passa a tua vida a salvo de violências, na mais completa alegria do coração") - Passa a tua vida a salvo de violências, na mais completa alegria do coração
 
+:books: L7 - :book: [Teco 69]({{< ref "/post/2022-12-20-livro-7-teco-69" >}}
+"É da perfeição moral passar cada dia como se fosse o último") - É da perfeição moral passar cada dia como se fosse o último
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

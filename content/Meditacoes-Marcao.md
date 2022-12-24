@@ -836,6 +836,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 69]({{< ref "/post/2022-12-20-livro-7-teco-69" >}}
 "É da perfeição moral passar cada dia como se fosse o último") - É da perfeição moral passar cada dia como se fosse o último
 
+:books: L7 - :book: [Teco 70]({{< ref "/post/2022-12-24-livro-7-teco-70" >}}
+"Os deuses não se amofinam") - Os deuses não se amofinam
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

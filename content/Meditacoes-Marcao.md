@@ -839,6 +839,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 70]({{< ref "/post/2022-12-24-livro-7-teco-70" >}}
 "Os deuses não se amofinam") - Os deuses não se amofinam
 
+:books: L7 - :book: [Teco 71]({{< ref "/post/2022-12-27-livro-7-teco-71" >}}
+"É cômico não fugir à própria maldade") - É cômico não fugir à própria maldade
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

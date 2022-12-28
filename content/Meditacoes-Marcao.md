@@ -842,6 +842,10 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 71]({{< ref "/post/2022-12-27-livro-7-teco-71" >}}
 "É cômico não fugir à própria maldade") - É cômico não fugir à própria maldade
 
+:books: L7 - :book: [Teco 72]({{< ref "/post/2022-12-28-livro-7-teco-72" >}}
+"A faculdade racional e social") - A faculdade racional e social
+
+
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

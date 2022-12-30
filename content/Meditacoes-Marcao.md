@@ -845,6 +845,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 72]({{< ref "/post/2022-12-28-livro-7-teco-72" >}}
 "A faculdade racional e social") - A faculdade racional e social
 
+:books: L7 - :book: [Teco 73]({{< ref "/post/2022-12-30-livro-7-teco-73" >}}
+"Satisfação de prestar um benefício") - Satisfação de prestar um benefício
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

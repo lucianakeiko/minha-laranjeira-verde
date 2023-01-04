@@ -848,6 +848,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 73]({{< ref "/post/2022-12-30-livro-7-teco-73" >}}
 "Satisfação de prestar um benefício") - Satisfação de prestar um benefício
 
+:books: L7 - :book: [Teco 74]({{< ref "/post/2023-01-04-livro-7-teco-74" >}}
+"Ninguém se cansa de receber ajuda") - Ninguém se cansa de receber ajuda
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

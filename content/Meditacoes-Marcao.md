@@ -851,6 +851,9 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 74]({{< ref "/post/2023-01-04-livro-7-teco-74" >}}
 "Ninguém se cansa de receber ajuda") - Ninguém se cansa de receber ajuda
 
+:books: L7 - :book: [Teco 75]({{< ref "/post/2023-01-05-livro-7-teco-75" >}}
+"Foi a natureza universal que decidiu formar o mundo") - Foi a natureza universal que decidiu formar o mundo
+
 
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

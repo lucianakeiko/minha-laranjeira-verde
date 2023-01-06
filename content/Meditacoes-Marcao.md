@@ -854,8 +854,11 @@ Editora: Nova Acropole
 :books: L7 - :book: [Teco 75]({{< ref "/post/2023-01-05-livro-7-teco-75" >}}
 "Foi a natureza universal que decidiu formar o mundo") - Foi a natureza universal que decidiu formar o mundo
 
-
 ### :books: LIVRO 8  ( Tecos 1 a 61 )
+
+:books: L8 - :book: [Teco 1]({{< ref "/post/2023-01-06-livro-8-teco-1" >}}
+"Procura entender o que ela quer e nada mais te aflija") - Procura entender o que ela quer e nada mais te aflija
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

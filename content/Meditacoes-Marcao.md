@@ -859,6 +859,10 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 1]({{< ref "/post/2023-01-06-livro-8-teco-1" >}}
 "Procura entender o que ela quer e nada mais te aflija") - Procura entender o que ela quer e nada mais te aflija
 
+
+:books: L8 - :book: [Teco 2]({{< ref "/post/2023-01-09-livro-8-teco-2" >}}
+"Que efeitos terá para mim?") - Que efeitos terá para mim?
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

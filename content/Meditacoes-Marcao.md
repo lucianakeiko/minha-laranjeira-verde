@@ -866,6 +866,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 3]({{< ref "/post/2023-01-10-livro-8-teco-3" >}}
 "ignorância de quantos fatos!") - ignorância de quantos fatos!
 
+:books: L8 - :book: [Teco 4]({{< ref "/post/2023-01-11-livro-8-teco-4" >}}
+"Ainda que arrebentes") - Ainda que arrebentes
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

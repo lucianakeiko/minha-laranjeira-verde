@@ -869,6 +869,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 4]({{< ref "/post/2023-01-11-livro-8-teco-4" >}}
 "Ainda que arrebentes") - Ainda que arrebentes
 
+:books: L8 - :book: [Teco 5]({{< ref "/post/2023-01-12-livro-8-teco-5" >}}
+"Não te perturbes") - Não te perturbes
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

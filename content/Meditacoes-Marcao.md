@@ -872,6 +872,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 5]({{< ref "/post/2023-01-12-livro-8-teco-5" >}}
 "Não te perturbes") - Não te perturbes
 
+:books: L8 - :book: [Teco 6]({{< ref "/post/2023-01-13-livro-8-teco-6" >}}
+"Tudo são mudanças") - Tudo são mudanças
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

@@ -41,5 +41,7 @@ Ganha quem não desite de tentar.
 quem ganha? o mundo ganha. Em precisao. Em perfeicao. 
 a natureza só sabe otimizar.
 
+a gente só tem 1 vida, eu não consigo ignorar esse fato.
+
 #BuildLegoLekton
 

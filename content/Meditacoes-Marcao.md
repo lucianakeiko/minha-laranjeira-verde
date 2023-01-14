@@ -875,6 +875,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 6]({{< ref "/post/2023-01-13-livro-8-teco-6" >}}
 "Tudo são mudanças") - Tudo são mudanças
 
+:books: L8 - :book: [Teco 7]({{< ref "/post/2023-01-14-livro-8-teco-7" >}}
+"Toda natureza satisfaz-se com seguir bem o seu caminho") - Toda natureza satisfaz-se com seguir bem o seu caminho
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

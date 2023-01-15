@@ -878,6 +878,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 7]({{< ref "/post/2023-01-14-livro-8-teco-7" >}}
 "Toda natureza satisfaz-se com seguir bem o seu caminho") - Toda natureza satisfaz-se com seguir bem o seu caminho
 
+:books: L8 - :book: [Teco 8]({{< ref "/post/2023-01-15-livro-8-teco-8" >}}
+"Não podes ler") - Não podes ler
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

@@ -884,6 +884,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 9]({{< ref "/post/2023-01-16-livro-8-teco-9" >}}
 "Que ninguém te ouça mais lastimar") - Que ninguém te ouça mais lastimar
 
+:books: L8 - :book: [Teco 10]({{< ref "/post/2023-01-17-livro-8-teco-10" >}}
+"O prazer não é nem útil, nem um bem.") - O prazer não é nem útil, nem um bem.
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

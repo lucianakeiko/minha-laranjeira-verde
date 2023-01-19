@@ -890,6 +890,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 11]({{< ref "/post/2023-01-18-livro-8-teco-11" >}}
 "Que faz no mundo?") - Que faz no mundo?
 
+:books: L8 - :book: [Teco 12]({{< ref "/post/2023-01-19-livro-8-teco-12" >}}
+"Lembra-te de que conforme à tua constituição e à natureza humana") - Lembra-te de que conforme à tua constituição e à natureza humana
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

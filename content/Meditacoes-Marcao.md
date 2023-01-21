@@ -893,6 +893,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 12]({{< ref "/post/2023-01-19-livro-8-teco-12" >}}
 "Lembra-te de que conforme à tua constituição e à natureza humana") - Lembra-te de que conforme à tua constituição e à natureza humana
 
+:books: L8 - :book: [Teco 13]({{< ref "/post/2023-01-21-livro-8-teco-13" >}}
+"Aplica a ciência da natureza.") - Aplica a ciência da natureza.
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

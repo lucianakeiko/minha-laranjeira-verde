@@ -897,6 +897,10 @@ Editora: Nova Acropole
 "Aplica a ciência da natureza.") - Aplica a ciência da natureza.
 
 
+:books: L8 - :book: [Teco 14]({{< ref "/post/2023-01-22-livro-8-teco-14" >}}
+"Que princípios sobre o bem e o mal segue esse homem?") - Que princípios sobre o bem e o mal segue esse homem?
+
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

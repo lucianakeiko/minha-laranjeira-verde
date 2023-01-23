@@ -900,6 +900,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 14]({{< ref "/post/2023-01-22-livro-8-teco-14" >}}
 "Que princípios sobre o bem e o mal segue esse homem?") - Que princípios sobre o bem e o mal segue esse homem?
 
+:books: L9 - :book: [Teco 15]({{< ref "/post/2023-01-23-livro-8-teco-15" >}}
+"O mundo e seus frutos") - O mundo e seus frutos
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

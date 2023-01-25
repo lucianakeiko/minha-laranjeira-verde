@@ -906,6 +906,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 16]({{< ref "/post/2023-01-24-livro-8-teco-16" >}}
 "Lembra-te de que mudar de opinião são atos livres") - Lembra-te de que mudar de opinião são atos livres
 
+:books: L8 - :book: [Teco 17]({{< ref "/post/2023-01-25-livro-8-teco-17" >}}
+"Nada se deve fazer sem propósito") - Nada se deve fazer sem propósito
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

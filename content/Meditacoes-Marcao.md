@@ -909,6 +909,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 17]({{< ref "/post/2023-01-25-livro-8-teco-17" >}}
 "Nada se deve fazer sem propósito") - Nada se deve fazer sem propósito
 
+:books: L8 - :book: [Teco 18]({{< ref "/post/2023-01-28-livro-8-teco-18" >}}
+"Os elementos mesmo se transformam e não resmungam") - Os elementos mesmo se transformam e não resmungam
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

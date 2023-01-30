@@ -912,6 +912,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 18]({{< ref "/post/2023-01-28-livro-8-teco-18" >}}
 "Os elementos mesmo se transformam e não resmungam") - Os elementos mesmo se transformam e não resmungam
 
+:books: L8 - :book: [Teco 19]({{< ref "/post/2023-01-30-livro-8-teco-19" >}}
+"Tu, pois, para que nasceste?") - Tu, pois, para que nasceste?
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

@@ -915,6 +915,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 19]({{< ref "/post/2023-01-30-livro-8-teco-19" >}}
 "Tu, pois, para que nasceste?") - Tu, pois, para que nasceste?
 
+:books: L8 - :book: [Teco 20]({{< ref "/post/2023-01-31-livro-8-teco-20" >}}
+"A natureza de cada um tem em mira") - A natureza de cada um tem em mira
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

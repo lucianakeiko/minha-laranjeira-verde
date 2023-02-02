@@ -921,6 +921,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 21]({{< ref "/post/2023-02-01-livro-8-teco-21" >}}
 "Efêmero é tanto quem louva como o louvado") - Efêmero é tanto quem louva como o louvado
 
+:books: L8 - :book: [Teco 22]({{< ref "/post/2023-02-02-livro-8-teco-22" >}}
+"Preferes ser bom amanhã a sê-lo hoje") - Preferes ser bom amanhã a sê-lo hoje
+
 
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

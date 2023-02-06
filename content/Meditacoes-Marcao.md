@@ -924,6 +924,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 22]({{< ref "/post/2023-02-02-livro-8-teco-22" >}}
 "Preferes ser bom amanhã a sê-lo hoje") - Preferes ser bom amanhã a sê-lo hoje
 
+:books: L8 - :book: [Teco 23]({{< ref "/post/2023-02-06-livro-8-teco-23" >}}
+"Faço-a tendo em vista o bem da Humanidade") - Faço-a tendo em vista o bem da Humanidade
+
 
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

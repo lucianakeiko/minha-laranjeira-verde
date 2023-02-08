@@ -927,6 +927,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 23]({{< ref "/post/2023-02-06-livro-8-teco-23" >}}
 "Faço-a tendo em vista o bem da Humanidade") - Faço-a tendo em vista o bem da Humanidade
 
+:books: L8 - :book: [Teco 24]({{< ref "/post/2023-02-08-livro-8-teco-24" >}}
+"óleo, suor, sujeira, água viscosa, tudo asqueroso") - óleo, suor, sujeira, água viscosa, tudo asqueroso
+
 
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

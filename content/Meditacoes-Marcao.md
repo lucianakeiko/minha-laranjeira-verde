@@ -933,6 +933,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 25]({{< ref "/post/2023-02-14-livro-8-teco-25" >}}
 "Tudo efêmero, morto há muito") - Tudo efêmero, morto há muito
 
+:books: L8 - :book: [Teco 26]({{< ref "/post/2023-02-16-livro-8-teco-26" >}}
+"A alegria do homem consiste em fazer o que é próprio de homem") - A alegria do homem consiste em fazer o que é próprio de homem
+
 
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )

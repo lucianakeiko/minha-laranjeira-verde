@@ -937,6 +937,14 @@ Editora: Nova Acropole
 "A alegria do homem consiste em fazer o que é próprio de homem") - A alegria do homem consiste em fazer o que é próprio de homem
 
 
+:books: L8 - :book: [Teco 27]({{< ref "/post/2023-02-17-livro-8-teco-27" >}}
+"Três ordens de relações") - Três ordens de relações
+
+:books: L8 - :book: [Teco 28]({{< ref "/post/2023-02-17-livro-8-teco-28" >}}
+"A dor ou é um mal para o corpo ou para a alma") - A dor ou é um mal para o corpo ou para a alma
+
+:books: L8 - :book: [Teco 29]({{< ref "/post/2023-03-03-livro-8-teco-29" >}}
+"Lembra-te dessa faculdade que tens segundo a natureza") - Lembra-te dessa faculdade que tens segundo a natureza
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

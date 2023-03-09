@@ -946,6 +946,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 29]({{< ref "/post/2023-03-03-livro-8-teco-29" >}}
 "Lembra-te dessa faculdade que tens segundo a natureza") - Lembra-te dessa faculdade que tens segundo a natureza
 
+:books: L8 - :book: [Teco 30]({{< ref "/post/2023-03-09-livro-8-teco-30" >}}
+"usar uma linguagem sã") - usar uma linguagem sã
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

@@ -952,6 +952,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 31]({{< ref "/post/2023-03-11-livro-8-teco-31" >}}
 "A morte de toda linhagem") - A morte de toda linhagem
 
+:books: L8 - :book: [Teco 32]({{< ref "/post/2023-03-12-livro-8-teco-32" >}}
+"Deves organizar tua vida ato por ato") - Deves organizar tua vida ato por ato
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

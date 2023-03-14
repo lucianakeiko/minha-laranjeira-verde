@@ -958,6 +958,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 33]({{< ref "/post/2023-03-13-livro-8-teco-33" >}}
 "Ganhar sem orgulho e perder com abnegação") - Ganhar sem orgulho e perder com abnegação
 
+:books: L8 - :book: [Teco 34]({{< ref "/post/2023-03-14-livro-8-teco-34" >}}
+"Mas o admirável nisto é que te podes reintegrar") - Mas o admirável nisto é que te podes reintegrar
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

@@ -964,6 +964,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 35]({{< ref "/post/2023-03-15-livro-8-teco-35" >}}
 "Mudar todo empecilho em material seu e utilizá-lo") - Mudar todo empecilho em material seu e utilizá-lo
 
+:books: L8 - :book: [Teco 36]({{< ref "/post/2023-03-16-livro-8-teco-36" >}}
+"Que não te transtornem as conjeturas") - Que não te transtornem as conjeturas
+
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

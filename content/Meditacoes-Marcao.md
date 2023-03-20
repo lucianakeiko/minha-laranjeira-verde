@@ -970,6 +970,9 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 37]({{< ref "/post/2023-03-17-livro-8-teco-37" >}}
 "E daí?") - E daí?
 
+:books: L8 - :book: [Teco 38]({{< ref "/post/2023-03-20-livro-8-teco-38" >}}
+"julga com o ânimo mais sábio") - julga com o ânimo mais sábio
+
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

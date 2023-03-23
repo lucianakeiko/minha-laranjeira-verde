@@ -973,8 +973,92 @@ Editora: Nova Acropole
 :books: L8 - :book: [Teco 38]({{< ref "/post/2023-03-20-livro-8-teco-38" >}}
 "julga com o ânimo mais sábio") - julga com o ânimo mais sábio
 
+:books: L8 - :book: [Teco 39]({{< ref "/post/2023-03-22-livro-8-teco-39" >}}
+"prazer com temperança") - prazer com temperança
+
+:books: L8 - :book: [Teco 40]({{< ref "/post/2023-03-22-livro-8-teco-40" >}}
+"que tua razão não aflija a si mesma") - que tua razão não aflija a si mesma
+
+:books: L8 - :book: [Teco 41]({{< ref "/post/2023-03-22-livro-8-teco-41" >}}
+"Ao que é próprio da inteligência, nenhum outro ente sói empecer") - Ao que é próprio da inteligência, nenhum outro ente sói empecer
+
+:books: L8 - :book: [Teco 42]({{< ref "/post/2023-03-22-livro-8-teco-42" >}}
+"Não tenho o direito de magoar a mim mesmo") - Não tenho o direito de magoar a mim mesmo
+
+:books: L8 - :book: [Teco 43]({{< ref "/post/2023-03-22-livro-8-teco-43" >}}
+"tudo vendo com olhos benevolentes") - tudo vendo com olhos benevolentes
+
+:books: L8 - :book: [Teco 44]({{< ref "/post/2023-03-22-livro-8-teco-44" >}}
+"Concede a ti mesmo este momento presente.") - Concede a ti mesmo este momento presente.
+
+:books: L8 - :book: [Teco 45]({{< ref "/post/2023-03-22-livro-8-teco-45" >}}
+"Toma-me e atira-me onde quiseres") - Toma-me e atira-me onde quiseres
+
+:books: L8 - :book: [Teco 46]({{< ref "/post/2023-03-22-livro-8-teco-46" >}}
+"A homem nenhum pode suceder nada que não seja contingência humana") - A homem nenhum pode suceder nada que não seja contingência humana
+
+:books: L8 - :book: [Teco 47]({{< ref "/post/2023-03-22-livro-8-teco-47" >}}
+"Quem impede que retifiques o teu critério?") - Quem impede que retifiques o teu critério?
+
+:books: L8 - :book: [Teco 48]({{< ref "/post/2023-03-22-livro-8-teco-48" >}}
+"A inteligência isenta de paixões é uma fortaleza") - A inteligência isenta de paixões é uma fortaleza
+
+:books: L8 - :book: [Teco 49]({{< ref "/post/2023-03-22-livro-8-teco-49" >}}
+"nada em acréscimo ao que revelam as ideias") - nada em acréscimo ao que revelam as ideias
+
+:books: L8 - :book: [Teco 50]({{< ref "/post/2023-03-22-livro-8-teco-50" >}}
+"Basta-lhe, portanto, seu próprio espaço, sua própria matéria, seu próprio engenho.") - Basta-lhe, portanto, seu próprio espaço, sua própria matéria, seu próprio engenho.
+
+:books: L8 - :book: [Teco 51]({{< ref "/post/2023-03-22-livro-8-teco-51" >}}
+"Cresce a todo momento em independência") - Cresce a todo momento em independência
+
+:books: L8 - :book: [Teco 52]({{< ref "/post/2023-03-22-livro-8-teco-52" >}}
+"Quem não sabe o que é o mundo não sabe onde está") - Quem não sabe o que é o mundo não sabe onde está
+
+:books: L8 - :book: [Teco 53]({{< ref "/post/2023-03-22-livro-8-teco-53" >}}
+"Agrada-se de si mesmo quem se arrepende de quase tudo que faz?") - Agrada-se de si mesmo quem se arrepende de quase tudo que faz?
+
+:books: L8 - :book: [Teco 54]({{< ref "/post/2023-03-22-livro-8-teco-54" >}}
+"pensa em conjunto com a inteligência que tudo envolve") - pensa em conjunto com a inteligência que tudo envolve
+
+:books: L8 - :book: [Teco 55]({{< ref "/post/2023-03-22-livro-8-teco-55" >}}
+"livrar-se dele tão cedo o queira") - livrar-se dele tão cedo o queira
+
+:books: L8 - :book: [Teco 56]({{< ref "/post/2023-03-22-livro-8-teco-56" >}}
+"O livre arbítrio de meu próximo é indiferente ao meu") - O livre arbítrio de meu próximo é indiferente ao meu
+
+:books: L8 - :book: [Teco 57]({{< ref "/post/2023-03-22-livro-8-teco-57" >}}
+"Esse difundir é um prolongar") - Esse difundir é um prolongar
+
+:books: L8 - :book: [Teco 58]({{< ref "/post/2023-03-22-livro-8-teco-58" >}}
+"Não haverá mais sensação") - não haverá mais sensação
+
+:books: L8 - :book: [Teco 59]({{< ref "/post/2023-03-22-livro-8-teco-59" >}}
+"Os homens foram feitos uns para os outros") - Os homens foram feitos uns para os outros
+
+:books: L8 - :book: [Teco 60]({{< ref "/post/2023-03-22-livro-8-teco-60" >}}
+"Voa em linha reta") - Voa em linha reta
+
+:books: L8 - :book: [Teco 61]({{< ref "/post/2023-03-22-livro-8-teco-61" >}}
+"Penetra até o guia de cada um") - Penetra até o guia de cada um
 
 ### :books: LIVRO 9  ( Tecos 1 a 42 )
+
+:books: L9 - :book: [Teco 1]({{< ref "/post/2023-03-22-livro-9-teco-1" >}}
+"PA natureza do universo é a natureza das realidades e as realidades têm parentesco com as coisas existentes") - A natureza do universo é a natureza das realidades e as realidades têm parentesco com as coisas existentes
+
+:books: L9 - :book: [Teco 2]({{< ref "/post/2023-03-22-livro-9-teco-2" >}}
+"Peste é a corrupção da inteligência") - Peste é a corrupção da inteligência
+
+:books: L9 - :book: [Teco 3]({{< ref "/post/2023-03-22-livro-9-teco-3" >}}
+"Não desprezes a morte; dá-lhe boa acolhida") - Não desprezes a morte; dá-lhe boa acolhida
+
+:books: L9 - :book: [Teco 4]({{< ref "/post/2023-03-22-livro-9-teco-4" >}}
+"Quem peca contra si peca") - Quem peca contra si peca
+
+:books: L9 - :book: [Teco 5]({{< ref "/post/2023-03-22-livro-9-teco-5" >}}
+"Comete injustiça quem omite") - Comete injustiça quem omite
+
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

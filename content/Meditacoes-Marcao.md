@@ -1059,6 +1059,19 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 5]({{< ref "/post/2023-03-22-livro-9-teco-5" >}}
 "Comete injustiça quem omite") - Comete injustiça quem omite
 
+:books: L9 - :book: [Teco 6]({{< ref "/post/2023-03-28-livro-9-teco-6" >}}
+"Basta o juízo evidente do momento") - Basta o juízo evidente do momento
+
+:books: L9 - :book: [Teco 7]({{< ref "/post/2023-03-28-livro-9-teco-7" >}}
+"Dominar o guia") - Dominar o guia
+
+:books: L9 - :book: [Teco 8]({{< ref "/post/2023-03-28-livro-9-teco-8" >}}
+"Unicidade") - Unicidade
+
+:books: L9 - :book: [Teco 9]({{< ref "/post/2023-03-28-livro-9-teco-9" >}}
+"Todos os seres que compartilham algo em comum anseiam por seus semelhantes") - Todos os seres que compartilham algo em comum anseiam por seus semelhantes
+
+
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

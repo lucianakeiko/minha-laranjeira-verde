@@ -1072,6 +1072,10 @@ Editora: Nova Acropole
 "Todos os seres que compartilham algo em comum anseiam por seus semelhantes") - Todos os seres que compartilham algo em comum anseiam por seus semelhantes
 
 
+:books: L9 - :book: [Teco 10]({{< ref "/post/2023-04-10-livro-9-teco-10" >}}
+"O homem, a divindade, o mundo, dão fruto") - O homem, a divindade, o mundo, dão fruto
+
+
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

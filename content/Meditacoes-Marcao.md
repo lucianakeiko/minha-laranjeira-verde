@@ -1071,10 +1071,12 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 9]({{< ref "/post/2023-03-28-livro-9-teco-9" >}}
 "Todos os seres que compartilham algo em comum anseiam por seus semelhantes") - Todos os seres que compartilham algo em comum anseiam por seus semelhantes
 
-
 :books: L9 - :book: [Teco 10]({{< ref "/post/2023-04-10-livro-9-teco-10" >}}
 "O homem, a divindade, o mundo, dão fruto") - O homem, a divindade, o mundo, dão fruto
 
+
+:books: L9 - :book: [Teco 11]({{< ref "/post/2023-04-11-livro-9-teco-11" >}}
+"quem to proíbe?") - quem to proíbe?
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

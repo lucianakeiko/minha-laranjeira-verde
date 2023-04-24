@@ -1078,6 +1078,12 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 11]({{< ref "/post/2023-04-11-livro-9-teco-11" >}}
 "quem to proíbe?") - quem to proíbe?
 
+:books: L9 - :book: [Teco 12]({{< ref "/post/2023-04-20-livro-9-teco-12" >}}
+"Trabalha") - Trabalha
+
+:books: L9 - :book: [Teco 13]({{< ref "/post/2023-04-24-livro-9-teco-13" >}}
+"Hoje saí de todos os embaraços") - Hoje saí de todos os embaraços
+
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

@@ -1084,6 +1084,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 13]({{< ref "/post/2023-04-24-livro-9-teco-13" >}}
 "Hoje saí de todos os embaraços") - Hoje saí de todos os embaraços
 
+:books: L9 - :book: [Teco 14]({{< ref "/post/2023-04-25-livro-9-teco-14" >}}
+"Tudo hoje é tal qual era no tempo daqueles que sepultamos") - Tudo hoje é tal qual era no tempo daqueles que sepultamos
+
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

@@ -1093,6 +1093,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 16]({{< ref "/post/2023-04-29-livro-9-teco-16" >}}
 "'O bem e o mal do ser racional e social não estão no que sente, mas no que faz") - 'O bem e o mal do ser racional e social não estão no que sente, mas no que faz
 
+:books: L9 - :book: [Teco 17]({{< ref "/post/2023-05-01-livro-9-teco-17" >}}
+"Cair não é um mal, nem subir um bem.") - Cair não é um mal, nem subir um bem.
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

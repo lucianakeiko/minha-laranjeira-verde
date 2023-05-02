@@ -1096,6 +1096,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 17]({{< ref "/post/2023-05-01-livro-9-teco-17" >}}
 "Cair não é um mal, nem subir um bem.") - Cair não é um mal, nem subir um bem.
 
+:books: L9 - :book: [Teco 18]({{< ref "/post/2023-05-02-livro-9-teco-18" >}}
+"Penetra-os até o guia") - Penetra-os até o guia
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

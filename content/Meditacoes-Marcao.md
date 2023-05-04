@@ -1102,6 +1102,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 19]({{< ref "/post/2023-05-03-livro-9-teco-19" >}}
 "Tudo está em transformação") - Tudo está em transformação
 
+:books: L9 - :book: [Teco 20]({{< ref "/post/2023-05-04-livro-9-teco-20" >}}
+"O pecado de outrem cumpre deixá-lo onde está.") - O pecado de outrem cumpre deixá-lo onde está.
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

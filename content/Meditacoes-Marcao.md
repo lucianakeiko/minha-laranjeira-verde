@@ -1105,8 +1105,11 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 20]({{< ref "/post/2023-05-04-livro-9-teco-20" >}}
 "O pecado de outrem cumpre deixá-lo onde está.") - O pecado de outrem cumpre deixá-lo onde está.
 
-:books: L9 - :book: [Teco 21]({{< ref "/post/2023-05-05-livro-9-teco-25" >}}
+:books: L9 - :book: [Teco 21]({{< ref "/post/2023-05-05-livro-9-teco-21" >}}
 "O fim não constitui um mal") - O fim não constitui um mal
+
+:books: L9 - :book: [Teco 22]({{< ref "/post/2023-05-06-livro-9-teco-22" >}}
+"Penetra até o teu guia") - Penetra até o teu guia
 
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )

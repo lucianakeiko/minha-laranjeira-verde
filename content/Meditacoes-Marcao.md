@@ -1111,6 +1111,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 22]({{< ref "/post/2023-05-06-livro-9-teco-22" >}}
 "Penetra até o teu guia") - Penetra até o teu guia
 
+:books: L9 - :book: [Teco 23]({{< ref "/post/2023-05-08-livro-9-teco-23" >}}
+"Integre toda ação tua a vida social") - Integre toda ação tua a vida social
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

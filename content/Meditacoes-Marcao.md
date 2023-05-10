@@ -1117,6 +1117,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 24]({{< ref "/post/2023-05-09-livro-9-teco-24" >}}
 "Almas que carregam cadáveres") - Almas que carregam cadáveres
 
+:books: L9 - :book: [Teco 25]({{< ref "/post/2023-05-10-livro-9-teco-25" >}}
+"Atenta na qualidade da causa formal e examina-a abstraída da causa material") - Atenta na qualidade da causa formal e examina-a abstraída da causa material
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

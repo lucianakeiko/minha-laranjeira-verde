@@ -1120,6 +1120,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 25]({{< ref "/post/2023-05-10-livro-9-teco-25" >}}
 "Atenta na qualidade da causa formal e examina-a abstraída da causa material") - Atenta na qualidade da causa formal e examina-a abstraída da causa material
 
+:books: L9 - :book: [Teco 26]({{< ref "/post/2023-05-11-livro-9-teco-26" >}}
+"Que teu guia exerça o mister para que foi constituído") - Que teu guia exerça o mister para que foi constituído
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

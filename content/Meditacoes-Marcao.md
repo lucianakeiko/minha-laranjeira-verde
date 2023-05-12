@@ -1123,6 +1123,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 26]({{< ref "/post/2023-05-11-livro-9-teco-26" >}}
 "Que teu guia exerça o mister para que foi constituído") - Que teu guia exerça o mister para que foi constituído
 
+:books: L9 - :book: [Teco 27]({{< ref "/post/2023-05-12-livro-9-teco-27" >}}
+"Quando outrem te censura ou odeia") - Quando outrem te censura ou odeia
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

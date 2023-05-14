@@ -1129,6 +1129,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 28]({{< ref "/post/2023-05-13-livro-9-teco-28" >}}
 "Se reina o acaso, não obres tu ao acaso") - Se reina o acaso, não obres tu ao acaso
 
+:books: L9 - :book: [Teco 29]({{< ref "/post/2023-05-14-livro-9-teco-29" >}}
+"Não esperes a república de Platão; satisfaze-te com um progresso ainda que mínimo;") - Não esperes a república de Platão; satisfaze-te com um progresso ainda que mínimo;
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

@@ -1132,6 +1132,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 29]({{< ref "/post/2023-05-14-livro-9-teco-29" >}}
 "Não esperes a república de Platão; satisfaze-te com um progresso ainda que mínimo;") - Não esperes a república de Platão; satisfaze-te com um progresso ainda que mínimo;
 
+:books: L9 - :book: [Teco 30]({{< ref "/post/2023-05-15-livro-9-teco-30" >}}
+"Como não é digna de menção a memória, nem a glória, enfim, nada de nada.") - Como não é digna de menção a memória, nem a glória, enfim, nada de nada.
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

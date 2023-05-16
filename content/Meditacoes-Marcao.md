@@ -1135,6 +1135,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 30]({{< ref "/post/2023-05-15-livro-9-teco-30" >}}
 "Como não é digna de menção a memória, nem a glória, enfim, nada de nada.") - Como não é digna de menção a memória, nem a glória, enfim, nada de nada.
 
+:books: L9 - :book: [Teco 31]({{< ref "/post/2023-05-16-livro-9-teco-31" >}}
+"Impulsos e atos confinados exclusivamente ao mister do bem comum") - Impulsos e atos confinados exclusivamente ao mister do bem comum
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

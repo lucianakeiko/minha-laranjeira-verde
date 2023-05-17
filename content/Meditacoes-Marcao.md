@@ -1138,6 +1138,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 31]({{< ref "/post/2023-05-16-livro-9-teco-31" >}}
 "Impulsos e atos confinados exclusivamente ao mister do bem comum") - Impulsos e atos confinados exclusivamente ao mister do bem comum
 
+:books: L9 - :book: [Teco 32]({{< ref "/post/2023-05-17-livro-9-teco-32" >}}
+"Podes eliminar muitas coisas supérfluas") - Podes eliminar muitas coisas supérfluas
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

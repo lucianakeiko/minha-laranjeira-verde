@@ -1141,6 +1141,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 32]({{< ref "/post/2023-05-17-livro-9-teco-32" >}}
 "Podes eliminar muitas coisas supérfluas") - Podes eliminar muitas coisas supérfluas
 
+:books: L9 - :book: [Teco 33]({{< ref "/post/2023-05-18-livro-9-teco-33" >}}
+"Cedo estará destruído tudo que vês") - Cedo estará destruído tudo que vês
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

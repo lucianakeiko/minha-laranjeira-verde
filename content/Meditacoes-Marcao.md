@@ -1144,6 +1144,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 33]({{< ref "/post/2023-05-18-livro-9-teco-33" >}}
 "Cedo estará destruído tudo que vês") - Cedo estará destruído tudo que vês
 
+:books: L9 - :book: [Teco 34]({{< ref "/post/2023-05-19-livro-9-teco-34" >}}
+"Quais os guias dessa gente") - Quais os guias dessa gente
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

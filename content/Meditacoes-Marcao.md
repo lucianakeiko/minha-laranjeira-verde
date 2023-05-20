@@ -1147,6 +1147,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 34]({{< ref "/post/2023-05-19-livro-9-teco-34" >}}
 "Quais os guias dessa gente") - Quais os guias dessa gente
 
+:books: L9 - :book: [Teco 35]({{< ref "/post/2023-05-20-livro-9-teco-35" >}}
+"A perda nada mais é que mudança") - A perda nada mais é que mudança
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

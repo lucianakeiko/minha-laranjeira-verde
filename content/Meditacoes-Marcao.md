@@ -1156,6 +1156,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 37]({{< ref "/post/2023-05-22-livro-9-teco-37" >}}
 "Tanto faz observar isso durante um século como por três anos.") - Tanto faz observar isso durante um século como por três anos.
 
+:books: L9 - :book: [Teco 38]({{< ref "/post/2023-05-23-livro-9-teco-38" >}}
+"Se pecou, o mal é seu") - Se pecou, o mal é seu
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

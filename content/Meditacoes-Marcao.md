@@ -1159,6 +1159,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 38]({{< ref "/post/2023-05-23-livro-9-teco-38" >}}
 "Se pecou, o mal é seu") - Se pecou, o mal é seu
 
+:books: L9 - :book: [Teco 39]({{< ref "/post/2023-05-24-livro-9-teco-39" >}}
+"Por que, pois, te transtornas?") - Por que, pois, te transtornas?
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

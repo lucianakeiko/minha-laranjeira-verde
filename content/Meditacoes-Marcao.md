@@ -1162,6 +1162,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 39]({{< ref "/post/2023-05-24-livro-9-teco-39" >}}
 "Por que, pois, te transtornas?") - Por que, pois, te transtornas?
 
+:books: L9 - :book: [Teco 40]({{< ref "/post/2023-05-25-livro-9-teco-40" >}}
+"Os deuses deixaram isso nas minhas mãos") - Os deuses deixaram isso nas minhas mãos
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

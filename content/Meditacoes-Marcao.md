@@ -1165,6 +1165,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 40]({{< ref "/post/2023-05-25-livro-9-teco-40" >}}
 "Os deuses deixaram isso nas minhas mãos") - Os deuses deixaram isso nas minhas mãos
 
+:books: L9 - :book: [Teco 41]({{< ref "/post/2023-05-26-livro-9-teco-41" >}}
+"Não abandonar a Filosofia em nenhuma conjuntura") - Não abandonar a Filosofia em nenhuma conjuntura
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

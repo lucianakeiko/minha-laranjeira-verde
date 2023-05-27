@@ -1168,6 +1168,9 @@ Editora: Nova Acropole
 :books: L9 - :book: [Teco 41]({{< ref "/post/2023-05-26-livro-9-teco-41" >}}
 "Não abandonar a Filosofia em nenhuma conjuntura") - Não abandonar a Filosofia em nenhuma conjuntura
 
+:books: L9 - :book: [Teco 42]({{< ref "/post/2023-05-27-livro-9-teco-42" >}}
+"Não reclames, portanto, o impossível;") - Não reclames, portanto, o impossível;
+
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

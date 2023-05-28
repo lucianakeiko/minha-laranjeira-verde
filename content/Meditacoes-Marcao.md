@@ -1173,6 +1173,10 @@ Editora: Nova Acropole
 
 
 ### :books: LIVRO 10  ( Tecos 1 a 38 )
+
+:books: L10 - :book: [Teco 1]({{< ref "/post/2023-05-28-livro-10-teco-1" >}}
+"Serás?") - Serás?
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

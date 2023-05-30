@@ -1180,6 +1180,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 2]({{< ref "/post/2023-05-29-livro-10-teco-2" >}}
 "Segue estas regras e não desperdices os teus esforços") - Segue estas regras e não desperdices os teus esforços
 
+:books: L10 - :book: [Teco 3]({{< ref "/post/2023-05-30-livro-10-teco-3" >}}
+"Tua natureza suporta tudo que de tua opinião depende tornar suportável e tolerável") - Tua natureza suporta tudo que de tua opinião depende tornar suportável e tolerável
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

@@ -1183,6 +1183,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 3]({{< ref "/post/2023-05-30-livro-10-teco-3" >}}
 "Tua natureza suporta tudo que de tua opinião depende tornar suportável e tolerável") - Tua natureza suporta tudo que de tua opinião depende tornar suportável e tolerável
 
+:books: L10 - :book: [Teco 4]({{< ref "/post/2023-05-31-livro-10-teco-4" >}}
+"ensina-o com bondade") - ensina-o com bondade
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

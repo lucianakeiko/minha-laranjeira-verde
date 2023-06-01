@@ -1186,6 +1186,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 4]({{< ref "/post/2023-05-31-livro-10-teco-4" >}}
 "ensina-o com bondade") - ensina-o com bondade
 
+:books: L10 - :book: [Teco 5]({{< ref "/post/2023-06-1-livro-10-teco-5" >}}
+"O que quer que te aconteça estava para ti preparado desde a eternidade") - O que quer que te aconteça estava para ti preparado desde a eternidade
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

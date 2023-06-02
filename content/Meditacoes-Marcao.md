@@ -1189,6 +1189,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 5]({{< ref "/post/2023-06-1-livro-10-teco-5" >}}
 "O que quer que te aconteça estava para ti preparado desde a eternidade") - O que quer que te aconteça estava para ti preparado desde a eternidade
 
+:books: L10 - :book: [Teco 6]({{< ref "/post/2023-06-2-livro-10-teco-6" >}}
+"Nada farei contrário à comunidade") - Nada farei contrário à comunidade
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

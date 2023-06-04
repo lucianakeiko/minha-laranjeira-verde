@@ -1195,6 +1195,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 7]({{< ref "/post/2023-06-03-livro-10-teco-7" >}}
 "É fatal que se deteriorem as partes do todo") - É fatal que se deteriorem as partes do todo
 
+:books: L10 - :book: [Teco 8]({{< ref "/post/2023-06-04-livro-10-teco-8" >}}
+"Monta, pois, nesses poucos qualificativos") - Monta, pois, nesses poucos qualificativos
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

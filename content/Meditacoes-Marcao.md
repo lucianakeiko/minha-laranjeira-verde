@@ -1198,6 +1198,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 8]({{< ref "/post/2023-06-04-livro-10-teco-8" >}}
 "Monta, pois, nesses poucos qualificativos") - Monta, pois, nesses poucos qualificativos
 
+:books: L10 - :book: [Teco 9]({{< ref "/post/2023-06-05-livro-10-teco-9" >}}
+"Quando te deleitarás com a singeleza?") - Quando te deleitarás com a singeleza?
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

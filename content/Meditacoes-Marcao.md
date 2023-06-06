@@ -1201,6 +1201,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 9]({{< ref "/post/2023-06-05-livro-10-teco-9" >}}
 "Quando te deleitarás com a singeleza?") - Quando te deleitarás com a singeleza?
 
+:books: L10 - :book: [Teco 10]({{< ref "/post/2023-06-06-livro-10-teco-10" >}}
+"Se investigarmos seus princípios, não são todos eles salteadores?") - Se investigarmos seus princípios, não são todos eles salteadores?
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

@@ -1204,6 +1204,11 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 10]({{< ref "/post/2023-06-06-livro-10-teco-10" >}}
 "Se investigarmos seus princípios, não são todos eles salteadores?") - Se investigarmos seus princípios, não são todos eles salteadores?
 
+:books: L10 - :book: [Teco 11]({{< ref "/post/2023-06-07-livro-10-teco-11" >}}
+"De que modo se transformam todas as coisas umas nas outras?") - De que modo se transformam todas as coisas umas nas outras?
+
+
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

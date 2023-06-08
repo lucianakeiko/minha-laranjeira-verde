@@ -1207,6 +1207,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 11]({{< ref "/post/2023-06-07-livro-10-teco-11" >}}
 "De que modo se transformam todas as coisas umas nas outras?") - De que modo se transformam todas as coisas umas nas outras?
 
+:books: L10 - :book: [Teco 12]({{< ref "/post/2023-06-08-livro-10-teco-12" >}}
+"Que necessidade há de conjeturas, quando podes examinar o que cumpre fazer") - Que necessidade há de conjeturas, quando podes examinar o que cumpre fazer
+
 
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )

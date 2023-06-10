@@ -1213,6 +1213,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 13]({{< ref "/post/2023-06-09-livro-10-teco-13" >}}
 "acaso te importa que outrem pratique a justiça e o bem?") - acaso te importa que outrem pratique a justiça e o bem?
 
+:books: L10 - :book: [Teco 14]({{< ref "/post/2023-06-10-livro-10-teco-14" >}}
+"\"Dá o que queres e toma o que queres\"") - "Dá o que queres e toma o que queres"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

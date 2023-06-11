@@ -1216,6 +1216,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 14]({{< ref "/post/2023-06-10-livro-10-teco-14" >}}
 "\"Dá o que queres e toma o que queres\"") - "Dá o que queres e toma o que queres"
 
+:books: L10 - :book: [Teco 15]({{< ref "/post/2023-06-11-livro-10-teco-15" >}}
+"O que resta de tua vida é breve") - "O que resta de tua vida é breve"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

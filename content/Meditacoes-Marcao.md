@@ -1219,6 +1219,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 15]({{< ref "/post/2023-06-11-livro-10-teco-15" >}}
 "O que resta de tua vida é breve") - "O que resta de tua vida é breve"
 
+:books: L10 - :book: [Teco 16]({{< ref "/post/2023-06-12-livro-10-teco-16" >}}
+"Não mais se trata, de modo algum, de discutir o que é um homem de bem, mas de sê-lo.") - "Não mais se trata, de modo algum, de discutir o que é um homem de bem, mas de sê-lo."
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

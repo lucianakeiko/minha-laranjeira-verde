@@ -1222,6 +1222,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 16]({{< ref "/post/2023-06-12-livro-10-teco-16" >}}
 "Não mais se trata, de modo algum, de discutir o que é um homem de bem, mas de sê-lo.") - "Não mais se trata, de modo algum, de discutir o que é um homem de bem, mas de sê-lo."
 
+:books: L10 - :book: [Teco 17]({{< ref "/post/2023-06-13-livro-10-teco-17" >}}
+"o tempo e a substância") - "o tempo e a substância"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

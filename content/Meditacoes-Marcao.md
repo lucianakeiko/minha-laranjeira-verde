@@ -1225,6 +1225,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 17]({{< ref "/post/2023-06-13-livro-10-teco-17" >}}
 "o tempo e a substância") - "o tempo e a substância"
 
+:books: L10 - :book: [Teco 18]({{< ref "/post/2023-06-14-livro-10-teco-18" >}}
+"Detém-te sobre cada ser sob teus olhos") - "Detém-te sobre cada ser sob teus olhos"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

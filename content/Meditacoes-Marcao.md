@@ -1228,6 +1228,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 18]({{< ref "/post/2023-06-14-livro-10-teco-18" >}}
 "Detém-te sobre cada ser sob teus olhos") - "Detém-te sobre cada ser sob teus olhos"
 
+:books: L10 - :book: [Teco 19]({{< ref "/post/2023-06-15-livro-10-teco-19" >}}
+"Vê-los quando comem") - "Vê-los quando comem"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

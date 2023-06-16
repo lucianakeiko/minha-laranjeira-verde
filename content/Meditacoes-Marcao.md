@@ -1231,6 +1231,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 19]({{< ref "/post/2023-06-15-livro-10-teco-19" >}}
 "Vê-los quando comem") - "Vê-los quando comem"
 
+:books: L10 - :book: [Teco 20]({{< ref "/post/2023-06-16-livro-10-teco-20" >}}
+"A cada um convém o que a natureza universal traz") - "A cada um convém o que a natureza universal traz"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

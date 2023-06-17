@@ -1234,6 +1234,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 20]({{< ref "/post/2023-06-16-livro-10-teco-20" >}}
 "A cada um convém o que a natureza universal traz") - "A cada um convém o que a natureza universal traz"
 
+:books: L10 - :book: [Teco 21]({{< ref "/post/2023-06-17-livro-10-teco-21" >}}
+"A terra ama a chuva") - "A terra ama a chuva"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

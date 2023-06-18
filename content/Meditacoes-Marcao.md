@@ -1237,6 +1237,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 21]({{< ref "/post/2023-06-17-livro-10-teco-21" >}}
 "A terra ama a chuva") - "A terra ama a chuva"
 
+:books: L10 - :book: [Teco 22]({{< ref "/post/2023-06-18-livro-10-teco-22" >}}
+"Portanto, coragem!") - "Portanto, coragem!"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

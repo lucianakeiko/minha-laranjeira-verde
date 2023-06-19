@@ -1240,6 +1240,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 22]({{< ref "/post/2023-06-18-livro-10-teco-22" >}}
 "Portanto, coragem!") - "Portanto, coragem!"
 
+:books: L10 - :book: [Teco 23]({{< ref "/post/2023-06-19-livro-10-teco-23" >}}
+"\"Fechando-se em cercados na montanha\"") - "Fechando-se em cercados na montanha"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

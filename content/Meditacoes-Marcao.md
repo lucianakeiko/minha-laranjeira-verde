@@ -1246,6 +1246,10 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 24]({{< ref "/post/2023-06-20-livro-10-teco-24" >}}
 "Que é para mim o meu guia?") - "Que é para mim o meu guia?"
 
+:books: L10 - :book: [Teco 25]({{< ref "/post/2023-06-21-livro-10-teco-25" >}}
+"Quem foge a seu amo é fujão") - "Quem foge a seu amo é fujão"
+
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

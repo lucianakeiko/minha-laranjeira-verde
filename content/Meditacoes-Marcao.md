@@ -1249,6 +1249,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 25]({{< ref "/post/2023-06-21-livro-10-teco-25" >}}
 "Quem foge a seu amo é fujão") - "Quem foge a seu amo é fujão"
 
+:books: L10 - :book: [Teco 26]({{< ref "/post/2023-06-22-livro-10-teco-26" >}}
+"O que foi e o que é!") - "O que foi e o que é!"
+
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

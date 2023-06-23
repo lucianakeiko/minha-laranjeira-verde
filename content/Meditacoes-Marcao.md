@@ -1252,6 +1252,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 26]({{< ref "/post/2023-06-22-livro-10-teco-26" >}}
 "O que foi e o que é!") - "O que foi e o que é!"
 
+:books: L10 - :book: [Teco 27]({{< ref "/post/2023-06-23-livro-10-teco-27" >}}
+"Adverte amiúde como as coisas que ora acontecem já ocorreram antes tais- e quais; e adverte que voltarão a ocorrer.") - "Adverte amiúde como as coisas que ora acontecem já ocorreram antes tais- e quais; e adverte que voltarão a ocorrer."
+
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

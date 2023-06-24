@@ -1255,6 +1255,10 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 27]({{< ref "/post/2023-06-23-livro-10-teco-27" >}}
 "Adverte amiúde como as coisas que ora acontecem já ocorreram antes tais- e quais; e adverte que voltarão a ocorrer.") - "Adverte amiúde como as coisas que ora acontecem já ocorreram antes tais- e quais; e adverte que voltarão a ocorrer."
 
+:books: L10 - :book: [Teco 28]({{< ref "/post/2023-06-24-livro-10-teco-28" >}}
+"Só ao vivente racional foi dado acompanhar os acontecimentos de bom grado'
+") - "Só ao vivente racional foi dado acompanhar os acontecimentos de bom grado"
+
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

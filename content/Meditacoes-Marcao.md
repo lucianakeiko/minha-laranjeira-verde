@@ -1259,6 +1259,9 @@ Editora: Nova Acropole
 "Só ao vivente racional foi dado acompanhar os acontecimentos de bom grado'
 ") - "Só ao vivente racional foi dado acompanhar os acontecimentos de bom grado"
 
+:books: L10 - :book: [Teco 29]({{< ref "/post/2023-06-25-livro-10-teco-29" >}}
+"Detém-te e pergunta a ti mesmo") - "Detém-te e pergunta a ti mesmo"
+
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

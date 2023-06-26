@@ -1262,6 +1262,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 29]({{< ref "/post/2023-06-25-livro-10-teco-29" >}}
 "Detém-te e pergunta a ti mesmo") - "Detém-te e pergunta a ti mesmo"
 
+:books: L10 - :book: [Teco 30]({{< ref "/post/2023-06-26-livro-10-teco-30" >}}
+"Quando o pecado de alguém te mortifica, afasta-te logo e avalia que pecados equivalentes cometes") - "Quando o pecado de alguém te mortifica, afasta-te logo e avalia que pecados equivalentes cometes"
+
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

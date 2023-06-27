@@ -1265,6 +1265,8 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 30]({{< ref "/post/2023-06-26-livro-10-teco-30" >}}
 "Quando o pecado de alguém te mortifica, afasta-te logo e avalia que pecados equivalentes cometes") - "Quando o pecado de alguém te mortifica, afasta-te logo e avalia que pecados equivalentes cometes"
 
+:books: L10 - :book: [Teco 31]({{< ref "/post/2023-06-27-livro-10-teco-31" >}}
+"Por que, pois, essa tensão?") - "Por que, pois, essa tensão?"
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

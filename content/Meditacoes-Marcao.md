@@ -1268,6 +1268,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 31]({{< ref "/post/2023-06-27-livro-10-teco-31" >}}
 "Por que, pois, essa tensão?") - "Por que, pois, essa tensão?"
 
+:books: L10 - :book: [Teco 32]({{< ref "/post/2023-06-28-livro-10-teco-32" >}}
+"Basta decidires não mais viver se não o fores") - "Basta decidires não mais viver se não o fores"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

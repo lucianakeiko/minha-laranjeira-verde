@@ -1271,6 +1271,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 32]({{< ref "/post/2023-06-28-livro-10-teco-32" >}}
 "Basta decidires não mais viver se não o fores") - "Basta decidires não mais viver se não o fores"
 
+:books: L10 - :book: [Teco 33]({{< ref "/post/2023-06-29-livro-10-teco-33" >}}
+"O que não faz dano à lei tampouco o faz à cidade, nem ao cidadão.") - "O que não faz dano à lei tampouco o faz à cidade, nem ao cidadão."
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

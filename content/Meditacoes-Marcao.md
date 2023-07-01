@@ -1277,6 +1277,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 34]({{< ref "/post/2023-06-30-livro-10-teco-34" >}}
 "O vento espalha as folhas pelo chão; assim as gerações humanas...") - "O vento espalha as folhas pelo chão; assim as gerações humanas..."
 
+:books: L10 - :book: [Teco 35]({{< ref "/post/2023-07-01-livro-10-teco-35" >}}
+"a inteligência sã deve estar pronta para todos os eventos") - "a inteligência sã deve estar pronta para todos os eventos"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

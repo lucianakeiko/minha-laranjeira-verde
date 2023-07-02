@@ -1280,6 +1280,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 35]({{< ref "/post/2023-07-01-livro-10-teco-35" >}}
 "a inteligência sã deve estar pronta para todos os eventos") - "a inteligência sã deve estar pronta para todos os eventos"
 
+:books: L10 - :book: [Teco 36]({{< ref "/post/2023-07-02-livro-10-teco-36" >}}
+"Por que, pois, se haveria de ter apego a uma permanência mais longa aqui?") - "Por que, pois, se haveria de ter apego a uma permanência mais longa aqui?"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

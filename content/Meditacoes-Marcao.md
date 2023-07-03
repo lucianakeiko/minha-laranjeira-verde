@@ -1283,6 +1283,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 36]({{< ref "/post/2023-07-02-livro-10-teco-36" >}}
 "Por que, pois, se haveria de ter apego a uma permanência mais longa aqui?") - "Por que, pois, se haveria de ter apego a uma permanência mais longa aqui?"
 
+:books: L10 - :book: [Teco 37]({{< ref "/post/2023-07-03-livro-10-teco-37" >}}
+"A que refere ele esse ato?") - "A que refere ele esse ato?"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

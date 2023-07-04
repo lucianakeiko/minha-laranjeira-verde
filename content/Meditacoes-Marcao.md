@@ -1286,6 +1286,9 @@ Editora: Nova Acropole
 :books: L10 - :book: [Teco 37]({{< ref "/post/2023-07-03-livro-10-teco-37" >}}
 "A que refere ele esse ato?") - "A que refere ele esse ato?"
 
+:books: L10 - :book: [Teco 38]({{< ref "/post/2023-07-04-livro-10-teco-38" >}}
+"Lembra-te! Quem move o títere é aquele poder oculto em teu íntimo") - "Lembra-te! Quem move o títere é aquele poder oculto em teu íntimo"
+
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

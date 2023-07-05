@@ -1290,6 +1290,12 @@ Editora: Nova Acropole
 "Lembra-te! Quem move o títere é aquele poder oculto em teu íntimo") - "Lembra-te! Quem move o títere é aquele poder oculto em teu íntimo"
 
 ### :books: LIVRO 11  ( Tecos 1 a 39 )
+
+:books: L11 - :book: [Teco 1]({{< ref "/post/2023-07-05-livro-11-teco-1" >}}
+"Propriedades da alma racional") - "Propriedades da alma racional"  
+
+
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

@@ -1294,6 +1294,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 1]({{< ref "/post/2023-07-05-livro-11-teco-1" >}}
 "Propriedades da alma racional") - "Propriedades da alma racional"  
 
+:books: L11 - :book: [Teco 2]({{< ref "/post/2023-07-06-livro-11-teco-2" >}}
+"Lembra-te de examinar a fundo os componentes") - "Lembra-te de examinar a fundo os componentes"  
+
 
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )

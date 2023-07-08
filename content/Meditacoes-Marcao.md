@@ -1300,6 +1300,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 3]({{< ref "/post/2023-07-07-livro-11-teco-3" >}}
 "Que bela é a alma preparada para uma imediata separação do corpo") - "Que bela é a alma preparada para uma imediata separação do corpo"  
 
+:books: L11 - :book: [Teco 4]({{< ref "/post/2023-07-08-livro-11-teco-4" >}}
+"Realizei algo para o bem comum?") - "Realizei algo para o bem comum?"  
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

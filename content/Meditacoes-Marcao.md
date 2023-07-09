@@ -1303,6 +1303,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 4]({{< ref "/post/2023-07-08-livro-11-teco-4" >}}
 "Realizei algo para o bem comum?") - "Realizei algo para o bem comum?"  
 
+:books: L11 - :book: [Teco 5]({{< ref "/post/2023-07-09-livro-11-teco-5" >}}
+"Qual o teu mister?") - "Qual o teu mister?"  
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

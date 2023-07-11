@@ -1309,6 +1309,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 6]({{< ref "/post/2023-07-10-livro-11-teco-6" >}}
 "A que alvo apontavam?") - "A que alvo apontavam?"  
 
+:books: L11 - :book: [Teco 7]({{< ref "/post/2023-07-11-livro-11-teco-7" >}}
+"Se não agora então quando?") - "Se não agora então quando?"  
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

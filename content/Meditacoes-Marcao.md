@@ -1312,6 +1312,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 7]({{< ref "/post/2023-07-11-livro-11-teco-7" >}}
 "Se não agora então quando?") - "Se não agora então quando?"  
 
+:books: L11 - :book: [Teco 8]({{< ref "/post/2023-07-12-livro-11-teco-8" >}}
+"Crescer no mesmo tronco, sim; adotar os mesmos princípios, não.") - "Crescer no mesmo tronco, sim; adotar os mesmos princípios, não."  
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

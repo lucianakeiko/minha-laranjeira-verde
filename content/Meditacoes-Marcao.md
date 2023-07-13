@@ -1313,7 +1313,10 @@ Editora: Nova Acropole
 "Se não agora então quando?") - "Se não agora então quando?"  
 
 :books: L11 - :book: [Teco 8]({{< ref "/post/2023-07-12-livro-11-teco-8" >}}
-"Crescer no mesmo tronco, sim; adotar os mesmos princípios, não.") - "Crescer no mesmo tronco, sim; adotar os mesmos princípios, não."  
+"Crescer no mesmo tronco, sim; adotar os mesmos princípios, não.") - "Crescer no mesmo tronco, sim; adotar os mesmos princípios, não."
+
+:books: L11 - :book: [Teco 9]({{< ref "/post/2023-07-13-livro-11-teco-9" >}}
+"Preserva em ti mesmo estes dois propósitos igualmente") - "Preserva em ti mesmo estes dois propósitos igualmente" 
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

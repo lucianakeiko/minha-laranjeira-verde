@@ -1318,6 +1318,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 9]({{< ref "/post/2023-07-13-livro-11-teco-9" >}}
 "Preserva em ti mesmo estes dois propósitos igualmente") - "Preserva em ti mesmo estes dois propósitos igualmente" 
 
+:books: L11 - :book: [Teco 10]({{< ref "/post/2023-07-14-livro-11-teco-10" >}}
+"Não se preservará a justiça se dissentirmos em coisas indiferentes") - "Não se preservará a justiça se dissentirmos em coisas indiferentes" 
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

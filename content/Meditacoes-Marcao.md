@@ -1321,6 +1321,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 10]({{< ref "/post/2023-07-14-livro-11-teco-10" >}}
 "Não se preservará a justiça se dissentirmos em coisas indiferentes") - "Não se preservará a justiça se dissentirmos em coisas indiferentes" 
 
+:books: L11 - :book: [Teco 11]({{< ref "/post/2023-07-15-livro-11-teco-11" >}}
+"Basta se aquiete o teu juízo a seu respeito e elas ficarão imóveis") - "Basta se aquiete o teu juízo a seu respeito e elas ficarão imóveis" 
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

@@ -1324,6 +1324,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 11]({{< ref "/post/2023-07-15-livro-11-teco-11" >}}
 "Basta se aquiete o teu juízo a seu respeito e elas ficarão imóveis") - "Basta se aquiete o teu juízo a seu respeito e elas ficarão imóveis" 
 
+:books: L11 - :book: [Teco 12]({{< ref "/post/2023-07-16-livro-11-teco-12" >}}
+"A esfera da alma permanece inalterável") - "A esfera da alma permanece inalterável" 
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

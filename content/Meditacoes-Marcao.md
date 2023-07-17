@@ -1327,6 +1327,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 12]({{< ref "/post/2023-07-16-livro-11-teco-12" >}}
 "A esfera da alma permanece inalterável") - "A esfera da alma permanece inalterável" 
 
+:books: L11 - :book: [Teco 13]({{< ref "/post/2023-07-17-livro-11-teco-13" >}}
+"Odiar-me-á? O problema é seu") - "Odiar-me-á? O problema é seu" 
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

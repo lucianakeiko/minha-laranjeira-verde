@@ -1330,6 +1330,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 13]({{< ref "/post/2023-07-17-livro-11-teco-13" >}}
 "Odiar-me-á? O problema é seu") - "Odiar-me-á? O problema é seu" 
 
+:books: L11 - :book: [Teco 14]({{< ref "/post/2023-07-18-livro-11-teco-14" >}}
+"Desprezam-se mutuamente, mas mutuamente se bajulam") - "Desprezam-se mutuamente, mas mutuamente se bajulam" 
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

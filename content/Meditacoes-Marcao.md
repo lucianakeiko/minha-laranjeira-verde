@@ -1333,6 +1333,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 14]({{< ref "/post/2023-07-18-livro-11-teco-14" >}}
 "Desprezam-se mutuamente, mas mutuamente se bajulam") - "Desprezam-se mutuamente, mas mutuamente se bajulam" 
 
+:books: L11 - :book: [Teco 15]({{< ref "/post/2023-07-19-livro-11-teco-15" >}}
+"Nada mais ignóbil que amizade de lobo") - "Nada mais ignóbil que amizade de lobo" 
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

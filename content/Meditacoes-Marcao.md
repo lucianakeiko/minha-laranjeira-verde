@@ -1336,6 +1336,10 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 15]({{< ref "/post/2023-07-19-livro-11-teco-15" >}}
 "Nada mais ignóbil que amizade de lobo") - "Nada mais ignóbil que amizade de lobo" 
 
+:books: L11 - :book: [Teco 16]({{< ref "/post/2023-07-20-livro-11-teco-16" >}}
+"Viver a mais bela vida; o poder de vivê-la reside na alma") - "Viver a mais bela vida; o poder de vivê-la reside na alma" 
+
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

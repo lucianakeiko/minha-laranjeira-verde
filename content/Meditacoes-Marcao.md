@@ -1339,6 +1339,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 16]({{< ref "/post/2023-07-20-livro-11-teco-16" >}}
 "Viver a mais bela vida; o poder de vivê-la reside na alma") - "Viver a mais bela vida; o poder de vivê-la reside na alma" 
 
+:books: L11 - :book: [Teco 17]({{< ref "/post/2023-07-21-livro-11-teco-17" >}}
+"nenhum mal sofrerá") - "nenhum mal sofrerá" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

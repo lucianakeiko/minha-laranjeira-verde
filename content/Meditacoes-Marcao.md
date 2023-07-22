@@ -1342,6 +1342,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 17]({{< ref "/post/2023-07-21-livro-11-teco-17" >}}
 "nenhum mal sofrerá") - "nenhum mal sofrerá" 
 
+:books: L11 - :book: [Teco 18]({{< ref "/post/2023-07-22-livro-11-teco-18" >}}
+"Ou os átomos, ou a natureza regendo tudo") - "Ou os átomos, ou a natureza regendo tudo" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

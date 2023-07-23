@@ -1345,6 +1345,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 18]({{< ref "/post/2023-07-22-livro-11-teco-18" >}}
 "Ou os átomos, ou a natureza regendo tudo") - "Ou os átomos, ou a natureza regendo tudo" 
 
+:books: L11 - :book: [Teco 19]({{< ref "/post/2023-07-23-livro-11-teco-19" >}}
+"Essa ideia não é necessária") - "Essa ideia não é necessária" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

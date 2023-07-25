@@ -1351,6 +1351,8 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 20]({{< ref "/post/2023-07-24-livro-11-teco-20" >}}
 "Não é estranho que só tua parte inteligente desobedeça e proteste contra o lugar a ela atribuído?") - "Não é estranho que só tua parte inteligente desobedeça e proteste contra o lugar a ela atribuído?" 
 
+:books: L11 - :book: [Teco 21]({{< ref "/post/2023-07-25-livro-11-teco-21" >}}
+"Ninguém pode ser um e o mesmo durante a vida toda, se o escopo de sua vida não é sempre um e o mesmo") - "Ninguém pode ser um e o mesmo durante a vida toda, se o escopo de sua vida não é sempre um e o mesmo" 
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

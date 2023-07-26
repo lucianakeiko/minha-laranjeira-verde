@@ -1354,6 +1354,10 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 21]({{< ref "/post/2023-07-25-livro-11-teco-21" >}}
 "Ninguém pode ser um e o mesmo durante a vida toda, se o escopo de sua vida não é sempre um e o mesmo") - "Ninguém pode ser um e o mesmo durante a vida toda, se o escopo de sua vida não é sempre um e o mesmo" 
 
+:books: L11 - :book: [Teco 22]({{< ref "/post/2023-07-26-livro-11-teco-22" >}}
+"O rato do mato e o caseiro") - "O rato do mato e o caseiro" 
+
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

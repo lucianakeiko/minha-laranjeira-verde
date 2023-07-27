@@ -1357,6 +1357,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 22]({{< ref "/post/2023-07-26-livro-11-teco-22" >}}
 "O rato do mato e o caseiro") - "O rato do mato e o caseiro" 
 
+:books: L11 - :book: [Teco 23]({{< ref "/post/2023-07-27-livro-11-teco-23" >}}
+"À crença popular na Lâmia Sócrates") - "À crença popular na Lâmia Sócrates" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

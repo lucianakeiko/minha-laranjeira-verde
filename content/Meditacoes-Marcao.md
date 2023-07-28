@@ -1360,6 +1360,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 23]({{< ref "/post/2023-07-27-livro-11-teco-23" >}}
 "À crença popular na Lâmia Sócrates") - "À crença popular na Lâmia Sócrates" 
 
+:books: L11 - :book: [Teco 24]({{< ref "/post/2023-07-28-livro-11-teco-24" >}}
+"Os lacedemônios") - "Os lacedemônios" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

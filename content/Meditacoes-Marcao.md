@@ -1363,6 +1363,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 24]({{< ref "/post/2023-07-28-livro-11-teco-24" >}}
 "Os lacedemônios") - "Os lacedemônios" 
 
+:books: L11 - :book: [Teco 25]({{< ref "/post/2023-07-29-livro-11-teco-25" >}}
+"Não quero acabar da maneira mais triste") - "Não quero acabar da maneira mais triste" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

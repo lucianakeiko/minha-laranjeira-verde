@@ -1366,6 +1366,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 25]({{< ref "/post/2023-07-29-livro-11-teco-25" >}}
 "Não quero acabar da maneira mais triste") - "Não quero acabar da maneira mais triste" 
 
+:books: L11 - :book: [Teco 26]({{< ref "/post/2023-07-30-livro-11-teco-26" >}}
+"Lembrar-se amiúde de um dos antigos que praticavam a virtude") - "Lembrar-se amiúde de um dos antigos que praticavam a virtude" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

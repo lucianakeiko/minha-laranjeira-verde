@@ -1369,6 +1369,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 26]({{< ref "/post/2023-07-30-livro-11-teco-26" >}}
 "Lembrar-se amiúde de um dos antigos que praticavam a virtude") - "Lembrar-se amiúde de um dos antigos que praticavam a virtude" 
 
+:books: L11 - :book: [Teco 27]({{< ref "/post/2023-07-31-livro-11-teco-27" >}}
+"'Olhemos de manhã para o céu") - "'Olhemos de manhã para o céu" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

@@ -1372,6 +1372,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 27]({{< ref "/post/2023-07-31-livro-11-teco-27" >}}
 "'Olhemos de manhã para o céu") - "'Olhemos de manhã para o céu" 
 
+:books: L11 - :book: [Teco 28]({{< ref "/post/2023-08-01-livro-11-teco-28" >}}
+"O aspecto de Sócrates cingindo um pelego") - "O aspecto de Sócrates cingindo um pelego" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

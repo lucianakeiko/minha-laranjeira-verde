@@ -1375,6 +1375,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 28]({{< ref "/post/2023-08-01-livro-11-teco-28" >}}
 "O aspecto de Sócrates cingindo um pelego") - "O aspecto de Sócrates cingindo um pelego" 
 
+:books: L11 - :book: [Teco 29]({{< ref "/post/2023-08-02-livro-11-teco-29" >}}
+"Não poderá ser mestre na escrita e leitura sem ter sido antes aluno") - "Não poderá ser mestre na escrita e leitura sem ter sido antes aluno" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

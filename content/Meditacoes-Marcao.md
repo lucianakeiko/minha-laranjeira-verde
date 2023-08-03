@@ -1378,6 +1378,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 29]({{< ref "/post/2023-08-02-livro-11-teco-29" >}}
 "Não poderá ser mestre na escrita e leitura sem ter sido antes aluno") - "Não poderá ser mestre na escrita e leitura sem ter sido antes aluno" 
 
+:books: L11 - :book: [Teco 30]({{< ref "/post/2023-08-03-livro-11-teco-30" >}}
+"Nasceste escravo; não tens direito à palavra.") - "Nasceste escravo; não tens direito à palavra." 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

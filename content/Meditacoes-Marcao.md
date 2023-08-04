@@ -1381,6 +1381,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 30]({{< ref "/post/2023-08-03-livro-11-teco-30" >}}
 "Nasceste escravo; não tens direito à palavra.") - "Nasceste escravo; não tens direito à palavra." 
 
+:books: L11 - :book: [Teco 31]({{< ref "/post/2023-08-04-livro-11-teco-31" >}}
+"o coração se pôs a rir") - "o coração se pôs a rir" 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

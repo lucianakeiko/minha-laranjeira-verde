@@ -1384,6 +1384,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 31]({{< ref "/post/2023-08-04-livro-11-teco-31" >}}
 "o coração se pôs a rir") - "o coração se pôs a rir" 
 
+:books: L11 - :book: [Teco 32]({{< ref "/post/2023-08-05-livro-11-teco-32" >}}
+"Condenarão a virtude em termos contundentes.") - "Condenarão a virtude em termos contundentes." 
+
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

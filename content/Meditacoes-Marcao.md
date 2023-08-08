@@ -1390,6 +1390,8 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 33]({{< ref "/post/2023-08-07-livro-11-teco-33" >}}
 "Procurar figos no inverno é de louco") - "Procurar figos no inverno é de louco"
 
+:books: L11 - :book: [Teco 34]({{< ref "/post/2023-08-08-livro-11-teco-34" >}}
+"Talvez morras amanhã") - "Talvez morras amanhã"
 
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 

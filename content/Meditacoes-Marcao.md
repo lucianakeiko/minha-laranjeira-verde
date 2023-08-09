@@ -1393,6 +1393,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 34]({{< ref "/post/2023-08-08-livro-11-teco-34" >}}
 "Talvez morras amanhã") - "Talvez morras amanhã"
 
+:books: L11 - :book: [Teco 35]({{< ref "/post/2023-08-09-livro-11-teco-35" >}}
+"Tudo são mudanças") - "Tudo são mudanças"
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

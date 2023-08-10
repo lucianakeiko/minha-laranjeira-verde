@@ -1396,6 +1396,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 35]({{< ref "/post/2023-08-09-livro-11-teco-35" >}}
 "Tudo são mudanças") - "Tudo são mudanças"
 
+:books: L11 - :book: [Teco 36]({{< ref "/post/2023-08-10-livro-11-teco-36" >}}
+"Ladrão do livre arbítrio não existe") - "Ladrão do livre arbítrio não existe"
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

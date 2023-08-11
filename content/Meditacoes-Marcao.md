@@ -1399,6 +1399,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 36]({{< ref "/post/2023-08-10-livro-11-teco-36" >}}
 "Ladrão do livre arbítrio não existe") - "Ladrão do livre arbítrio não existe"
 
+:books: L11 - :book: [Teco 37]({{< ref "/post/2023-08-11-livro-11-teco-37" >}}
+"Não nutrir aversão a nada que não dependa de nós") - "Não nutrir aversão a nada que não dependa de nós"
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

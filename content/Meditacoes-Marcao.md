@@ -1402,6 +1402,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 37]({{< ref "/post/2023-08-11-livro-11-teco-37" >}}
 "Não nutrir aversão a nada que não dependa de nós") - "Não nutrir aversão a nada que não dependa de nós"
 
+:books: L11 - :book: [Teco 38]({{< ref "/post/2023-08-12-livro-11-teco-38" >}}
+"Não discutimos") - "Não discutimos"
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

@@ -1405,6 +1405,9 @@ Editora: Nova Acropole
 :books: L11 - :book: [Teco 38]({{< ref "/post/2023-08-12-livro-11-teco-38" >}}
 "Não discutimos") - "Não discutimos"
 
+:books: L11 - :book: [Teco 39]({{< ref "/post/2023-08-13-livro-11-teco-39" >}}
+"Que desejais? Ter almas de seres racionais ou de irracionais?") - "Que desejais? Ter almas de seres racionais ou de irracionais?"
+
 ### :books: LIVRO 12  ( Tecos 1 a 36 )
 
 

@@ -1420,5 +1420,8 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 3]({{< ref "/post/2023-08-16-livro-12-teco-3" >}}
 "Três são os elementos de que és constituído: o corpo, o alento, a mente") - "Três são os elementos de que és constituído: o corpo, o alento, a mente"
 
+:books: L12 - :book: [Teco 4]({{< ref "/post/2023-08-17-livro-12-teco-4" >}}
+"Não suportaria a imposição sequer por um só dia") - "Não suportaria a imposição sequer por um só dia"
+
 ## Versão Papel :book:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mundodekeika-20&language=pt_BR&marketplace=amazon&region=BR&placement=B092FVY4BB&asins=B092FVY4BB&linkId=37c5ec14221f61f811029aa88b520891&show_border=true&link_opens_in_new_window=true"></iframe>

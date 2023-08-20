@@ -13,7 +13,7 @@ description: 'Acostuma-te até com o que te custa'
 toc: true
 ---
 
-Livro 12 - teco 6
+# Livro 12 - teco 6
 
 Acostuma-te até com o que te custa. A mão esquerda, tão remissa no mais, por falta de hábito, governa as rédeas com mais força que a direita, por estar acostumada.
 

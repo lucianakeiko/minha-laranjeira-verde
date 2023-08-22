@@ -1435,7 +1435,7 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 8]({{< ref "/post/2023-08-21-livro-12-teco-8" >}}
 "Contemplar as causas formais limpas de escória") - "Contemplar as causas formais limpas de escória"
 
-:books: L12 - :book: [Teco 9]({{< ref "/post/2023-08-22-livro-12-teco-8" >}}
+:books: L12 - :book: [Teco 9]({{< ref "/post/2023-08-22-livro-12-teco-9" >}}
 "No uso dos princípios devemos ser como o pugilista") - "No uso dos princípios devemos ser como o pugilista"
 
 ## Versão Papel :book:

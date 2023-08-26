@@ -1445,7 +1445,10 @@ Editora: Nova Acropole
 "Que admirável poder") - "Que admirável poder"
 
 :books: L12 - :book: [Teco 12]({{< ref "/post/2023-08-25-livro-12-teco-12" >}}
-"Não devemos culpar ninguém") - "Não devems culpar ninguém"
+"Não devemos culpar ninguém") - "Não devemos culpar ninguém"
+
+:books: L12 - :book: [Teco 13]({{< ref "/post/2023-08-26-livro-12-teco-13" >}}
+"ridículo e estranho") - "ridículo e estranho"
 
 
 ## Versão Papel :book:

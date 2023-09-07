@@ -1483,6 +1483,9 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 24]({{< ref "/post/2023-09-06-livro-12-teco-24" >}}
 "Cumpre ter presentes estas três considerações") - "Cumpre ter presentes estas três considerações"
 
+:books: L12 - :book: [Teco 25]({{< ref "/post/2023-09-07-livro-12-teco-25" >}}
+"Alija a opinião e estás salvo") - "Alija a opinião e estás salvo"
+
 
 
 ## Versão Papel :book:

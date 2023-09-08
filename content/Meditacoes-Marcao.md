@@ -1486,6 +1486,9 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 25]({{< ref "/post/2023-09-07-livro-12-teco-25" >}}
 "Alija a opinião e estás salvo") - "Alija a opinião e estás salvo"
 
+:books: L12 - :book: [Teco 26]({{< ref "/post/2023-09-08-livro-12-teco-26" >}}
+"Nada é particular a ninguém") - "Nada é particular a ninguém"
+
 
 
 ## Versão Papel :book:

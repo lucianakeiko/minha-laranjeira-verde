@@ -1489,6 +1489,9 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 26]({{< ref "/post/2023-09-08-livro-12-teco-26" >}}
 "Nada é particular a ninguém") - "Nada é particular a ninguém"
 
+:books: L12 - :book: [Teco 27]({{< ref "/post/2023-09-09-livro-12-teco-27" >}}
+"Que é feito de tudo isso?") - "Que é feito de tudo isso?"
+
 
 
 ## Versão Papel :book:

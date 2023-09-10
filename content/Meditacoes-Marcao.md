@@ -1492,6 +1492,9 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 27]({{< ref "/post/2023-09-09-livro-12-teco-27" >}}
 "Que é feito de tudo isso?") - "Que é feito de tudo isso?"
 
+:books: L12 - :book: [Teco 28]({{< ref "/post/2023-09-10-livro-12-teco-28" >}}
+"Deduzo que existem e venero-os") - "Deduzo que existem e venero-os"
+
 
 
 ## Versão Papel :book:

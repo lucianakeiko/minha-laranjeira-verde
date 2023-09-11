@@ -1495,6 +1495,9 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 28]({{< ref "/post/2023-09-10-livro-12-teco-28" >}}
 "Deduzo que existem e venero-os") - "Deduzo que existem e venero-os"
 
+:books: L12 - :book: [Teco 29]({{< ref "/post/2023-09-11-livro-12-teco-29" >}}
+"Praticar do fundo da alma a justiça e dizer a verdade") - "Praticar do fundo da alma a justiça e dizer a verdade"
+
 
 
 ## Versão Papel :book:

@@ -1498,6 +1498,9 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 29]({{< ref "/post/2023-09-11-livro-12-teco-29" >}}
 "Praticar do fundo da alma a justiça e dizer a verdade") - "Praticar do fundo da alma a justiça e dizer a verdade"
 
+:books: L12 - :book: [Teco 30]({{< ref "/post/2023-09-12-livro-12-teco-30" >}}
+"Uma é a alma inteligente, embora se afigure repartida") - "Uma é a alma inteligente, embora se afigure repartida"
+
 
 
 ## Versão Papel :book:

@@ -1501,6 +1501,8 @@ Editora: Nova Acropole
 :books: L12 - :book: [Teco 30]({{< ref "/post/2023-09-12-livro-12-teco-30" >}}
 "Uma é a alma inteligente, embora se afigure repartida") - "Uma é a alma inteligente, embora se afigure repartida"
 
+:books: L12 - :book: [Teco 31]({{< ref "/post/2023-09-13-livro-12-teco-31" >}}
+"Que achas aí de que valha a pena ter saudade?") - "Que achas aí de que valha a pena ter saudade?"
 
 
 ## Versão Papel :book:

@@ -10,7 +10,7 @@ tags:
   - Marco Aurélio
   - Meditações
 description: 'O maior estímulo ao desprezo da morte'
-toc:true
+toc: true
 ---
 
 # Livro 12 -Teco 34

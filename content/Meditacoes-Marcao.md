@@ -23,7 +23,7 @@ Editora: Nova Acropole
 
 ### :books: LIVRO 1 ( Tecos 1 a 17 )
 
-:book: [Teco 1]({{< ref "/post/2021-10-31-livro-1-teco-1" >}} 
+:book: [Teco 1]({{< ref "/meditacoes/livro-1-teco-1" >}} 
 "Do avô Vero o bom costume e calma") - Do avô Vero o bom costume e calma
 
 :book: [Teco 2]({{< ref "/post/2021-11-01-livro-1-teco-2" >}} 

@@ -26,7 +26,7 @@ Editora: Nova Acropole
 :book: [Teco 1]({{< ref "/meditacoes/livro-1-teco-1" >}} 
 "Do avô Vero o bom costume e calma") - Do avô Vero o bom costume e calma
 
-:book: [Teco 2]({{< ref "/post/2021-11-01-livro-1-teco-2" >}} 
+:book: [Teco 2]({{< ref "/meditacoes/livro-1-teco-2" >}} 
 "Da reputação e memória, aquela acerca daquele que me gerou, a discrição e virilidade.") - Da reputação e memória, aquela acerca daquele que me gerou, a discrição e virilidade.
 
 :book: [Teco 3]({{< ref "/post/2021-11-02-livro-1-teco-3" >}} 

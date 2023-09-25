@@ -32,7 +32,7 @@ Editora: Nova Acropole
 :book: [Teco 3]({{< ref "/meditacoes/livro-1-teco-3" >}} 
 "Da minha mãe a piedade e mudança de parecer e abstenção não apenas de praticar o mal mas também de conceber pensamento tal; e ainda a simplicidade quanto ao modo de vida e um distanciamento do suntuoso passatempo.") - Da minha mãe a piedade e mudança de parecer e abstenção não apenas de praticar o mal mas também de conceber pensamento tal; e ainda a simplicidade quanto ao modo de vida e um distanciamento do suntuoso passatempo.
 
-:book: [Teco 4]({{< ref "/post/2021-11-03-livro-1-teco-4" >}} 
+:book: [Teco 4]({{< ref "/meditacoes/livro-1-teco-4" >}} 
 "Do bisavô o fato de não ter frequentado escolas públicas e ter-me beneficiado de bons professores em casa e ter aprendido que para tais coisas é necessário gastar assiduamente.") - Do bisavô o fato de não ter frequentado escolas públicas e ter-me beneficiado de bons professores em casa e ter aprendido que para tais coisas é necessário gastar assiduamente.
 
 :book: [Teco 5]({{< ref "/post/2021-11-04-livro-1-teco-5" >}} 

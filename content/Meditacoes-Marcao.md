@@ -35,7 +35,7 @@ Editora: Nova Acropole
 :book: [Teco 4]({{< ref "/meditacoes/livro-1-teco-4" >}} 
 "Do bisavô o fato de não ter frequentado escolas públicas e ter-me beneficiado de bons professores em casa e ter aprendido que para tais coisas é necessário gastar assiduamente.") - Do bisavô o fato de não ter frequentado escolas públicas e ter-me beneficiado de bons professores em casa e ter aprendido que para tais coisas é necessário gastar assiduamente.
 
-:book: [Teco 5]({{< ref "/post/2021-11-04-livro-1-teco-5" >}} 
+:book: [Teco 5]({{< ref "/meditacoes/livro-1-teco-5" >}} 
 "Do prof: Não ser maria-vai-com as outras, resilientão, workaholic e falsiane xamais.") - Do prof: Não ser maria-vai-com as outras, resilientão, workaholic e falsiane xamais.
 
 :book: [Teco 6]({{< ref "/post/2021-11-11-livro-1-teco-6" >}} 

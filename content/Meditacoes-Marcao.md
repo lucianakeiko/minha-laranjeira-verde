@@ -38,7 +38,7 @@ Editora: Nova Acropole
 :book: [Teco 5]({{< ref "/meditacoes/livro-1-teco-5" >}} 
 "Do prof: Não ser maria-vai-com as outras, resilientão, workaholic e falsiane xamais.") - Do prof: Não ser maria-vai-com as outras, resilientão, workaholic e falsiane xamais.
 
-:book: [Teco 6]({{< ref "/post/2021-11-11-livro-1-teco-6" >}} 
+:book: [Teco 6]({{< ref "/meditacoes/livro-1-teco-6" >}} 
 "Ah, a antifrágil educaçao helênica.") - Ah, a antifrágil educaçao helênica. 
 
 

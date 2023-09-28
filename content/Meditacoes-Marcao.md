@@ -42,7 +42,7 @@ Editora: Nova Acropole
 "Ah, a antifrágil educaçao helênica.") - Ah, a antifrágil educaçao helênica. 
 
 
-:book: [Teco 7]({{< ref "/post/2021-11-14-livro-1-teco-7" >}} 
+:book: [Teco 7]({{< ref "/meditacoes/livro-1-teco-7" >}} 
 "Consciência da necessidade de correção e de tratamento de caráter") - Consciência da necessidade de correção e de tratamento de caráter. 
 
 :book: [Teco 8]({{< ref "/post/2021-11-15-livro-1-teco-8" >}} 

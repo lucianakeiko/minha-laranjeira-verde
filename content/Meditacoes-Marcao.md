@@ -45,7 +45,7 @@ Editora: Nova Acropole
 :book: [Teco 7]({{< ref "/meditacoes/livro-1-teco-7" >}} 
 "Consciência da necessidade de correção e de tratamento de caráter") - Consciência da necessidade de correção e de tratamento de caráter. 
 
-:book: [Teco 8]({{< ref "/post/2021-11-15-livro-1-teco-8" >}} 
+:book: [Teco 8]({{< ref "/meditacoes/livro-1-teco-8" >}} 
 "não dirigir o olhar para nenhuma outra coisa, nem por pouco, senão para a razão") - Não dirigir o olhar para nenhuma outra coisa, nem por pouco, senão para a razão. 
 
 :book: [Teco 9]({{< ref "/post/2021-11-16-livro-1-teco-9" >}} 

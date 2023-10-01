@@ -51,7 +51,7 @@ Editora: Nova Acropole
 :book: [Teco 9]({{< ref "/meditacoes/livro-1-teco-9" >}} 
 "Tolerância para com os ignorantes e para com a irreflexão dos pensantes") - Tolerância para com os ignorantes e para com a irreflexão dos pensantes
 
-:book: [Teco 10]({{< ref "/post/2021-11-17-livro-1-teco-10" >}} 
+:book: [Teco 10]({{< ref "/meditacoes/livro-1-teco-10" >}} 
 "não atacar ofensivamente os que cometeram barbarismo ou solecismo ou algo discordante") - não atacar ofensivamente os que cometeram barbarismo ou solecismo ou algo discordante
 
 :book: [Teco 11]({{< ref "/post/2021-11-18-livro-1-teco-11" >}} 

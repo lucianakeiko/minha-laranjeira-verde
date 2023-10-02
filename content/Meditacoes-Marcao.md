@@ -54,7 +54,7 @@ Editora: Nova Acropole
 :book: [Teco 10]({{< ref "/meditacoes/livro-1-teco-10" >}} 
 "não atacar ofensivamente os que cometeram barbarismo ou solecismo ou algo discordante") - não atacar ofensivamente os que cometeram barbarismo ou solecismo ou algo discordante
 
-:book: [Teco 11]({{< ref "/post/2021-11-18-livro-1-teco-11" >}} 
+:book: [Teco 11]({{< ref "/meditacoes/livro-1-teco-11" >}} 
 "A consciência dos não-limites da maldade e hipocrisia") - A consciência dos não-limites da maldade e hipocrisia
 
 :book: [Teco 12]({{< ref "/post/2021-11-19-livro-1-teco-12" >}} 

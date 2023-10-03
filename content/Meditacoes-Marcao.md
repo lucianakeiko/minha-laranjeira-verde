@@ -57,7 +57,7 @@ Editora: Nova Acropole
 :book: [Teco 11]({{< ref "/meditacoes/livro-1-teco-11" >}} 
 "A consciência dos não-limites da maldade e hipocrisia") - A consciência dos não-limites da maldade e hipocrisia
 
-:book: [Teco 12]({{< ref "/post/2021-11-19-livro-1-teco-12" >}} 
+:book: [Teco 12]({{< ref "/meditacoes/livro-1-teco-12" >}} 
 "Evitar continuamente as relações convenientes") - Evitar continuamente as relações convenientes
 
 :book: [Teco 13]({{< ref "/post/2021-11-22-livro-1-teco-13" >}} 

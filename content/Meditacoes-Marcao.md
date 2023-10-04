@@ -60,7 +60,7 @@ Editora: Nova Acropole
 :book: [Teco 12]({{< ref "/meditacoes/livro-1-teco-12" >}} 
 "Evitar continuamente as relações convenientes") - Evitar continuamente as relações convenientes
 
-:book: [Teco 13]({{< ref "/post/2021-11-22-livro-1-teco-13" >}} 
+:book: [Teco 13]({{< ref "/meditacoes/livro-1-teco-13" >}} 
 "jamais ser indiferente às queixas de um amigo") - Jamais ser indiferente às queixas de um amigo
 
 :book: [Teco 14]({{< ref "/post/2021-11-23-livro-1-teco-14" >}} 

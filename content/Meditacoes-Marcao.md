@@ -63,7 +63,7 @@ Editora: Nova Acropole
 :book: [Teco 13]({{< ref "/meditacoes/livro-1-teco-13" >}} 
 "jamais ser indiferente às queixas de um amigo") - Jamais ser indiferente às queixas de um amigo
 
-:book: [Teco 14]({{< ref "/post/2021-11-23-livro-1-teco-14" >}} 
+:book: [Teco 14]({{< ref "/meditacoes/livro-1-teco-14" >}} 
 "Estima pela filosofia; beneficência e liberalidade com ardor") - Estima pela filosofia; beneficência e liberalidade com ardor
 
 :book: [Teco 15]({{< ref "/post/2021-11-24-livro-1-teco-15" >}} 

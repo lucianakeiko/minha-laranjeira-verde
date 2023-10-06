@@ -66,7 +66,7 @@ Editora: Nova Acropole
 :book: [Teco 14]({{< ref "/meditacoes/livro-1-teco-14" >}} 
 "Estima pela filosofia; beneficência e liberalidade com ardor") - Estima pela filosofia; beneficência e liberalidade com ardor
 
-:book: [Teco 15]({{< ref "/post/2021-11-24-livro-1-teco-15" >}} 
+:book: [Teco 15]({{< ref "/meditacoes/livro-1-teco-15" >}} 
 "Ser senhor de si e não ser levado por nada em torno") - Ser senhor de si e não ser levado por nada em torno
 
 :book: [Teco 16]({{< ref "/post/2021-11-25-livro-1-teco-16" >}} 

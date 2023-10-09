@@ -69,7 +69,7 @@ Editora: Nova Acropole
 :book: [Teco 15]({{< ref "/meditacoes/livro-1-teco-15" >}} 
 "Ser senhor de si e não ser levado por nada em torno") - Ser senhor de si e não ser levado por nada em torno
 
-:book: [Teco 16]({{< ref "/post/2021-11-25-livro-1-teco-16" >}} 
+:book: [Teco 16]({{< ref "/meditacoes/livro-1-teco-16" >}} 
 "Cuidado nas deliberações, mas não um afastamento da investigação com o contentar-se com as aparências à mão") - Cuidado nas deliberações, mas não um afastamento da investigação com o contentar-se com as aparências à mão
 
 :book: [Teco 17]({{< ref "/post/2021-11-26-livro-1-teco-17" >}} 

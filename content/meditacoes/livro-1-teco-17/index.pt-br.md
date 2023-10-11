@@ -19,3 +19,7 @@ Dos deuses ter bons avós, bons antepassados, boa irmã, bons professores, bons 
 
 ter-me mantido em tão forte corpo numa tal vida; não ter tocado nem Benedita nem Teodoto, mas também mais tarde, nos amores tendo sido afetado, ter acontecido curar-m; quanto a rudeza muitas vezes contra Rústico nada ter praticado excessivamente de que me tivesse arrependido; ter habituado junto a mim quanto aos derradeiros anos a que me engendrou, a qual devia morrer jovem; todas a vezes em que eu quis ter socorrido alguém em pobreza ou em relação há alguma outra necessidade, este nunca me ter ouvido não possuir bens que mo permitissem; e a mim próprio em necessidade semelhante, de maneira a ter recebido da parte de outrem, não ter caído, tal me ser a mulher assim obediente, assim cheia de ternura, assim simples; para meus filhos ter bem adquirido educantes convenientes; ter obtido através dos sonhos a revelação de diversos remédios, e em especial contra expectorações de sangue contra vertigens, e disto em Gaete como uma resposta de oráculo; logo que eu fui convencido para filosofias, não ter caído num sofista, nem me ter tardado na análise de escritores ou de silogismos, nem a observar fenômenos celestes, Tudo isso por certo tem então necessidades dos auxíliosd os deuses e da sorte.
 Essas coisas entre os quados, as margens do Granua.
+
+
+v1 - 26/11/2021  
+v2 - 11/10/2023  

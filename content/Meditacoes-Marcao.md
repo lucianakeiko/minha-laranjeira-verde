@@ -72,12 +72,12 @@ Editora: Nova Acropole
 :book: [Teco 16]({{< ref "/meditacoes/livro-1-teco-16" >}} 
 "Cuidado nas deliberações, mas não um afastamento da investigação com o contentar-se com as aparências à mão") - Cuidado nas deliberações, mas não um afastamento da investigação com o contentar-se com as aparências à mão
 
-:book: [Teco 17]({{< ref "/post/2021-11-26-livro-1-teco-17" >}} 
+:book: [Teco 17]({{< ref "/meditacoes/livro-1-teco-17" >}} 
 "Logo que eu fui convencido para filosofias, não ter caído num sofista") - Logo que eu fui convencido para filosofias, não ter caído num sofista
 
 ### :books: LIVRO 2  ( Tecos 1 a 17 )
 
-:book: [Teco 1]({{< ref "/post/2021-11-27-livro-2-teco-1" >}} 
+:book: [Teco 1]({{< ref "/meditacoes/livro-2-teco-1" >}} 
 "Encontrar-me-ei com um indiscreto, com um ingrato, com um petulante, com um astuto, com um invejoso, com um insociável.") - Encontrar-me-ei com um indiscreto, com um ingrato, com um petulante, com um astuto, com um invejoso, com um insociável.
 
 :book: [Teco 2]({{< ref "/post/2021-11-28-livro-2-teco-2" >}} 

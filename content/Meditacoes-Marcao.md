@@ -80,7 +80,7 @@ Editora: Nova Acropole
 :book: [Teco 1]({{< ref "/meditacoes/livro-2-teco-1" >}} 
 "Encontrar-me-ei com um indiscreto, com um ingrato, com um petulante, com um astuto, com um invejoso, com um insociável.") - Encontrar-me-ei com um indiscreto, com um ingrato, com um petulante, com um astuto, com um invejoso, com um insociável.
 
-:book: [Teco 2]({{< ref "/post/2021-11-28-livro-2-teco-2" >}} 
+:book: [Teco 2]({{< ref "/meditacoes/livro-2-teco-2" >}} 
 "Isto que alguma vez sou é uma carne e um alento e uma faculdade dirigente.") - Isto que alguma vez sou é uma carne e um alento e uma faculdade dirigente.
 
 :book: [Teco 3]({{< ref "/post/2021-11-29-livro-2-teco-3" >}} 

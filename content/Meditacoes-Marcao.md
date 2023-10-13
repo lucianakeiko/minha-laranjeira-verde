@@ -83,7 +83,7 @@ Editora: Nova Acropole
 :book: [Teco 2]({{< ref "/meditacoes/livro-2-teco-2" >}} 
 "Isto que alguma vez sou é uma carne e um alento e uma faculdade dirigente.") - Isto que alguma vez sou é uma carne e um alento e uma faculdade dirigente.
 
-:book: [Teco 3]({{< ref "/post/2021-11-29-livro-2-teco-3" >}} 
+:book: [Teco 3]({{< ref "/meditacoes/livro-2-teco-3" >}} 
 "Reservam o cosmos as transformações, tanto a dos elementos como a dos compostos.") - Reservam o cosmos as transformações, tanto a dos elementos como a dos compostos.
 
 

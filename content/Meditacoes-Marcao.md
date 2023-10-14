@@ -87,7 +87,7 @@ Editora: Nova Acropole
 "Reservam o cosmos as transformações, tanto a dos elementos como a dos compostos.") - Reservam o cosmos as transformações, tanto a dos elementos como a dos compostos.
 
 
-:book: [Teco 4]({{< ref "/post/2021-11-30-livro-2-teco-4" >}} 
+:book: [Teco 4]({{< ref "/meditacoes/livro-2-teco-4" >}} 
 "Occupy seu lugar no cosmos ordenado que o tempo tá passando trôxa. Para de procrastinar.") - Occupy seu lugar no cosmos ordenado que o tempo tá passando trôxa. Para de procrastinar.
 
 :book: [Teco 5]({{< ref "/post/2021-12-01-livro-2-teco-5" >}} 

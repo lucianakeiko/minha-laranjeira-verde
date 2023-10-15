@@ -90,7 +90,7 @@ Editora: Nova Acropole
 :book: [Teco 4]({{< ref "/meditacoes/livro-2-teco-4" >}} 
 "Occupy seu lugar no cosmos ordenado que o tempo tá passando trôxa. Para de procrastinar.") - Occupy seu lugar no cosmos ordenado que o tempo tá passando trôxa. Para de procrastinar.
 
-:book: [Teco 5]({{< ref "/post/2021-12-01-livro-2-teco-5" >}} 
+:book: [Teco 5]({{< ref "/meditacoes/livro-2-teco-5" >}} 
 "Faz teu job sem fantasiar pra ver como vc não vair ser um recalcado invejoso e nem vai precisar ficar mendigando nada pra deus nenhum.") - Faz teu job sem fantasiar pra ver como vc não vair ser um recalcado invejoso e nem vai precisar ficar mendigando nada pra deus nenhum.
 
 :book: [Teco 6]({{< ref "/post/2021-12-02-livro-2-teco-6" >}} 

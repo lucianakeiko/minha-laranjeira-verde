@@ -93,7 +93,7 @@ Editora: Nova Acropole
 :book: [Teco 5]({{< ref "/meditacoes/livro-2-teco-5" >}} 
 "Faz teu job sem fantasiar pra ver como vc não vair ser um recalcado invejoso e nem vai precisar ficar mendigando nada pra deus nenhum.") - Faz teu job sem fantasiar pra ver como vc não vair ser um recalcado invejoso e nem vai precisar ficar mendigando nada pra deus nenhum.
 
-:book: [Teco 6]({{< ref "/post/2021-12-02-livro-2-teco-6" >}} 
+:book: [Teco 6]({{< ref "/meditacoes/livro-2-teco-6" >}} 
 "Deus não precisa estar vendo. Você está vendo você fazendo papelzinho na vida que daqui a pouco acaba e vc não tomou vergonha na cara.") - Deus não precisa estar vendo. Você está vendo você fazendo papelzinho na vida que daqui a pouco acaba e vc não tomou vergonha na cara.
 
 :book: [Teco 7]({{< ref "/post/2021-12-03-livro-2-teco-7" >}} 

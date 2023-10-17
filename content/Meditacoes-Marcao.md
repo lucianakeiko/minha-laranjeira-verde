@@ -96,7 +96,7 @@ Editora: Nova Acropole
 :book: [Teco 6]({{< ref "/meditacoes/livro-2-teco-6" >}} 
 "Deus não precisa estar vendo. Você está vendo você fazendo papelzinho na vida que daqui a pouco acaba e vc não tomou vergonha na cara.") - Deus não precisa estar vendo. Você está vendo você fazendo papelzinho na vida que daqui a pouco acaba e vc não tomou vergonha na cara.
 
-:book: [Teco 7]({{< ref "/post/2021-12-03-livro-2-teco-7" >}} 
+:book: [Teco 7]({{< ref "/meditacoes/livro-2-teco-7" >}} 
 "Estuda alguma coisa que preste, não se distraia e tenha foco. Se não vai ficar bodeado da vida e pensando bobagem") - Estuda alguma coisa que preste, não se distraia e tenha foco. Se não vai ficar bodeado da vida e pensando bobagem
 
 :book: [Teco 8]({{< ref "/post/2021-12-05-livro-2-teco-8" >}} 

@@ -99,7 +99,7 @@ Editora: Nova Acropole
 :book: [Teco 7]({{< ref "/meditacoes/livro-2-teco-7" >}} 
 "Estuda alguma coisa que preste, não se distraia e tenha foco. Se não vai ficar bodeado da vida e pensando bobagem") - Estuda alguma coisa que preste, não se distraia e tenha foco. Se não vai ficar bodeado da vida e pensando bobagem
 
-:book: [Teco 8]({{< ref "/post/2021-12-05-livro-2-teco-8" >}} 
+:book: [Teco 8]({{< ref "/meditacoes/livro-2-teco-8" >}} 
 "Quem não tá ligado no ambiente e em si mesmo inevitavelmente vai ser infeliz.") - Quem não tá ligado no ambiente e em si mesmo inevitavelmente vai ser infeliz.
 
 :book: [Teco 9]({{< ref "/post/2021-12-06-livro-2-teco-9" >}} 

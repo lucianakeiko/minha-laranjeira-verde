@@ -102,7 +102,7 @@ Editora: Nova Acropole
 :book: [Teco 8]({{< ref "/meditacoes/livro-2-teco-8" >}} 
 "Quem não tá ligado no ambiente e em si mesmo inevitavelmente vai ser infeliz.") - Quem não tá ligado no ambiente e em si mesmo inevitavelmente vai ser infeliz.
 
-:book: [Teco 9]({{< ref "/post/2021-12-06-livro-2-teco-9" >}} 
+:book: [Teco 9]({{< ref "/meditacoes/livro-2-teco-9" >}} 
 "Descobre quem você é, como você pode ajudar a turma e planta o pé.") - Descobre quem você é, como você pode ajudar a turma e planta o pé.
 
 :book: [Teco 10]({{< ref "/post/2021-12-07-livro-2-teco-10" >}} 

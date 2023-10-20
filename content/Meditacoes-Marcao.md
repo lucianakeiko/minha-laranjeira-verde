@@ -105,8 +105,8 @@ Editora: Nova Acropole
 :book: [Teco 9]({{< ref "/meditacoes/livro-2-teco-9" >}} 
 "Descobre quem você é, como você pode ajudar a turma e planta o pé.") - Descobre quem você é, como você pode ajudar a turma e planta o pé.
 
-:book: [Teco 10]({{< ref "/post/2021-12-07-livro-2-teco-10" >}} 
-"Faltas motivadas pelo desejo são graves do que as motivadas pela ira") - Faltas motivadas pelo desejo são graves do que as motivadas pela ira.
+:book: [Teco 10]({{< ref "/meditacoes/livro-2-teco-10" >}} 
+"Faltas motivadas pelo desejo são mais graves do que as motivadas pela ira") - Faltas motivadas pelo desejo são mais graves do que as motivadas pela ira.
 
 :book: [Teco 11]({{< ref "/post/2021-12-08-livro-2-teco-11" >}} 
 "E aquilo que não faz pior um homem, como faria pior a vida de homem?") - E aquilo que não faz pior um homem, como faria pior a vida de homem?.

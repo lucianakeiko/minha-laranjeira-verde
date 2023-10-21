@@ -108,7 +108,7 @@ Editora: Nova Acropole
 :book: [Teco 10]({{< ref "/meditacoes/livro-2-teco-10" >}} 
 "Faltas motivadas pelo desejo são mais graves do que as motivadas pela ira") - Faltas motivadas pelo desejo são mais graves do que as motivadas pela ira.
 
-:book: [Teco 11]({{< ref "/post/2021-12-08-livro-2-teco-11" >}} 
+:book: [Teco 11]({{< ref "/meditacoes/livro-2-teco-11" >}} 
 "E aquilo que não faz pior um homem, como faria pior a vida de homem?") - E aquilo que não faz pior um homem, como faria pior a vida de homem?.
 
 :book: [Teco 12]({{< ref "/post/2021-12-09-livro-2-teco-12" >}} 

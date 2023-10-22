@@ -111,7 +111,7 @@ Editora: Nova Acropole
 :book: [Teco 11]({{< ref "/meditacoes/livro-2-teco-11" >}} 
 "E aquilo que não faz pior um homem, como faria pior a vida de homem?") - E aquilo que não faz pior um homem, como faria pior a vida de homem?.
 
-:book: [Teco 12]({{< ref "/post/2021-12-09-livro-2-teco-12" >}} 
+:book: [Teco 12]({{< ref "/meditacoes/livro-2-teco-12" >}} 
 "A morte não é apenas uma ação da natureza, mas para esta até uma conveniência") - A morte não é apenas uma ação da natureza, mas para esta até uma conveniência.
 
 :book: [Teco 13]({{< ref "/post/2021-12-19-livro-2-teco-13" >}} 

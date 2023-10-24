@@ -117,7 +117,7 @@ Editora: Nova Acropole
 :book: [Teco 13]({{< ref "/meditacoes/livro-2-teco-13" >}} 
 "Ignorância do bem e do mal: deficiência grave, digna de pena") - Ignorância do bem e do mal: deficiência grave, digna de pena.
 
-:book: [Teco 14]({{< ref "/post/2021-12-22-livro-2-teco-14" >}} 
+:book: [Teco 14]({{< ref "/meditacoes/livro-2-teco-14" >}} 
 "Como nos poderiam tirar o que não temos?") - Como nos poderiam tirar o que não temos?.
 
 :book: [Teco 15]({{< ref "/post/2021-12-27-livro-2-teco-15" >}} 

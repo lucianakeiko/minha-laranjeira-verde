@@ -120,7 +120,7 @@ Editora: Nova Acropole
 :book: [Teco 14]({{< ref "/meditacoes/livro-2-teco-14" >}} 
 "Como nos poderiam tirar o que não temos?") - Como nos poderiam tirar o que não temos?.
 
-:book: [Teco 15]({{< ref "/post/2021-12-27-livro-2-teco-15" >}} 
+:book: [Teco 15]({{< ref "/meditacoes/livro-2-teco-15" >}} 
 "Tudo é opinião") - Tudo é opinião.
 
 :book: [Teco 16]({{< ref "/post/2021-12-28-livro-2-teco-16" >}} 

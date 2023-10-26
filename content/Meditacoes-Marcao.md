@@ -123,7 +123,7 @@ Editora: Nova Acropole
 :book: [Teco 15]({{< ref "/meditacoes/livro-2-teco-15" >}} 
 "Tudo é opinião") - Tudo é opinião.
 
-:book: [Teco 16]({{< ref "/post/2021-12-28-livro-2-teco-16" >}} 
+:book: [Teco 16]({{< ref "/meditacoes/livro-2-teco-16" >}} 
 "A finalidade dos viventes racionais é obedecer à razão") - A finalidade dos viventes racionais é obedecer à razão.
 
 :book: [Teco 17]({{< ref "/post/2021-12-30-livro-2-teco-17" >}} 

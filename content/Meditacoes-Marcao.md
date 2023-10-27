@@ -126,7 +126,7 @@ Editora: Nova Acropole
 :book: [Teco 16]({{< ref "/meditacoes/livro-2-teco-16" >}} 
 "A finalidade dos viventes racionais é obedecer à razão") - A finalidade dos viventes racionais é obedecer à razão.
 
-:book: [Teco 17]({{< ref "/post/2021-12-30-livro-2-teco-17" >}} 
+:book: [Teco 17]({{< ref "/meditacoes/livro-2-teco-17" >}} 
 "Por que havemos de temer a transformação e dissolução do todo?") - Por que havemos de temer a transformação e dissolução do todo?.
 
 ### :books: LIVRO 3  ( Tecos 1 a 16 )

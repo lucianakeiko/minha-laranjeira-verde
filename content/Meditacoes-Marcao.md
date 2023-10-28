@@ -131,7 +131,7 @@ Editora: Nova Acropole
 
 ### :books: LIVRO 3  ( Tecos 1 a 16 )
 
-:books: L3 - :book: [Teco 1]({{< ref "/post/2022-01-01-livro-3-teco-1" >}} 
+:books: L3 - :book: [Teco 1]({{< ref "/meditacoes/livro-3-teco-1" >}} 
 "É mister apressar-se") - É mister apressar-se.
 
 :books: L3 - :book: [Teco 2]({{< ref "/post/2022-01-02-livro-3-teco-2" >}} 

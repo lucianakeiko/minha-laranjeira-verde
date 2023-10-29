@@ -134,7 +134,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 1]({{< ref "/meditacoes/livro-3-teco-1" >}} 
 "É mister apressar-se") - É mister apressar-se.
 
-:books: L3 - :book: [Teco 2]({{< ref "/post/2022-01-02-livro-3-teco-2" >}} 
+:books: L3 - :book: [Teco 2]({{< ref "/meditacoes/livro-3-teco-2" >}} 
 "Até os acidentes dos produtos da natureza têm sua graça e sedução") - Até os acidentes dos produtos da natureza têm sua graça e sedução.
 
 :books: L3 - :book: [Teco 3]({{< ref "/post/2022-01-03-livro-3-teco-3" >}} 

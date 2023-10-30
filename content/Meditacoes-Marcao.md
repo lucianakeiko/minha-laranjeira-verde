@@ -137,7 +137,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 2]({{< ref "/meditacoes/livro-3-teco-2" >}} 
 "Até os acidentes dos produtos da natureza têm sua graça e sedução") - Até os acidentes dos produtos da natureza têm sua graça e sedução.
 
-:books: L3 - :book: [Teco 3]({{< ref "/post/2022-01-03-livro-3-teco-3" >}} 
+:books: L3 - :book: [Teco 3]({{< ref "/meditacoes/livro-3-teco-3" >}} 
 "Embarcaste; navegaste, aportaste. Desembarca!") - Embarcaste; navegaste, aportaste. Desembarca!
 
 :books: L3 - :book: [Teco 4]({{< ref "/post/2022-01-04-livro-3-teco-4" >}} 

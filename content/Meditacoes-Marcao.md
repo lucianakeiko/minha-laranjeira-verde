@@ -140,7 +140,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 3]({{< ref "/meditacoes/livro-3-teco-3" >}} 
 "Embarcaste; navegaste, aportaste. Desembarca!") - Embarcaste; navegaste, aportaste. Desembarca!
 
-:books: L3 - :book: [Teco 4]({{< ref "/post/2022-01-04-livro-3-teco-4" >}} 
+:books: L3 - :book: [Teco 4]({{< ref "/meditacoes/livro-3-teco-4" >}} 
 "Não gastes a parte restante da vida a cogitar nos outros") - Não gastes a parte restante da vida a cogitar nos outros
 
 :books: L3 - :book: [Teco 5]({{< ref "/post/2022-01-05-livro-3-teco-5" >}} 

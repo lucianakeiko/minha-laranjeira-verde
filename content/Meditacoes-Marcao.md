@@ -143,7 +143,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 4]({{< ref "/meditacoes/livro-3-teco-4" >}} 
 "Não gastes a parte restante da vida a cogitar nos outros") - Não gastes a parte restante da vida a cogitar nos outros
 
-:books: L3 - :book: [Teco 5]({{< ref "/post/2022-01-05-livro-3-teco-5" >}} 
+:books: L3 - :book: [Teco 5]({{< ref "/meditacoes/livro-3-teco-5" >}} 
 "Seja um príncipe que a si próprio tenha disciplinado") - Seja um príncipe que a si próprio tenha disciplinado
 
 :books: L3 - :book: [Teco 6]({{< ref "/post/2022-01-06-livro-3-teco-6" >}} 

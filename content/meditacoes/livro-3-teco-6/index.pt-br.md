@@ -31,3 +31,8 @@ De fato, não te é lícito, ao bem segundo a razão e os interesses do Estado, 
 Todos esses objetivos, embora pareçam, por algum tempo, quadrar a tua natureza, costumam assumir de repente o domínio e desencaminhar. 
 
 Tu, repito, **escolhe franca e livremente o mais valioso e apega-te a ele**. — Mas o mais valioso é o que dá proveito. — Se tiras proveito como ser racional, adota-o; se como ser animal, confessa-o e guarda modestamente o teu juízo; apenas, cuidado para não te enganares no exame.
+
+
+v1 06/jan/2022
+v2 02/nov/2023  
+

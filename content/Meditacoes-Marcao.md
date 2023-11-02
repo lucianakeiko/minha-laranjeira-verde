@@ -146,7 +146,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 5]({{< ref "/meditacoes/livro-3-teco-5" >}} 
 "Seja um príncipe que a si próprio tenha disciplinado") - Seja um príncipe que a si próprio tenha disciplinado
 
-:books: L3 - :book: [Teco 6]({{< ref "/post/2022-01-06-livro-3-teco-6" >}} 
+:books: L3 - :book: [Teco 6]({{< ref "/meditacoes/livro-3-teco-6" >}} 
 "Escolhe franca e livremente o mais valioso e apega-te a ele") - Escolhe franca e livremente o mais valioso e apega-te a ele
 
 :books: L3 - :book: [Teco 7]({{< ref "/post/livro-3-teco-7" >}} 

@@ -149,7 +149,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 6]({{< ref "/meditacoes/livro-3-teco-6" >}} 
 "Escolhe franca e livremente o mais valioso e apega-te a ele") - Escolhe franca e livremente o mais valioso e apega-te a ele
 
-:books: L3 - :book: [Teco 7]({{< ref "/post/livro-3-teco-7" >}} 
+:books: L3 - :book: [Teco 7]({{< ref "/meditacoes/livro-3-teco-7" >}} 
 "Seus Deus: sua própria inteligência") - Seus Deus: sua própria inteligência
 
 :books: L3 - :book: [Teco 8]({{< ref "/post/2022-01-10-livro-3-teco-8" >}} 

@@ -17,6 +17,10 @@ toc: true
 
 Na mente de quem se castigou e purificou, nada se pode encontrar de purulento, nada de sujo, nenhum mal velado por cicatriz. 
 
-O destino não lhe interrompe a vida em meio, como se diria de um ator que se retira sem terminar, sem representar até o fim o seu papel. 
+**O destino não lhe interrompe a vida em meio**, como se diria de um ator que se retira sem terminar, sem representar até o fim o seu papel. 
 
 Além disso, nenhum servilismo, nenhuma afetação, nenhum liame, nenhuma cisão, nem contas por prestar, nem tocas de refúgio.
+
+
+v1 10/jan/2023  
+v2 06/nov/2023  

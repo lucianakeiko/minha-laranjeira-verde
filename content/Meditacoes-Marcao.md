@@ -152,7 +152,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 7]({{< ref "/meditacoes/livro-3-teco-7" >}} 
 "Seus Deus: sua própria inteligência") - Seus Deus: sua própria inteligência
 
-:books: L3 - :book: [Teco 8]({{< ref "/post/2022-01-10-livro-3-teco-8" >}} 
+:books: L3 - :book: [Teco 8]({{< ref "/meditacoes/livro-3-teco-8" >}} 
 "O destino não lhe interrompe a vida em meio") - O destino não lhe interrompe a vida em meio
 
 :books: L3 - :book: [Teco 9]({{< ref "/post/2022-02-03-livro-3-teco-9" >}} 

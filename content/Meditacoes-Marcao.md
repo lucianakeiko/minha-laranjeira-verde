@@ -155,7 +155,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 8]({{< ref "/meditacoes/livro-3-teco-8" >}} 
 "O destino não lhe interrompe a vida em meio") - O destino não lhe interrompe a vida em meio
 
-:books: L3 - :book: [Teco 9]({{< ref "/post/2022-02-03-livro-3-teco-9" >}} 
+:books: L3 - :book: [Teco 9]({{< ref "/meditacoes/livro-3-teco-9" >}} 
 "Venera o poder de opinar") - Venera o poder de opinar
 
 :books: L3 - :book: [Teco 10]({{< ref "/post/2022-04-23-livro-3-teco-10" >}} 

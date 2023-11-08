@@ -158,7 +158,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 9]({{< ref "/meditacoes/livro-3-teco-9" >}} 
 "Venera o poder de opinar") - Venera o poder de opinar
 
-:books: L3 - :book: [Teco 10]({{< ref "/post/2022-04-23-livro-3-teco-10" >}} 
+:books: L3 - :book: [Teco 10]({{< ref "/meditacoes/livro-3-teco-10" >}} 
 "nem a si próprios conhecem, quanto menos a alguém falecido há muito") - nem a si próprios conhecem, quanto menos a alguém falecido há muito
 
 :books: L3 - :book: [Teco 11]({{< ref "/post/2022-04-24-livro-3-teco-11" >}} 

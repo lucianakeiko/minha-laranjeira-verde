@@ -161,7 +161,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 10]({{< ref "/meditacoes/livro-3-teco-10" >}} 
 "nem a si próprios conhecem, quanto menos a alguém falecido há muito") - nem a si próprios conhecem, quanto menos a alguém falecido há muito
 
-:books: L3 - :book: [Teco 11]({{< ref "/post/2022-04-24-livro-3-teco-11" >}} 
+:books: L3 - :book: [Teco 11]({{< ref "/meditacoes/livro-3-teco-11" >}} 
 "inquirir, com método e veracidade") - inquirir, com método e veracidade
 
 :books: L3 - :book: [Teco 12]({{< ref "/post/2022-04-25-livro-3-teco-12" >}} 

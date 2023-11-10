@@ -164,7 +164,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 11]({{< ref "/meditacoes/livro-3-teco-11" >}} 
 "inquirir, com método e veracidade") - inquirir, com método e veracidade
 
-:books: L3 - :book: [Teco 12]({{< ref "/post/2022-04-25-livro-3-teco-12" >}} 
+:books: L3 - :book: [Teco 12]({{< ref "/meditacoes/livro-3-teco-12" >}} 
 "Nada esperar nem evitar") - Nada esperar nem evitar
 
 :books: L3 - :book: [Teco 13]({{< ref "/post/2022-04-26-livro-3-teco-13" >}} 

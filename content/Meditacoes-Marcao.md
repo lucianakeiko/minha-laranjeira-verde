@@ -167,7 +167,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 12]({{< ref "/meditacoes/livro-3-teco-12" >}} 
 "Nada esperar nem evitar") - Nada esperar nem evitar
 
-:books: L3 - :book: [Teco 13]({{< ref "/post/2022-04-26-livro-3-teco-13" >}} 
+:books: L3 - :book: [Teco 13]({{< ref "/meditacoes/livro-3-teco-13" >}} 
 "Relação simultânea com o divino") - Relação simultânea com o divino
 
 :books: L3 - :book: [Teco 14]({{< ref "/post/2022-04-27-livro-3-teco-14" >}} 

@@ -170,7 +170,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 13]({{< ref "/meditacoes/livro-3-teco-13" >}} 
 "Relação simultânea com o divino") - Relação simultânea com o divino
 
-:books: L3 - :book: [Teco 14]({{< ref "/post/2022-04-27-livro-3-teco-14" >}} 
+:books: L3 - :book: [Teco 14]({{< ref "/meditacoes/livro-3-teco-14" >}} 
 "Não divagueis mais") - Não divagueis mais
 
 :books: L3 - :book: [Teco 15]({{< ref "/post/2022-04-28-livro-3-teco-15" >}} 

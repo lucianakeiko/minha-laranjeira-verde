@@ -173,7 +173,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 14]({{< ref "/meditacoes/livro-3-teco-14" >}} 
 "Não divagueis mais") - Não divagueis mais
 
-:books: L3 - :book: [Teco 15]({{< ref "/post/2022-04-28-livro-3-teco-15" >}} 
+:books: L3 - :book: [Teco 15]({{< ref "/meditacoes/livro-3-teco-15" >}} 
 "Ver o que deve ser feito") - Ver o que deve ser feito
 
 :books: L3 - :book: [Teco 16]({{< ref "/post/2022-04-29-livro-3-teco-16" >}} 

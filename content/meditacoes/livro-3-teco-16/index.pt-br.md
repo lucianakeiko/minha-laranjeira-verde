@@ -24,3 +24,8 @@ Receber impressões na imaginação pertence também aos brutos; ser titereado p
 Se, pois, tudo mais temos em comum com os seres sobreditos, ao bom resta a prerrogativa de **amar e de bem acolher os eventos urdidos na trama do destino**; não envolver nem perturbar na multidão de ideias o **deus alojado dentro do peito**, mas preservá-lo propício, na obediência disciplinada à divindade, **sem proferir palavra contrária à verdade, sem praticar ato contrário à justiça**. 
 
 Mesmo **se toda a Humanidade duvidar** que ele viva com singeleza, modéstia e bons sentimentos, com ninguém se zangará, nem se desviará da estrada que leva ao termo da vida, aonde cumpre chegar puro, sereno, solto, ajustado, sem constrangimento, ao seu destino.
+
+
+v1 29/04/2022  
+v2 16/11/2023  
+

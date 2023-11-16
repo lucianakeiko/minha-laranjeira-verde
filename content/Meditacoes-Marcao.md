@@ -176,7 +176,7 @@ Editora: Nova Acropole
 :books: L3 - :book: [Teco 15]({{< ref "/meditacoes/livro-3-teco-15" >}} 
 "Ver o que deve ser feito") - Ver o que deve ser feito
 
-:books: L3 - :book: [Teco 16]({{< ref "/post/2022-04-29-livro-3-teco-16" >}} 
+:books: L3 - :book: [Teco 16]({{< ref "/meditacoes/livro-3-teco-16" >}} 
 "Corpo, alma, mente.") - Corpo, alma, mente.
 
 ### :books: LIVRO 4  ( Tecos 1 a 51 )

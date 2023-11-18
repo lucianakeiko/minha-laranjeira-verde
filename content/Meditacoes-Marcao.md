@@ -184,7 +184,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 1]({{< ref "/meditacoes/livro-4-teco-1" >}} 
 "Modificar sem esforço o que se lhe oferece") - Modificar sem esforço o que se lhe oferece.
 
-:books: L4 - :book: [Teco 2]({{< ref "/post/2022-05-03-livro-4-teco-2" >}} 
+:books: L4 - :book: [Teco 2]({{< ref "/meditacoes/livro-4-teco-2" >}} 
 "Nada executes ao acaso") - Nada executes ao acaso
 
 :books: L4 - :book: [Teco 3]({{< ref "/post/2022-05-04-livro-4-teco-3" >}} 

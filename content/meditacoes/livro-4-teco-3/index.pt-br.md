@@ -34,3 +34,9 @@ E ali quantos são e quem são os que te hão de louvar? Por fim, lembra-te de t
 Entre as noções mais à mão, sobre as quais te inclinarás, estejam estas duas: primeira, que as coisas não atingem a alma; param fora, quietas, e **os embaraços vêm exclusivamente dos pensamentos de dentro**; segunda, que tudo quanto estás vendo se transformará dentro de instantes e deixará de existir. Pensa constantemente em quantas transformações tu mesmo presenciaste. 
 
 **O mundo é mudança; a vida, opinião.**
+
+V1 04/MAIO/2022  
+V2 19/NOV/2023  
+
+
+

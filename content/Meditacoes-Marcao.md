@@ -187,7 +187,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 2]({{< ref "/meditacoes/livro-4-teco-2" >}} 
 "Nada executes ao acaso") - Nada executes ao acaso
 
-:books: L4 - :book: [Teco 3]({{< ref "/post/2022-05-04-livro-4-teco-3" >}} 
+:books: L4 - :book: [Teco 3]({{< ref "/meditacoes/livro-4-teco-3" >}} 
 "Conforto: Completa ordem") - Conforto: Completa ordem
 
 :books: L4 - :book: [Teco 4]({{< ref "/post/2022-05-05-livro-4-teco-4" >}} 

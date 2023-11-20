@@ -190,7 +190,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 3]({{< ref "/meditacoes/livro-4-teco-3" >}} 
 "Conforto: Completa ordem") - Conforto: Completa ordem
 
-:books: L4 - :book: [Teco 4]({{< ref "/post/2022-05-05-livro-4-teco-4" >}} 
+:books: L4 - :book: [Teco 4]({{< ref "/meditacoes/livro-4-teco-4" >}} 
 "O mundo é como uma cidade") - O mundo é como uma cidade
 
 :books: L4 - :book: [Teco 5]({{< ref "/post/2022-05-06-livro-4-teco-5" >}} 

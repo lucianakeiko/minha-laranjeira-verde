@@ -20,3 +20,7 @@ Se a inteligência nos é comum, também é comum **a razão**, em virtude da qu
 Com efeito, de que outro **organismo político** se dirá que todo o gênero humano participa? Daí, dessa cidade comum, deriva nossa mesma inteligência, nossa razão, nossa lei. 
 
 Senão, de onde? Assim como de alguma terra foi tirado o que há de terreno em mim, de outro elemento o líquido, de alguma fonte o alento e de alguma fonte especial o quente e o ígneo — pois nada procede do nada e tampouco para o nada se vai —, assim também **de algum lugar veio a inteligência**.
+
+
+v1 05/05/2022  
+v2 20/11/2023  

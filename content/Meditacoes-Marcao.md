@@ -193,7 +193,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 4]({{< ref "/meditacoes/livro-4-teco-4" >}} 
 "O mundo é como uma cidade") - O mundo é como uma cidade
 
-:books: L4 - :book: [Teco 5]({{< ref "/post/2022-05-06-livro-4-teco-5" >}} 
+:books: L4 - :book: [Teco 5]({{< ref "/meditacoes/livro-4-teco-5" >}} 
 "A morte é um mistério da natureza") - A morte é um mistério da natureza
 
 :books: L4 - :book: [Teco 6]({{< ref "/post/2022-05-07-livro-4-teco-6" >}} 

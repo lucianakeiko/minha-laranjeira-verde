@@ -196,7 +196,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 5]({{< ref "/meditacoes/livro-4-teco-5" >}} 
 "A morte é um mistério da natureza") - A morte é um mistério da natureza
 
-:books: L4 - :book: [Teco 6]({{< ref "/post/2022-05-07-livro-4-teco-6" >}} 
+:books: L4 - :book: [Teco 6]({{< ref "/meditacoes/livro-4-teco-6" >}} 
 "Dentro de brevíssimo tempo estareis mortos") - Dentro de brevíssimo tempo estareis mortos
 
 :books: L4 - :book: [Teco 7]({{< ref "/post/2022-05-08-livro-4-teco-7" >}} 

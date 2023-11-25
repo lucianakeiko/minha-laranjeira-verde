@@ -199,7 +199,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 6]({{< ref "/meditacoes/livro-4-teco-6" >}} 
 "Dentro de brevíssimo tempo estareis mortos") - Dentro de brevíssimo tempo estareis mortos
 
-:books: L4 - :book: [Teco 7]({{< ref "/post/2022-05-08-livro-4-teco-7" >}} 
+:books: L4 - :book: [Teco 7]({{< ref "/meditacoes/livro-4-teco-7" >}} 
 "Suprime o lesaram-me") - Suprime o lesaram-me
 
 :books: L4 - :book: [Teco 8]({{< ref "/post/2022-05-09-livro-4-teco-8" >}} 

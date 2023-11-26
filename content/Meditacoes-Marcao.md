@@ -202,7 +202,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 7]({{< ref "/meditacoes/livro-4-teco-7" >}} 
 "Suprime o lesaram-me") - Suprime o lesaram-me
 
-:books: L4 - :book: [Teco 8]({{< ref "/post/2022-05-09-livro-4-teco-8" >}} 
+:books: L4 - :book: [Teco 8]({{< ref "/meditacoes/livro-4-teco-8" >}} 
 "Aquilo que não piora o homem não lhe causa dano") - Aquilo que não piora o homem não lhe causa dano
 
 :books: L4 - :book: [Teco 9]({{< ref "/post/2022-05-10-livro-4-teco-9" >}} 

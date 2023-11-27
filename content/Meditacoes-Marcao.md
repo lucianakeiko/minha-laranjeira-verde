@@ -205,7 +205,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 8]({{< ref "/meditacoes/livro-4-teco-8" >}} 
 "Aquilo que não piora o homem não lhe causa dano") - Aquilo que não piora o homem não lhe causa dano
 
-:books: L4 - :book: [Teco 9]({{< ref "/post/2022-05-10-livro-4-teco-9" >}} 
+:books: L4 - :book: [Teco 9]({{< ref "/meditacoes/livro-4-teco-9" >}} 
 "A natureza do útil") - A natureza do útil
 
 :books: L4 - :book: [Teco 10]({{< ref "/post/2022-05-11-livro-4-teco-10" >}} 

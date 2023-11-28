@@ -208,7 +208,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 9]({{< ref "/meditacoes/livro-4-teco-9" >}} 
 "A natureza do útil") - A natureza do útil
 
-:books: L4 - :book: [Teco 10]({{< ref "/post/2022-05-11-livro-4-teco-10" >}} 
+:books: L4 - :book: [Teco 10]({{< ref "/meditacoes/livro-4-teco-10" >}} 
 "Todo acontecimento tem sua razão de ser") - Todo acontecimento tem sua razão de ser
 
 :books: L4 - :book: [Teco 11]({{< ref "/post/2022-05-12-livro-4-teco-11" >}} 

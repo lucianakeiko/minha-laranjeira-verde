@@ -211,7 +211,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 10]({{< ref "/meditacoes/livro-4-teco-10" >}} 
 "Todo acontecimento tem sua razão de ser") - Todo acontecimento tem sua razão de ser
 
-:books: L4 - :book: [Teco 11]({{< ref "/post/2022-05-12-livro-4-teco-11" >}} 
+:books: L4 - :book: [Teco 11]({{< ref "/meditacoes/livro-4-teco-11" >}} 
 "Não sejam tuas opiniões aquelas que o insolente adota") - Não sejam tuas opiniões aquelas que o insolente adota
 
 :books: L4 - :book: [Teco 12]({{< ref "/post/2022-05-13-livro-4-teco-12" >}} 

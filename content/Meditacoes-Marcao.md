@@ -217,7 +217,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 12]({{< ref "/meditacoes/livro-4-teco-12" >}} 
 "Duas decisões") - Duas decisões
 
-:books: L4 - :book: [Teco 13]({{< ref "/post/2022-05-14-livro-4-teco-13" >}} 
+:books: L4 - :book: [Teco 13]({{< ref "/meditacoes/2022-05-14-livro-4-teco-13" >}} 
 "És dotado de razão?") - És dotado de razão?
 
 :books: L4 - :book: [Teco 14]({{< ref "/post/2022-05-15-livro-4-teco-14" >}} 

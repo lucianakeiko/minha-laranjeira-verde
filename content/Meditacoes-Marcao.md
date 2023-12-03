@@ -220,7 +220,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 13]({{< ref "/meditacoes/2022-05-14-livro-4-teco-13" >}} 
 "És dotado de razão?") - És dotado de razão?
 
-:books: L4 - :book: [Teco 14]({{< ref "/post/2022-05-15-livro-4-teco-14" >}} 
+:books: L4 - :book: [Teco 14]({{< ref "/meditacoes/livro-4-teco-14" >}} 
 "Desaparecerás no elemento que te gerou") - Desaparecerás no elemento que te gerou
 
 :books: L4 - :book: [Teco 15]({{< ref "/post/2022-05-16-livro-4-teco-15" >}} 

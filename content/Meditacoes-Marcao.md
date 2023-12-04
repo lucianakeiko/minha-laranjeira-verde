@@ -223,7 +223,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 14]({{< ref "/meditacoes/livro-4-teco-14" >}} 
 "Desaparecerás no elemento que te gerou") - Desaparecerás no elemento que te gerou
 
-:books: L4 - :book: [Teco 15]({{< ref "/post/2022-05-16-livro-4-teco-15" >}} 
+:books: L4 - :book: [Teco 15]({{< ref "/meditacoes/livro-4-teco-15" >}} 
 "Muitos grãos de incenso caem no mesmo altar") - Muitos grãos de incenso caem no mesmo altar
 
 :books: L4 - :book: [Teco 16]({{< ref "/post/2022-05-17-livro-4-teco-16" >}} 

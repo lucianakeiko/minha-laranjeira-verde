@@ -226,7 +226,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 15]({{< ref "/meditacoes/livro-4-teco-15" >}} 
 "Muitos grãos de incenso caem no mesmo altar") - Muitos grãos de incenso caem no mesmo altar
 
-:books: L4 - :book: [Teco 16]({{< ref "/post/2022-05-17-livro-4-teco-16" >}} 
+:books: L4 - :book: [Teco 16]({{< ref "/meditacoes/livro-4-teco-16" >}} 
 "Parecerás um deus") - Parecerás um deus
 
 :books: L4 - :book: [Teco 17]({{< ref "/post/2022-05-18-livro-4-teco-17" >}} 

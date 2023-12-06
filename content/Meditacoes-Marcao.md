@@ -217,7 +217,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 12]({{< ref "/meditacoes/livro-4-teco-12" >}} 
 "Duas decisões") - Duas decisões
 
-:books: L4 - :book: [Teco 13]({{< ref "/meditacoes/2022-05-14-livro-4-teco-13" >}} 
+:books: L4 - :book: [Teco 13]({{< ref "/meditacoes/livro-4-teco-13" >}} 
 "És dotado de razão?") - És dotado de razão?
 
 :books: L4 - :book: [Teco 14]({{< ref "/meditacoes/livro-4-teco-14" >}} 
@@ -229,7 +229,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 16]({{< ref "/meditacoes/livro-4-teco-16" >}} 
 "Parecerás um deus") - Parecerás um deus
 
-:books: L4 - :book: [Teco 17]({{< ref "/post/2022-05-18-livro-4-teco-17" >}} 
+:books: L4 - :book: [Teco 17]({{< ref "/meditacoes/livro-4-teco-17" >}} 
 "O fim inevitável pende sobre ti") - O fim inevitável pende sobre ti
 
 :books: L4 - :book: [Teco 18]({{< ref "/post/2022-05-19-livro-4-teco-18" >}} 

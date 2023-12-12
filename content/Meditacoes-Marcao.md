@@ -232,7 +232,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 17]({{< ref "/meditacoes/livro-4-teco-17" >}} 
 "O fim inevitável pende sobre ti") - O fim inevitável pende sobre ti
 
-:books: L4 - :book: [Teco 18]({{< ref "/post/2022-05-19-livro-4-teco-18" >}} 
+:books: L4 - :book: [Teco 18]({{< ref "/meditacoes/livro-4-teco-18" >}} 
 "Corre para a baliza em linha reta") - Corre para a baliza em linha reta
 
 :books: L4 - :book: [Teco 19]({{< ref "/post/2022-05-20-livro-4-teco-19" >}} 

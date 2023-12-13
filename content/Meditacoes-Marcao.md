@@ -235,7 +235,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 18]({{< ref "/meditacoes/livro-4-teco-18" >}} 
 "Corre para a baliza em linha reta") - Corre para a baliza em linha reta
 
-:books: L4 - :book: [Teco 19]({{< ref "/post/2022-05-20-livro-4-teco-19" >}} 
+:books: L4 - :book: [Teco 19]({{< ref "/meditacoes/livro-4-teco-19" >}} 
 "De que te serve o louvor?") - De que te serve o louvor?
 
 :books: L4 - :book: [Teco 20]({{< ref "/post/2022-05-21-livro-4-teco-20" >}} 

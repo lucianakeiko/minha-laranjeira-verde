@@ -238,7 +238,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 19]({{< ref "/meditacoes/livro-4-teco-19" >}} 
 "De que te serve o louvor?") - De que te serve o louvor?
 
-:books: L4 - :book: [Teco 20]({{< ref "/post/2022-05-21-livro-4-teco-20" >}} 
+:books: L4 - :book: [Teco 20]({{< ref "/meditacoes/livro-4-teco-20" >}} 
 "O que louvamos não piora nem melhora com isso") - O que louvamos não piora nem melhora com isso
 
 :books: L4 - :book: [Teco 21]({{< ref "/post/2022-05-22-livro-4-teco-21" >}} 

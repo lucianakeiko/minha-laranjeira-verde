@@ -241,10 +241,10 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 20]({{< ref "/meditacoes/livro-4-teco-20" >}} 
 "O que louvamos não piora nem melhora com isso") - O que louvamos não piora nem melhora com isso
 
-:books: L4 - :book: [Teco 21]({{< ref "/post/2022-05-22-livro-4-teco-21" >}} 
+:books: L4 - :book: [Teco 21]({{< ref "/meditacoes/livro-4-teco-21" >}} 
 "Qual o meio de investigar aí a verdade?") - Qual o meio de investigar aí a verdade?
 
-:books: L4 - :book: [Teco 22]({{< ref "/post/2022-05-23-livro-4-teco-22" >}} 
+:books: L4 - :book: [Teco 22]({{< ref "/meditacoes/livro-4-teco-22" >}} 
 "Não te atordoes") - Não te atordoes
 
 :books: L4 - :book: [Teco 23]({{< ref "/post/2022-05-24-livro-4-teco-23" >}} 

@@ -247,7 +247,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 22]({{< ref "/meditacoes/livro-4-teco-22" >}} 
 "Não te atordoes") - Não te atordoes
 
-:books: L4 - :book: [Teco 23]({{< ref "/post/2022-05-24-livro-4-teco-23" >}} 
+:books: L4 - :book: [Teco 23]({{< ref "/meditacoes/livro-4-teco-23" >}} 
 "Adapto-me a tudo que contigo se harmoniza, ó mundo") - Adapto-me a tudo que contigo se harmoniza, ó mundo
 
 :books: L4 - :book: [Teco 24]({{< ref "/post/2022-05-25-livro-4-teco-24" >}} 

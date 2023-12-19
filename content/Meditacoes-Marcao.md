@@ -250,7 +250,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 23]({{< ref "/meditacoes/livro-4-teco-23" >}} 
 "Adapto-me a tudo que contigo se harmoniza, ó mundo") - Adapto-me a tudo que contigo se harmoniza, ó mundo
 
-:books: L4 - :book: [Teco 24]({{< ref "/post/2022-05-25-livro-4-teco-24" >}} 
+:books: L4 - :book: [Teco 24]({{< ref "/meditacoes/livro-4-teco-24" >}} 
 "Devemos eliminar não só os atos mas também os pensamentos desnecessários") - Devemos eliminar não só os atos mas também os pensamentos desnecessários
 
 :books: L4 - :book: [Teco 25]({{< ref "/post/2022-05-26-livro-4-teco-25" >}} 

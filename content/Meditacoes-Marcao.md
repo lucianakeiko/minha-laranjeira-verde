@@ -253,7 +253,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 24]({{< ref "/meditacoes/livro-4-teco-24" >}} 
 "Devemos eliminar não só os atos mas também os pensamentos desnecessários") - Devemos eliminar não só os atos mas também os pensamentos desnecessários
 
-:books: L4 - :book: [Teco 25]({{< ref "/post/2022-05-26-livro-4-teco-25" >}} 
+:books: L4 - :book: [Teco 25]({{< ref "/meditacoes/livro-4-teco-25" >}} 
 "Ser justo nas ações e benévolo nos sentimentos") - Ser justo nas ações e benévolo nos sentimentos
 
 :books: L4 - :book: [Teco 26]({{< ref "/post/2022-05-27-livro-4-teco-26" >}} 

@@ -256,7 +256,7 @@ Editora: Nova Acropole
 :books: L4 - :book: [Teco 25]({{< ref "/meditacoes/livro-4-teco-25" >}} 
 "Ser justo nas ações e benévolo nos sentimentos") - Ser justo nas ações e benévolo nos sentimentos
 
-:books: L4 - :book: [Teco 26]({{< ref "/post/2022-05-27-livro-4-teco-26" >}} 
+:books: L4 - :book: [Teco 26]({{< ref "/meditacoes/livro-4-teco-26" >}} 
 "É mister desfrutar o presente com prudência e justiça") - É mister desfrutar o presente com prudência e justiça
 
 :books: L4 - :book: [Teco 27]({{< ref "/post/2022-05-28-livro-4-teco-27" >}} 
